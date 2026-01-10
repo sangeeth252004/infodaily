@@ -43,18 +43,25 @@ git push -u origin main
 
 ### Step 5: Deploy to Vercel
 
+**Important:** For Next.js static export (`output: 'export'`), configure Vercel as follows:
+
 1. Go to [vercel.com](https://vercel.com)
 2. Click **"Import Project"**
 3. Select your GitHub repository
-4. Configure:
-   - **Framework Preset**: Next.js
+4. Configure (CRITICAL for static export):
+   - **Framework Preset**: **Other** (NOT Next.js - this is important!)
    - **Root Directory**: `./` (default)
-   - **Build Command**: `npm run build` (default)
-   - **Output Directory**: `out` (default)
+   - **Build Command**: `npm run build`
+   - **Output Directory**: `out` (this is where Next.js exports static files)
 5. Add Environment Variable:
    - Name: `NEXT_PUBLIC_BASE_URL`
    - Value: `https://yourdomain.vercel.app` (or your custom domain)
 6. Click **Deploy**
+
+**Why "Other" instead of "Next.js"?**
+- When using `output: 'export'`, Next.js generates a pure static site in the `out/` directory
+- Vercel's "Next.js" preset expects server-side features (which we don't have)
+- "Other" preset treats it as a static site, which is what we want
 
 ### Step 6: Verify Automation
 

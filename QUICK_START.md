@@ -36,8 +36,13 @@ git push -u origin main
 ### 3. Deploy to Vercel
 - Visit [vercel.com](https://vercel.com)
 - Import your GitHub repo
+- **IMPORTANT**: Set Framework Preset to **"Other"** (NOT "Next.js")
+- Set Output Directory to: `out`
+- Set Build Command to: `npm run build`
 - Add env var: `NEXT_PUBLIC_BASE_URL` = your domain
 - Deploy!
+
+**Why "Other"?** We use static export (`output: 'export'`), so it's a static site, not a Next.js server app. See [VERCEL_DEPLOYMENT.md](./VERCEL_DEPLOYMENT.md) for details.
 
 ## That's It! 🎉
 

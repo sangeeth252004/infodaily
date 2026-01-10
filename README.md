@@ -70,9 +70,22 @@ The build process automatically generates the sitemap.
 
 ### Deploy to Vercel
 
-1. Connect your GitHub repository to Vercel
-2. Vercel will automatically deploy on every push to `main`
-3. When GitHub Actions commits new posts, Vercel auto-deploys
+**⚠️ CRITICAL CONFIGURATION**: For Next.js static export, you MUST configure Vercel as follows:
+
+1. Import your GitHub repository to Vercel
+2. **Framework Preset**: Select **"Other"** (NOT "Next.js")
+3. **Output Directory**: Set to `out`
+4. **Build Command**: `npm run build`
+5. Add Environment Variable: `NEXT_PUBLIC_BASE_URL` = your domain
+6. Deploy
+
+**Why "Other"?** With `output: 'export'`, Next.js generates a static site. The "Next.js" preset expects server features we don't have.
+
+📖 **Detailed guide**: See [VERCEL_DEPLOYMENT.md](./VERCEL_DEPLOYMENT.md)
+
+Once configured:
+- ✅ Vercel automatically deploys on every push to `main`
+- ✅ GitHub Actions commits new posts → Vercel auto-deploys
 
 ### Configure Domain (Optional)
 
