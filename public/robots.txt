@@ -1,0 +1,28 @@
+# robots.txt for InfoDaily Blog
+# AdSense and SEO optimized
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+# Sitemap location (update with your actual domain)
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl delay (optional, helps with server load)
+Crawl-delay: 1
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Allow Google AdSense crawler
+User-agent: Mediapartners-Google
+Allow: /
+
