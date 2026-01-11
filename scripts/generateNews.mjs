@@ -6,7 +6,9 @@
 import fs from "fs";
 import path from "path";
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { detectTrends } from "./detectTrends.mjs";
+// Ensure this file exists, or the script will fail. 
+// If you don't have it, I can provide a mock version.
+import { detectTrends } from "./detectTrends.mjs"; 
 
 const POSTS_DIR = path.join(process.cwd(), "posts");
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
@@ -27,12 +29,12 @@ const NEWS_CATEGORIES = {
   internet: "Internet Trends"
 };
 
-// Model fallback list
+// ✅ UPDATED: Matches your specific API permissions (2.5 & 2.0 only)
 const MODEL_NAMES = [
-  "gemini-2.0-flash",
-  "gemini-2.0-flash-lite",
-  "gemini-2.0-pro",
-  "gemini-1.5-flash-latest"
+  "gemini-2.5-flash",      // Try the newest first
+  "gemini-2.0-flash",      // Standard stable
+  "gemini-2.0-flash-lite", // Fast backup
+  "gemini-2.0-pro"         // High reasoning backup
 ];
 
 function slugify(text) {
@@ -42,7 +44,7 @@ function slugify(text) {
 /**
  * Map trending topic to news category
  */
-function mapToNewsCategory(topic, source) {
+function mapToNewsCategory(topic) {
   const title = topic.title.toLowerCase();
   
   if (title.includes("ai") || title.includes("artificial intelligence") || 
@@ -70,19 +72,13 @@ function mapToNewsCategory(topic, source) {
  */
 function qualifyTrend(topic) {
   // Must be recent (within last 24 hours)
-  if (topic.hoursAgo > 24) {
-    return false;
-  }
+  if (topic.hoursAgo > 24) return false;
 
   // Must have meaningful engagement or be from official source
-  if (topic.type === 'reddit' && (!topic.engagement || topic.engagement < 10)) {
-    return false;
-  }
+  if (topic.type === 'reddit' && (!topic.engagement || topic.engagement < 10)) return false;
 
   // Skip if title is too short or too long
-  if (topic.title.length < 20 || topic.title.length > 200) {
-    return false;
-  }
+  if (topic.title.length < 20 || topic.title.length > 200) return false;
 
   // Skip generic/clickbait patterns
   const skipPatterns = [
@@ -93,9 +89,7 @@ function qualifyTrend(topic) {
   ];
 
   for (const pattern of skipPatterns) {
-    if (pattern.test(topic.title)) {
-      return false;
-    }
+    if (pattern.test(topic.title)) return false;
   }
 
   return true;
@@ -112,7 +106,6 @@ async function generateNewsArticle(topic) {
     console.log(`📰 Generating news article: ${topic.title.substring(0, 60)}...`);
     console.log(`📂 Category: ${categoryLabel}`);
 
-    // Create news-style prompt
     const prompt = `You are a professional news journalist writing a factual news article about a trending technology topic.
 
 WRITING STYLE:
@@ -167,6 +160,7 @@ CONTENT:`;
         console.log(`✅ Generated with ${modelName}`);
         break;
       } catch (error) {
+        // Clean error message for console
         console.warn(`⚠️ Failed with ${modelName}: ${error.message.split(' ')[0]}...`);
       }
     }
@@ -185,27 +179,22 @@ CONTENT:`;
       throw new Error("Invalid AI output format");
     }
 
-    // Generate filename
     const slug = slugify(title);
     const now = new Date();
     const dateStr = now.toISOString().split('T')[0];
     
-    // Use timestamp to avoid duplicates if multiple posts same day
     const fileName = `${dateStr}-${slug}.md`;
     const filePath = path.join(POSTS_DIR, fileName);
 
-    // Check for duplicates
     if (fs.existsSync(filePath)) {
       console.log(`⚠️ Duplicate post skipped: ${fileName}`);
       return null;
     }
 
-    // Ensure posts directory exists
     if (!fs.existsSync(POSTS_DIR)) {
       fs.mkdirSync(POSTS_DIR, { recursive: true });
     }
 
-    // Write markdown file
     const markdown = `---
 title: "${title.replace(/"/g, '\\"')}"
 date: "${now.toISOString()}"
@@ -240,16 +229,19 @@ async function generateNews() {
   try {
     console.log("🚀 Starting news generation process...\n");
 
-    // Detect trends
+    // Check if detectTrends is actually imported/available
+    if (typeof detectTrends !== 'function') {
+      throw new Error("detectTrends function is missing. Ensure detectTrends.mjs exists.");
+    }
+
     const trends = await detectTrends();
 
-    if (trends.length === 0) {
+    if (!trends || trends.length === 0) {
       console.log("ℹ️ No trending topics found. Skipping generation.");
       return;
     }
 
-    // Filter and qualify trends
-    const qualified = trends.filter(qualifyTrend).slice(0, 2); // Max 2 per run
+    const qualified = trends.filter(qualifyTrend).slice(0, 2);
 
     if (qualified.length === 0) {
       console.log("ℹ️ No qualified trending topics. Skipping generation.");
@@ -258,14 +250,12 @@ async function generateNews() {
 
     console.log(`\n📝 Generating ${qualified.length} news article(s)...\n`);
 
-    // Generate articles
     const generated = [];
     for (const trend of qualified) {
       const article = await generateNewsArticle(trend);
       if (article) {
         generated.push(article);
       }
-      // Small delay between generations
       await new Promise(resolve => setTimeout(resolve, 2000));
     }
 
