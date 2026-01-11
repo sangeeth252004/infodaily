@@ -98,7 +98,13 @@ CONTENT:
           console.log(`✅ Successfully connected to ${model}`);
           break;
         } else {
-          const errorData = await res.json().catch(() => ({ error: { message: await res.text() } }));
+          let errorData;
+          try {
+            errorData = await res.json();
+          } catch (parseError) {
+            const errorText = await res.text();
+            errorData = { error: { message: errorText } };
+          }
           lastError = errorData;
           console.log(`⚠️ Model ${model} failed: ${res.status}`);
           if (model !== MODEL_NAMES[MODEL_NAMES.length - 1]) {
