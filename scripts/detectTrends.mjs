@@ -252,6 +252,3 @@ if (import.meta.url === `file://${process.argv[1]}` || process.argv[1]?.endsWith
   }).catch(console.error);
 }
 
-// Export for use in other modules
-export { detectTrends };
-
