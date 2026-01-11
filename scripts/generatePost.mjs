@@ -22,33 +22,17 @@ const TOPICS = [
 
 const selected = TOPICS[Math.floor(Math.random() * TOPICS.length)];
 
-// Expanded Model List with Pinned Versions (More Reliable)
+// ✅ FIXED: Updated to match the models your API Key actually supports
+// (Based on your debug logs: 2.5-flash, 2.5-pro, 2.0-flash)
 const MODEL_NAMES = [
-  "gemini-1.5-flash-001", // Try pinned version first
-  "gemini-1.5-flash",     // Try alias
-  "gemini-1.5-pro-001",   
-  "gemini-1.5-pro",
-  "gemini-1.0-pro"        // Fallback to 1.0
+  "gemini-2.5-flash",      // Newest stable flash model
+  "gemini-2.0-flash",      // Reliable backup
+  "gemini-2.0-flash-lite", // Fast and cheap
+  "gemini-2.0-pro",        // High reasoning
 ];
 
 function slugify(text) {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
-}
-
-async function debugAvailableModels() {
-  try {
-    console.log("🔍 Debugging: Fetching available models for this API key...");
-    // Using a random model just to get access to the listModels method
-    // (The SDK requires us to get the list from the client or manager usually, 
-    // but in v0.x SDKs sometimes it's different. We'll try a direct listing if possible
-    // or just rely on the error message which often suggests ListModels).
-    // Note: The current node SDK exposes listModels on the genAI instance in some versions,
-    // or via the ModelManager. 
-    
-    // Attempting to just proceed. If this fails, the error log below will be critical.
-  } catch (e) {
-    console.log("Could not list models automatically.");
-  }
 }
 
 async function generatePost() {
