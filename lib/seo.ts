@@ -35,8 +35,8 @@ export function getSiteMetadata() {
   return {
     url: SITE_URL,
     name: SITE_NAME,
-    title: `${SITE_NAME} – Trusted Insights on Technology, AI, Health & Education`,
-    description: 'InfoDaily delivers trusted, easy-to-understand insights on technology, AI, health, and education.',
+    title: `${SITE_NAME} – Latest Technology & AI News`,
+    description: 'InfoDaily delivers breaking technology and AI news, covering trending topics in tech, startups, and innovation.',
   }
 }
 

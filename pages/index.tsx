@@ -33,7 +33,7 @@ export default function Home({ posts }: HomeProps) {
         <title>{siteMeta.title}</title>
         <meta name="title" content={siteMeta.title} />
         <meta name="description" content={siteMeta.description} />
-        <meta name="keywords" content="technology, AI, health, education, blog, insights, articles" />
+        <meta name="keywords" content="technology news, AI news, breaking tech, startup news, latest technology, trending tech" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="canonical" href={canonicalUrl} />
 
@@ -60,33 +60,51 @@ export default function Home({ posts }: HomeProps) {
         <header className="header">
           <div className="hero-section">
             <h1 className="title">InfoDaily</h1>
-            <p className="subtitle">Trusted insights on Technology, AI, Health & Education</p>
+            <p className="subtitle">Latest Technology & AI News</p>
           </div>
         </header>
 
         <main className="main">
+          <h2 className="section-title">Latest News</h2>
           <div className="posts-grid">
-            {posts.map((post) => (
-              <article key={post.slug} className="post-card">
-                <Link href={`/posts/${post.slug}`} className="post-card-link">
-                  <div className="post-card-content">
-                    <span className="post-category">{post.category}</span>
-                    <h2 className="post-title">{cleanTitle(post.title)}</h2>
-                    <p className="post-description">{post.description}</p>
-                    <div className="post-meta">
-                      <time dateTime={post.date}>
-                        {format(new Date(post.date), 'MMMM dd, yyyy')}
-                      </time>
-                    </div>
-                  </div>
-                </Link>
-              </article>
-            ))}
+            {posts
+              .filter(post => {
+                // Show posts from last 24 hours as "Latest News"
+                const postDate = new Date(post.date);
+                const hoursAgo = (Date.now() - postDate.getTime()) / (1000 * 60 * 60);
+                return hoursAgo <= 24;
+              })
+              .slice(0, 20) // Show top 20 recent posts
+              .map((post) => {
+                const postDate = new Date(post.date);
+                const hoursAgo = Math.floor((Date.now() - postDate.getTime()) / (1000 * 60 * 60));
+                const isRecent = hoursAgo < 24;
+                const timeDisplay = isRecent 
+                  ? `${hoursAgo} hour${hoursAgo !== 1 ? 's' : ''} ago`
+                  : format(postDate, 'MMM dd, yyyy');
+
+                return (
+                  <article key={post.slug} className="post-card">
+                    <Link href={`/posts/${post.slug}`} className="post-card-link">
+                      <div className="post-card-content">
+                        <span className="post-category">{post.category}</span>
+                        <h2 className="post-title">{cleanTitle(post.title)}</h2>
+                        <p className="post-description">{post.description}</p>
+                        <div className="post-meta">
+                          <time dateTime={post.date} title={format(postDate, 'MMMM dd, yyyy HH:mm')}>
+                            {timeDisplay}
+                          </time>
+                        </div>
+                      </div>
+                    </Link>
+                  </article>
+                );
+              })}
           </div>
 
           {posts.length === 0 && (
             <div className="empty-state">
-              <p>No posts available yet. Posts are generated automatically 3 times per day.</p>
+              <p>No news articles available yet. News articles are generated automatically from trending topics.</p>
             </div>
           )}
         </main>
