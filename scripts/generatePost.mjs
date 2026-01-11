@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import fetch from "node-fetch";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const POSTS_DIR = path.join(process.cwd(), "posts");
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
@@ -10,7 +10,10 @@ if (!GEMINI_API_KEY) {
   process.exit(1);
 }
 
-// Simple topic pool (you can expand)
+// Initialize the Google AI Client
+const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
+
+// Simple topic pool
 const TOPICS = [
   { topic: "Latest technology trends in 2026", category: "technology" },
   { topic: "How AI is changing daily life", category: "ai" },
@@ -32,17 +35,16 @@ function slugify(text) {
     .replace(/(^-|-$)/g, "");
 }
 
-// Try different model names in order
+// Preferred models in order
 const MODEL_NAMES = [
-  "gemini-1.5-flash-latest",
-  "gemini-1.5-pro-latest", 
-  "gemini-pro",
-  "gemini-1.5-flash"
+  "gemini-1.5-flash",
+  "gemini-1.5-pro",
+  "gemini-pro"
 ];
 
 async function generatePost() {
   try {
-    console.log("🧠 Generating post with Gemini Pro...");
+    console.log("🧠 Generating post with Google AI SDK...");
     console.log(`📝 Topic: ${topic}`);
 
     const prompt = `
@@ -69,90 +71,54 @@ KEYWORDS:
 CONTENT:
 `;
 
-    let res;
-    let modelName;
-    let lastError;
-    
-    // Try each model name until one works
-    for (const model of MODEL_NAMES) {
-      modelName = model;
-      const apiUrl = `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${GEMINI_API_KEY}`;
-      
-      console.log(`🔗 Trying model: ${model}`);
-      
+    let textResponse;
+    let usedModel = "";
+
+    // Loop through models until one works
+    for (const modelName of MODEL_NAMES) {
+      console.log(`🔗 Trying model: ${modelName}`);
       try {
-        res = await fetch(apiUrl, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            contents: [
-              {
-                role: "user",
-                parts: [{ text: prompt }]
-              }
-            ]
-          })
-        });
+        // Get the model instance
+        const model = genAI.getGenerativeModel({ model: modelName });
+
+        // Generate content
+        const result = await model.generateContent(prompt);
+        const response = await result.response;
         
-        if (res.ok) {
-          console.log(`✅ Successfully connected to ${model}`);
-          break;
-        } else {
-          let errorData;
-          try {
-            errorData = await res.json();
-          } catch (parseError) {
-            const errorText = await res.text();
-            errorData = { error: { message: errorText } };
-          }
-          lastError = errorData;
-          console.log(`⚠️ Model ${model} failed: ${res.status}`);
-          if (model !== MODEL_NAMES[MODEL_NAMES.length - 1]) {
-            console.log(`   Trying next model...`);
-          }
-        }
-      } catch (fetchError) {
-        lastError = fetchError;
-        console.log(`⚠️ Error with ${model}:`, fetchError.message);
-        if (model !== MODEL_NAMES[MODEL_NAMES.length - 1]) {
-          console.log(`   Trying next model...`);
-        }
+        textResponse = response.text();
+        usedModel = modelName;
+        
+        console.log(`✅ Success with ${modelName}`);
+        break; // Stop loop if successful
+
+      } catch (error) {
+        console.warn(`⚠️ Failed with ${modelName}: ${error.message}`);
+        // Continue to next model in loop
       }
     }
 
-    if (!res || !res.ok) {
-      console.error(`❌ All models failed. Last error:`, lastError);
-      console.error(`\n💡 Tip: Check your API key and available models at:`);
-      console.error(`   https://ai.google.dev/models`);
-      process.exit(1);
+    if (!textResponse) {
+      throw new Error("All models failed to generate content.");
     }
 
-    const data = await res.json();
-
-    if (!data.candidates || !data.candidates[0]) {
-      console.error("❌ Gemini error:", JSON.stringify(data, null, 2));
-      process.exit(1);
-    }
-
-    const text = data.candidates[0].content.parts[0].text;
-
-    const title = text.match(/TITLE:(.*)/)?.[1]?.trim();
-    const description = text.match(/META_DESCRIPTION:(.*)/)?.[1]?.trim();
-    const keywords = text.match(/KEYWORDS:(.*)/)?.[1]?.trim();
-    const content = text.split("CONTENT:")[1]?.trim();
+    // Parse the output (Same logic as before)
+    const title = textResponse.match(/TITLE:(.*)/)?.[1]?.trim();
+    const description = textResponse.match(/META_DESCRIPTION:(.*)/)?.[1]?.trim();
+    const keywords = textResponse.match(/KEYWORDS:(.*)/)?.[1]?.trim();
+    const content = textResponse.split("CONTENT:")[1]?.trim();
 
     if (!title || !content) {
-      console.error("❌ Invalid AI output");
-      console.error("Raw output:", text.substring(0, 500));
+      console.error("❌ Invalid AI output format");
+      console.error("Raw output start:", textResponse.substring(0, 200));
       process.exit(1);
     }
 
     const slug = slugify(title);
     const date = new Date().toISOString().split("T")[0];
-
     const fileName = `${date}-${slug}.md`;
     const filePath = path.join(POSTS_DIR, fileName);
 
+    // Create dir if missing
     if (!fs.existsSync(POSTS_DIR)) {
       fs.mkdirSync(POSTS_DIR, { recursive: true });
     }
@@ -162,6 +128,7 @@ CONTENT:
       return;
     }
 
+    // Construct Markdown
     const markdown = `---
 title: "${title.replace(/"/g, '\\"')}"
 description: "${(description || "").replace(/"/g, '\\"')}"
@@ -176,16 +143,12 @@ ${content}
 
     fs.writeFileSync(filePath, markdown);
     console.log(`✅ Post generated: ${fileName}`);
-    console.log(`📊 Used model: ${modelName}`);
+    console.log(`📊 Used model: ${usedModel}`);
+
   } catch (error) {
-    console.error("❌ Error generating post:", error.message);
-    console.error(error.stack);
+    console.error("❌ Fatal error:", error);
     process.exit(1);
   }
 }
 
-generatePost().catch(error => {
-  console.error("❌ Fatal error:", error);
-  process.exit(1);
-});
-
+generatePost();
