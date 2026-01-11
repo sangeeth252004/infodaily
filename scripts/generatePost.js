@@ -61,7 +61,12 @@ KEYWORDS:
 CONTENT:
 `;
 
-  const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+  // Try different model names (gemini-1.5-flash-latest, gemini-pro, etc.)
+  // Common model names: gemini-1.5-flash-latest, gemini-1.5-pro-latest, gemini-pro
+  const modelName = "gemini-1.5-flash-latest";
+  const apiUrl = `https://generativelanguage.googleapis.com/v1/models/${modelName}:generateContent?key=${GEMINI_API_KEY}`;
+  
+  console.log(`🔗 Using model: ${modelName}`);
   
   const res = await fetch(apiUrl, {
     method: "POST",
