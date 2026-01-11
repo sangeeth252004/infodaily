@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
-import crypto from "crypto";
 
 const POSTS_DIR = path.join(process.cwd(), "posts");
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
@@ -13,15 +12,17 @@ if (!GEMINI_API_KEY) {
 
 // Simple topic pool (you can expand)
 const TOPICS = [
-  "Latest technology trends in 2026",
-  "How AI is changing daily life",
-  "Best productivity tips for students",
-  "Future of smartphones and gadgets",
-  "How to improve focus and mental clarity"
+  { topic: "Latest technology trends in 2026", category: "technology" },
+  { topic: "How AI is changing daily life", category: "ai" },
+  { topic: "Best productivity tips for students", category: "education" },
+  { topic: "Future of smartphones and gadgets", category: "technology" },
+  { topic: "How to improve focus and mental clarity", category: "health" }
 ];
 
 // Pick random topic
-const topic = TOPICS[Math.floor(Math.random() * TOPICS.length)];
+const selected = TOPICS[Math.floor(Math.random() * TOPICS.length)];
+const topic = selected.topic;
+const category = selected.category;
 
 // Slug generator
 function slugify(text) {
@@ -32,7 +33,9 @@ function slugify(text) {
 }
 
 async function generatePost() {
-  console.log("🧠 Generating post with Gemini Pro...");
+  try {
+    console.log("🧠 Generating post with Gemini Pro...");
+    console.log(`📝 Topic: ${topic}`);
 
   const prompt = `
 Write a high-quality, SEO-friendly blog article.
@@ -58,28 +61,31 @@ KEYWORDS:
 CONTENT:
 `;
 
-const res = await fetch(
-  "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=" +
-    GEMINI_API_KEY,
+  const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+  
+  const res = await fetch(apiUrl, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents: [
+        {
+          role: "user",
+          parts: [{ text: prompt }]
+        }
+      ]
+    })
+  });
 
-
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        contents: [
-          {
-            role: "user",
-            parts: [{ text: prompt }]
-          }
-        ]
-      })
-    }
-  );
+  if (!res.ok) {
+    console.error(`❌ API error: ${res.status} ${res.statusText}`);
+    const errorText = await res.text();
+    console.error("Response:", errorText);
+    process.exit(1);
+  }
 
   const data = await res.json();
 
-  if (!data.candidates) {
+  if (!data.candidates || !data.candidates[0]) {
     console.error("❌ Gemini error:", JSON.stringify(data, null, 2));
     process.exit(1);
   }
@@ -112,18 +118,26 @@ const res = await fetch(
   }
 
   const markdown = `---
-title: "${title}"
-description: "${description}"
+title: "${title.replace(/"/g, '\\"')}"
+description: "${(description || "").replace(/"/g, '\\"')}"
 date: "${date}"
-keywords: "${keywords}"
+keywords: "${(keywords || "").replace(/"/g, '\\"')}"
 slug: "${slug}"
+category: "${category}"
 ---
 
 ${content}
 `;
 
-  fs.writeFileSync(filePath, markdown);
-  console.log(`✅ Post generated: ${fileName}`);
+    fs.writeFileSync(filePath, markdown);
+    console.log(`✅ Post generated: ${fileName}`);
+  } catch (error) {
+    console.error("❌ Error generating post:", error.message);
+    process.exit(1);
+  }
 }
 
-generatePost();
+generatePost().catch(error => {
+  console.error("❌ Fatal error:", error);
+  process.exit(1);
+});
