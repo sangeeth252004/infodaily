@@ -40,7 +40,11 @@ function generateSitemap() {
   const posts = getAllPosts();
   
   const staticPages = [
-    { url: baseUrl, priority: '1.0', changefreq: 'daily', lastmod: new Date().toISOString() }
+    { url: baseUrl, priority: '1.0', changefreq: 'daily', lastmod: new Date().toISOString() },
+    { url: `${baseUrl}/about`, priority: '0.7', changefreq: 'monthly', lastmod: new Date().toISOString() },
+    { url: `${baseUrl}/privacy-policy`, priority: '0.6', changefreq: 'monthly', lastmod: new Date().toISOString() },
+    { url: `${baseUrl}/contact`, priority: '0.6', changefreq: 'monthly', lastmod: new Date().toISOString() },
+    { url: `${baseUrl}/disclaimer`, priority: '0.6', changefreq: 'monthly', lastmod: new Date().toISOString() }
   ];
   
   const postPages = posts.map((post) => ({

@@ -105,3 +105,4 @@ Once configured correctly:
 **Remember**: Static export = Static site = Use "Other" framework preset! 🚀
 
 
+

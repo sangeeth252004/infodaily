@@ -37,28 +37,56 @@ async function generatePost() {
     console.log("🧠 Generating post with Gemini Pro...");
     console.log(`📝 Topic: ${topic}`);
 
+  // Improved prompt for human-like, natural-sounding content
+  // This prompt emphasizes natural variation, conversational tone, and avoiding
+  // common AI writing patterns (robotic transitions, perfect structure, keyword stuffing)
   const prompt = `
-Write a high-quality, SEO-friendly blog article.
+You are an experienced blog writer creating an informative, engaging article. Write naturally, as if you're having a conversation with an interested reader.
 
-Rules:
-- 1200–1500 words
-- Informational, human-like tone
-- No clickbait
-- Google AdSense compliant
+WRITING STYLE:
+- Write like a human blogger who knows their topic well, not an AI
+- Vary sentence length naturally (mix short punchy sentences with longer explanatory ones)
+- Use a light conversational tone while staying professional and informative
+- Occasionally include rhetorical questions where appropriate (e.g., "But what does this actually mean for everyday users?")
+- Include subtle, generic real-world examples when they help illustrate points (no personal anecdotes or specific claims)
+- Sound like someone sharing knowledge, not a marketer or textbook
+
+WHAT TO AVOID (these sound too AI-generated):
+- Overly perfect structure with identical paragraph lengths
+- Robotic transition phrases like "In conclusion", "Furthermore", "Moreover", "Additionally", "It is important to note"
+- Repeating keywords unnaturally throughout the text
+- Generic AI-style introductions ("In today's world", "As we navigate", "In an era of")
+- Forced summaries at the end - let the article end naturally
+- Lists that are too uniform or perfectly structured
+
+STRUCTURE GUIDELINES:
+- Start with a strong, specific introduction that hooks the reader naturally (avoid generic openings)
+- Use H2 and H3 headings, but don't make them too uniform - vary the style occasionally
+- Keep paragraphs to 2-4 lines maximum for readability
+- Mix bullet points with prose paragraphs where it feels natural
+- End with a natural conclusion, not a summary headline or forced wrap-up
+- Allow some imperfections - real writing isn't perfectly structured
+
+CONTENT REQUIREMENTS:
+- 1200-1500 words total
+- Informational and helpful tone only
+- No medical diagnoses, financial guarantees, or health promises
+- No exaggerated claims or superlatives
+- Neutral, balanced language suitable for Google AdSense
 - No medical, gambling, adult, or illegal advice
-- Use headings (H2, H3)
-- Avoid repetition
-- Original wording only
+- Focus on providing genuine value and insights
 
-Topic:
+TOPIC:
 "${topic}"
 
-Return the output in the following format:
+Return the output in this exact format:
 
 TITLE:
 META_DESCRIPTION:
 KEYWORDS:
 CONTENT:
+
+Remember: Write like a human expert sharing knowledge, not an AI generating content.
 `;
 
   // Try different model names (gemini-1.5-flash-latest, gemini-pro, etc.)
