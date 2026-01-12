@@ -160,7 +160,7 @@ function scoreAndDeduplicate(items) {
 export async function detectTrends() {
   console.log("🔍 Detecting trends (TOI + Reddit)");
 
-  if (getTodayPostCount() >= 20) {
+  if (getTodayPostCount() >= 30) {
     console.log("ℹ️ Daily post limit reached");
     return [];
   }
