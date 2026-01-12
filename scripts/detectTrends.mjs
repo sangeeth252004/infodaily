@@ -12,48 +12,19 @@ const POSTS_DIR = path.join(process.cwd(), "posts");
 /* -------------------- REDDIT (SECONDARY) -------------------- */
 const SUBREDDITS = [
   "technology",
-  "artificial",
   "MachineLearning",
   "startups"
 ];
 
-/* -------------------- TIMES OF INDIA RSS -------------------- */
+/* -------------------- TIMES OF INDIA RSS (PRIMARY) -------------------- */
 const RSS_FEEDS = [
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    category: "Top Stories",
-    weight: 5
-  },
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
-    category: "India News",
-    weight: 4
-  },
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-    category: "World News",
-    weight: 4
-  },
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
-    category: "Technology",
-    weight: 5
-  },
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
-    category: "Business",
-    weight: 4
-  },
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",
-    category: "Education",
-    weight: 3
-  },
-  {
-    url: "https://timesofindia.indiatimes.com/rssfeeds/3908999.cms",
-    category: "Health",
-    weight: 3
-  }
+  { url: "https://timesofindia.indiatimes.com/rssfeedstopstories.cms", category: "General", weight: 5 },
+  { url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", category: "Politics", weight: 3 },
+  { url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", category: "World", weight: 4 },
+  { url: "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms", category: "Technology", weight: 6 },
+  { url: "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms", category: "Business", weight: 5 },
+  { url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms", category: "Education", weight: 4 },
+  { url: "https://timesofindia.indiatimes.com/rssfeeds/3908999.cms", category: "Health", weight: 4 }
 ];
 
 /* -------------------- UTILS -------------------- */
@@ -62,8 +33,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 function normalizeTitle(title) {
   return title
     .toLowerCase()
-    .replace(/\b(google|india|ai|breaking|today|news|latest|highlights|says|ceo|toi|times of india)\b/g, "")
-    .replace(/\b(nrf|2023|2024|2025|2026)\b/g, "")
+    .replace(/\b(google|india|breaking|today|latest|highlights|says|ceo|toi|times of india)\b/g, "")
+    .replace(/\b(2020|2021|2022|2023|2024|2025|2026)\b/g, "")
     .replace(/[^a-z\s]/g, "")
     .replace(/\s+/g, " ")
     .trim();
@@ -97,7 +68,7 @@ async function fetchRedditPosts(subreddit) {
   try {
     const res = await fetch(
       `https://www.reddit.com/r/${subreddit}/new.json?limit=5`,
-      { headers: { "User-Agent": "InfoDaily/1.0" } }
+      { headers: { "User-Agent": "InfoDailyBot/1.0" } }
     );
     if (!res.ok) return [];
 
@@ -108,9 +79,10 @@ async function fetchRedditPosts(subreddit) {
         url: `https://reddit.com${p.data.permalink}`,
         engagement: p.data.score + p.data.num_comments * 2,
         hoursAgo: (Date.now() / 1000 - p.data.created_utc) / 3600,
+        category: "Technology",
         type: "reddit"
       }))
-      .filter(p => p.engagement > 15 && p.hoursAgo <= 12);
+      .filter(p => p.engagement > 20 && p.hoursAgo <= 8);
   } catch {
     return [];
   }
@@ -120,7 +92,7 @@ async function fetchRedditPosts(subreddit) {
 async function fetchRSSFeed(feed) {
   try {
     const res = await fetch(feed.url, {
-      headers: { "User-Agent": "InfoDaily/1.0" }
+      headers: { "User-Agent": "InfoDailyBot/1.0" }
     });
     if (!res.ok) return [];
 
@@ -129,27 +101,31 @@ async function fetchRSSFeed(feed) {
     const regex = /<item>([\s\S]*?)<\/item>/gi;
     let match;
 
-    while ((match = regex.exec(xml)) && items.length < 8) {
+    while ((match = regex.exec(xml)) && items.length < 6) {
       const block = match[1];
-      const title = block.match(/<title>(<!\[CDATA\[)?([\s\S]*?)(\]\]>)?<\/title>/i)?.[2];
+      const titleRaw = block.match(/<title>(<!\[CDATA\[)?([\s\S]*?)(\]\]>)?<\/title>/i)?.[2];
       const link = block.match(/<link>([\s\S]*?)<\/link>/i)?.[1];
       const pub = block.match(/<pubDate>([\s\S]*?)<\/pubDate>/i)?.[1];
 
-      if (!title || !link) continue;
+      if (!titleRaw || !link || !pub) continue;
 
-      const date = new Date(pub || Date.now());
+      if (isNaN(Date.parse(pub))) continue;
+
+      const date = new Date(pub);
       const hoursAgo = (Date.now() - date.getTime()) / 36e5;
 
-      if (hoursAgo <= 24) {
-        items.push({
-          title: title.replace(/<[^>]+>/g, "").trim(),
-          url: link.trim(),
-          category: feed.category,
-          hoursAgo,
-          engagement: feed.weight * (100 / (hoursAgo + 1)),
-          type: "rss"
-        });
-      }
+      if (hoursAgo < 0 || hoursAgo > 24) continue;
+
+      const title = titleRaw.replace(/<[^>]+>/g, "").trim();
+
+      items.push({
+        title,
+        url: link.trim(),
+        category: feed.category,
+        hoursAgo,
+        engagement: feed.weight * (120 / (hoursAgo + 1)),
+        type: "rss"
+      });
     }
     return items;
   } catch {
@@ -163,7 +139,7 @@ function scoreAndDeduplicate(items) {
   const map = new Map();
 
   for (const item of items) {
-    const key = normalizeTitle(item.title).slice(0, 120);
+    const key = normalizeTitle(item.title).slice(0, 140);
     if (!key || existing.has(key)) continue;
 
     if (!map.has(key)) {
@@ -191,8 +167,8 @@ export async function detectTrends() {
 
   const all = [];
 
-  // Reddit (limited)
-  for (const sub of SUBREDDITS.slice(0, 2)) {
+  // Reddit (very limited)
+  for (const sub of SUBREDDITS.slice(0, 1)) {
     all.push(...await fetchRedditPosts(sub));
     await sleep(400);
   }
@@ -212,7 +188,7 @@ export async function detectTrends() {
 if (process.argv[1]?.endsWith("detectTrends.mjs")) {
   detectTrends().then(list => {
     list.forEach((t, i) =>
-      console.log(`${i + 1}. ${t.title} (${t.category || t.type})`)
+      console.log(`${i + 1}. ${t.title} (${t.category})`)
     );
   });
 }
