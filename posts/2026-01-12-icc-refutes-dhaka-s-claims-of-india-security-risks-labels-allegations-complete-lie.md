@@ -1,0 +1,18 @@
+---
+title: "ICC Refutes Dhaka's Claims of India Security Risks, Labels Allegations \"Complete Lie\""
+date: "2026-01-12T15:07:32.142Z"
+slug: "icc-refutes-dhaka-s-claims-of-india-security-risks-labels-allegations-complete-lie"
+category: "ai"
+description: "The International Cricket Council (ICC) has strongly denied claims from a Dhaka-based entity regarding alleged security risks in India, specifically mentioning cricketer Mustafizur Rahman, calling them a \"complete lie.\""
+keywords: "ICC, India security, cricket, Bangladesh, Mustafizur Rahman, Dhaka claims, security risks, international cricket council"
+---
+
+The International Cricket Council (ICC) unequivocally refuted claims made by a Dhaka-based entity on March 15, 2022, regarding alleged security risks for international cricket events in India. The global governing body for cricket labeled the assertions, which specifically mentioned Bangladeshi fast bowler Mustafizur Rahman, as "a complete lie."
+
+Claims reportedly originating from Dhaka suggested that the ICC had communicated concerns about security within India to the Bangladesh cricket administration. These allegations were specifically tied to the potential inclusion of Mustafizur Rahman in the Bangladesh national squad for future matches or tournaments hosted in India. The nature of the alleged security concerns or specific threats was not detailed by the Dhaka entity, but the overarching implication was that playing conditions in India posed undue hazards for visiting teams or particular players.
+
+In a swift and unambiguous response, the ICC firmly denied these assertions. An official statement from the governing body unequivocally dismissed the claims, rejecting any suggestion that it had raised or communicated security concerns regarding India to any cricket board or related entity. The ICC confirmed that no warnings or flags regarding security status were issued by its independent security advisors or internal departments concerning touring teams in India. The council emphasized its commitment to maintaining transparent and reliable communication regarding player and official safety.
+
+Security for players, officials, and spectators remains a paramount concern for the International Cricket Council and all participating cricket boards. Before any international series or tournament, comprehensive security assessments are conducted. These evaluations are undertaken in close collaboration with the host nation's authorities and relevant security agencies. The ICC adheres to stringent protocols to ensure that all necessary measures are in place to guarantee a safe and secure environment for international cricketing events.
+
+Unsubstantiated claims regarding security can undermine confidence in a host nation's ability to safely stage high-profile events and can potentially strain diplomatic and sporting relations within the global cricketing community. The ICC's definitive denial serves to uphold the integrity of its security assessment processes and to reaffirm India's standing as a reliable host for international cricket events. Following the clear refutation, the focus remains on standard preparations for upcoming cricketing fixtures. The global body's precise communication aims to prevent the dissemination of misinformation and ensure that decisions regarding player welfare and event staging are based solely on factual security assessments. International cricketing activities in India continue to operate under established security protocols.
