@@ -88,7 +88,7 @@ export default function PostPage({ post, relatedPosts }: PostPageProps) {
 
           <article className="post">
             <header className="post-header">
-              <span className="post-category-badge">{post.category}</span>
+              
               <h1 className="post-title">{cleanPostTitle}</h1>
               <div className="post-meta">
                 <time dateTime={post.date}>
