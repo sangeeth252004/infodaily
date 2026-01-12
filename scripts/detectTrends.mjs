@@ -1,6 +1,6 @@
 /**
  * Trend Detection Script
- * Fetches trending topics from free sources (Reddit, Times of India RSS)
+ * Fetches trending topics from free sources (Times of India RSS + Reddit)
  * Returns top trending items suitable for news generation
  */
 
@@ -9,11 +9,10 @@ import path from "path";
 
 const POSTS_DIR = path.join(process.cwd(), "posts");
 
-/* -------------------- REDDIT CONFIG -------------------- */
+/* -------------------- REDDIT (SECONDARY) -------------------- */
 const SUBREDDITS = [
   "technology",
   "artificial",
-  "OpenAI",
   "MachineLearning",
   "startups"
 ];
@@ -39,18 +38,32 @@ const RSS_FEEDS = [
     url: "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
     category: "Technology",
     weight: 5
+  },
+  {
+    url: "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+    category: "Business",
+    weight: 4
+  },
+  {
+    url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",
+    category: "Education",
+    weight: 3
+  },
+  {
+    url: "https://timesofindia.indiatimes.com/rssfeeds/3908999.cms",
+    category: "Health",
+    weight: 3
   }
 ];
 
-/* -------------------- HELPERS -------------------- */
-function sleep(ms) {
-  return new Promise(r => setTimeout(r, ms));
-}
+/* -------------------- UTILS -------------------- */
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function normalizeTitle(title) {
   return title
     .toLowerCase()
-    .replace(/\b(google|india|ai|breaking|today|news|latest|highlights|says|ceo)\b/g, "")
+    .replace(/\b(google|india|ai|breaking|today|news|latest|highlights|says|ceo|toi|times of india)\b/g, "")
+    .replace(/\b(nrf|2023|2024|2025|2026)\b/g, "")
     .replace(/[^a-z\s]/g, "")
     .replace(/\s+/g, " ")
     .trim();
@@ -60,8 +73,8 @@ function normalizeTitle(title) {
 function getExistingTitles() {
   if (!fs.existsSync(POSTS_DIR)) return new Set();
 
-  const files = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith(".md"));
   const titles = new Set();
+  const files = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith(".md"));
 
   for (const file of files) {
     try {
@@ -86,17 +99,18 @@ async function fetchRedditPosts(subreddit) {
       `https://www.reddit.com/r/${subreddit}/new.json?limit=5`,
       { headers: { "User-Agent": "InfoDaily/1.0" } }
     );
-
     if (!res.ok) return [];
-    const json = await res.json();
 
-    return json.data.children.map(p => ({
-      title: p.data.title,
-      url: `https://reddit.com${p.data.permalink}`,
-      engagement: p.data.score + p.data.num_comments * 2,
-      hoursAgo: (Date.now() / 1000 - p.data.created_utc) / 3600,
-      type: "reddit"
-    })).filter(p => p.engagement > 10 && p.hoursAgo <= 12);
+    const json = await res.json();
+    return json.data.children
+      .map(p => ({
+        title: p.data.title,
+        url: `https://reddit.com${p.data.permalink}`,
+        engagement: p.data.score + p.data.num_comments * 2,
+        hoursAgo: (Date.now() / 1000 - p.data.created_utc) / 3600,
+        type: "reddit"
+      }))
+      .filter(p => p.engagement > 15 && p.hoursAgo <= 12);
   } catch {
     return [];
   }
@@ -108,15 +122,14 @@ async function fetchRSSFeed(feed) {
     const res = await fetch(feed.url, {
       headers: { "User-Agent": "InfoDaily/1.0" }
     });
-
     if (!res.ok) return [];
-    const xml = await res.text();
 
+    const xml = await res.text();
     const items = [];
     const regex = /<item>([\s\S]*?)<\/item>/gi;
     let match;
 
-    while ((match = regex.exec(xml)) !== null && items.length < 8) {
+    while ((match = regex.exec(xml)) && items.length < 8) {
       const block = match[1];
       const title = block.match(/<title>(<!\[CDATA\[)?([\s\S]*?)(\]\]>)?<\/title>/i)?.[2];
       const link = block.match(/<link>([\s\S]*?)<\/link>/i)?.[1];
@@ -147,22 +160,22 @@ async function fetchRSSFeed(feed) {
 /* -------------------- DEDUP + SCORE -------------------- */
 function scoreAndDeduplicate(items) {
   const existing = getExistingTitles();
-  const seen = new Map();
+  const map = new Map();
 
   for (const item of items) {
     const key = normalizeTitle(item.title).slice(0, 120);
-    if (existing.has(key)) continue;
+    if (!key || existing.has(key)) continue;
 
-    if (!seen.has(key)) {
-      seen.set(key, { ...item, score: item.engagement, sources: 1 });
+    if (!map.has(key)) {
+      map.set(key, { ...item, score: item.engagement, sources: 1 });
     } else {
-      const prev = seen.get(key);
+      const prev = map.get(key);
       prev.score += item.engagement;
       prev.sources++;
     }
   }
 
-  return [...seen.values()]
+  return [...map.values()]
     .sort((a, b) => b.score - a.score)
     .slice(0, 5);
 }
@@ -172,19 +185,19 @@ export async function detectTrends() {
   console.log("🔍 Detecting trends (TOI + Reddit)");
 
   if (getTodayPostCount() >= 15) {
-    console.log("ℹ️ Daily limit reached");
+    console.log("ℹ️ Daily post limit reached");
     return [];
   }
 
   const all = [];
 
-  // Reddit (optional)
-  for (const sub of SUBREDDITS) {
+  // Reddit (limited)
+  for (const sub of SUBREDDITS.slice(0, 2)) {
     all.push(...await fetchRedditPosts(sub));
     await sleep(400);
   }
 
-  // Times of India RSS
+  // Times of India RSS (primary)
   for (const feed of RSS_FEEDS) {
     all.push(...await fetchRSSFeed(feed));
     await sleep(400);
