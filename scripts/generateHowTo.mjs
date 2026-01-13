@@ -19,7 +19,7 @@ if (!GEMINI_API_KEY) {
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 // Configuration
-const ARTICLES_PER_DAY = parseInt(process.env.HOWTO_DAILY_LIMIT || "7", 10); // Default: 7 articles per day
+const ARTICLES_PER_RUN = parseInt(process.env.HOWTO_DAILY_LIMIT || "1", 10); // Default: 1 article per run
 const MODEL_NAMES = [
   "gemini-2.5-flash",      // Try the newest first
   "gemini-2.0-flash",      // Standard stable
@@ -43,6 +43,49 @@ const TOPIC_CATEGORIES = [
 
 function slugify(text) {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+}
+
+/**
+ * Sleep utility with exponential backoff
+ */
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * Retry API call with exponential backoff
+ */
+async function retryWithBackoff(fn, maxRetries = 3, baseDelay = 2000) {
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
+    try {
+      return await fn();
+    } catch (error) {
+      const isLastAttempt = attempt === maxRetries - 1;
+      const errorMsg = error.message || String(error);
+      
+      // Check for rate limiting or quota errors
+      const isRateLimit = errorMsg.includes('429') || 
+                         errorMsg.includes('quota') || 
+                         errorMsg.includes('rate limit') ||
+                         errorMsg.includes('RESOURCE_EXHAUSTED');
+      
+      if (isLastAttempt) {
+        throw error;
+      }
+      
+      // Exponential backoff: 2s, 4s, 8s, etc.
+      const delay = baseDelay * Math.pow(2, attempt);
+      
+      if (isRateLimit) {
+        console.log(`⏳ Rate limit detected, waiting ${delay / 1000}s before retry...`);
+        // Longer wait for rate limits
+        await sleep(delay * 2);
+      } else {
+        console.log(`⏳ Retrying in ${delay / 1000}s... (attempt ${attempt + 1}/${maxRetries})`);
+        await sleep(delay);
+      }
+    }
+  }
 }
 
 /**
@@ -160,17 +203,30 @@ Return ONLY the title, nothing else.`;
     let textResponse;
     let usedModel = "";
 
-    // Try models in order
+    // Try models in order with retry logic
     for (const modelName of MODEL_NAMES) {
       try {
         const model = genAI.getGenerativeModel({ model: modelName });
-        const result = await model.generateContent(prompt);
+        
+        // Retry with backoff for each model
+        const result = await retryWithBackoff(async () => {
+          return await model.generateContent(prompt);
+        }, 2, 1000); // 2 retries, 1s base delay
+        
         const response = await result.response;
         textResponse = response.text().trim();
         usedModel = modelName;
         break;
       } catch (error) {
-        console.warn(`⚠️ Failed with ${modelName}: ${error.message.split(' ')[0]}...`);
+        const errorMsg = error.message || String(error);
+        const shortMsg = errorMsg.length > 100 ? errorMsg.substring(0, 100) + '...' : errorMsg;
+        console.warn(`⚠️ Failed with ${modelName}: ${shortMsg}`);
+        
+        // If rate limited, wait longer before trying next model
+        if (errorMsg.includes('429') || errorMsg.includes('quota') || errorMsg.includes('RESOURCE_EXHAUSTED')) {
+          console.log(`⏳ Rate limit detected, waiting 5s before trying next model...`);
+          await sleep(5000);
+        }
       }
     }
 
@@ -187,7 +243,7 @@ Return ONLY the title, nothing else.`;
     // Validate title
     if (title.length < 20 || title.length > 120) {
       console.log(`⚠️ Title length invalid (${title.length} chars), retrying...`);
-      return generateTopic(existingTitles, attempt + 1);
+      return await generateTopic(existingTitles, attempt + 1);
     }
 
     // Check for generic patterns
@@ -200,22 +256,34 @@ Return ONLY the title, nothing else.`;
     for (const pattern of genericPatterns) {
       if (pattern.test(title)) {
         console.log(`⚠️ Title too generic: "${title}", retrying...`);
-        return generateTopic(existingTitles, attempt + 1);
+        return await generateTopic(existingTitles, attempt + 1);
       }
     }
 
     // Check for duplicates
     if (isDuplicateTitle(title, existingTitles)) {
       console.log(`⚠️ Duplicate title detected: "${title}", retrying...`);
-      return generateTopic(existingTitles, attempt + 1);
+      return await generateTopic(existingTitles, attempt + 1);
     }
 
     return title;
 
   } catch (error) {
-    console.error(`❌ Error generating topic:`, error.message);
+    const errorMsg = error.message || String(error);
+    console.error(`❌ Error generating topic:`, errorMsg);
+    
+    // If rate limited, wait longer before retrying
+    if (errorMsg.includes('429') || errorMsg.includes('quota') || errorMsg.includes('RESOURCE_EXHAUSTED')) {
+      const waitTime = Math.min(30000, 5000 * Math.pow(2, attempt)); // Max 30s wait
+      console.log(`⏳ Rate limit detected, waiting ${waitTime / 1000}s before retry...`);
+      await sleep(waitTime);
+    } else if (attempt < 5) {
+      // For other errors, wait a bit before retrying
+      await sleep(2000 * attempt);
+    }
+    
     if (attempt < 5) {
-      return generateTopic(existingTitles, attempt + 1);
+      return await generateTopic(existingTitles, attempt + 1);
     }
     throw error;
   }
@@ -295,18 +363,31 @@ CONTENT:`;
     let textResponse;
     let usedModel = "";
 
-    // Try models in order
+    // Try models in order with retry logic
     for (const modelName of MODEL_NAMES) {
       try {
         const model = genAI.getGenerativeModel({ model: modelName });
-        const result = await model.generateContent(prompt);
+        
+        // Retry with backoff for each model
+        const result = await retryWithBackoff(async () => {
+          return await model.generateContent(prompt);
+        }, 2, 1000); // 2 retries, 1s base delay
+        
         const response = await result.response;
         textResponse = response.text();
         usedModel = modelName;
         console.log(`✅ Generated with ${modelName}`);
         break;
       } catch (error) {
-        console.warn(`⚠️ Failed with ${modelName}: ${error.message.split(' ')[0]}...`);
+        const errorMsg = error.message || String(error);
+        const shortMsg = errorMsg.length > 100 ? errorMsg.substring(0, 100) + '...' : errorMsg;
+        console.warn(`⚠️ Failed with ${modelName}: ${shortMsg}`);
+        
+        // If rate limited, wait longer before trying next model
+        if (errorMsg.includes('429') || errorMsg.includes('quota') || errorMsg.includes('RESOURCE_EXHAUSTED')) {
+          console.log(`⏳ Rate limit detected, waiting 5s before trying next model...`);
+          await sleep(5000);
+        }
       }
     }
 
@@ -378,7 +459,7 @@ ${content}`;
 async function generateHowTos() {
   try {
     console.log("🚀 Starting how-to generation process...\n");
-    console.log(`📊 Target: ${ARTICLES_PER_DAY} articles per day\n`);
+    console.log(`📊 Target: ${ARTICLES_PER_RUN} article(s) per run\n`);
 
     // Get existing titles for duplicate checking
     const existingTitles = getExistingTitles();
@@ -387,9 +468,9 @@ async function generateHowTos() {
     const generated = [];
     const skipped = [];
 
-    for (let i = 0; i < ARTICLES_PER_DAY; i++) {
+    for (let i = 0; i < ARTICLES_PER_RUN; i++) {
       try {
-        console.log(`\n[${i + 1}/${ARTICLES_PER_DAY}] Generating article...`);
+        console.log(`\n[${i + 1}/${ARTICLES_PER_RUN}] Generating article...`);
 
         // Generate a unique topic
         const topicTitle = await generateTopic(existingTitles);
@@ -407,9 +488,11 @@ async function generateHowTos() {
           console.log(`⚠️ Skipped: ${topicTitle}`);
         }
 
-        // Rate limiting: wait between requests
-        if (i < ARTICLES_PER_DAY - 1) {
-          await new Promise(resolve => setTimeout(resolve, 3000)); // 3 second delay
+        // Rate limiting: wait between requests (longer delay to avoid rate limits)
+        if (i < ARTICLES_PER_RUN - 1) {
+          const delay = 5000; // 5 second delay between articles
+          console.log(`⏳ Waiting ${delay / 1000}s before next article...`);
+          await sleep(delay);
         }
 
       } catch (error) {

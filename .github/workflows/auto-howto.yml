@@ -2,8 +2,8 @@ name: Automated How-To Generator
 
 on:
   schedule:
-    # Run once per day at 2:00 AM UTC
-    - cron: '0 2 * * *'
+    # Run every 5 hours
+    - cron: '0 */5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,17 +25,17 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate how-to articles
+      - name: Generate how-to article
         run: node scripts/generateHowTo.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          HOWTO_DAILY_LIMIT: 7
+          HOWTO_DAILY_LIMIT: 1
 
       - name: Commit & push
         run: |
           git config user.name "infodaily-bot"
           git config user.email "bot@infodaily.online"
           git add how-to
-          git commit -m "how-to: publish daily guides - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+          git commit -m "how-to: publish guide - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
           git push
 
