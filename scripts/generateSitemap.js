@@ -35,9 +35,38 @@ function getAllPosts() {
   });
 }
 
+function getAllHowTos() {
+  const howtoDirectory = path.join(process.cwd(), 'how-to');
+  
+  if (!fs.existsSync(howtoDirectory)) {
+    return [];
+  }
+
+  const fileNames = fs.readdirSync(howtoDirectory);
+  const allHowTosData = fileNames
+    .filter((name) => name.endsWith('.md'))
+    .map((fileName) => {
+      const slug = fileName.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
+      const fullPath = path.join(howtoDirectory, fileName);
+      const fileContents = fs.readFileSync(fullPath, 'utf8');
+      const { data } = matter(fileContents);
+      
+      return {
+        slug: data.slug || slug,
+        date: data.date || new Date().toISOString(),
+      };
+    });
+
+  return allHowTosData.sort((a, b) => {
+    if (a.date < b.date) return 1;
+    return -1;
+  });
+}
+
 function generateSitemap() {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://yourdomain.com';
   const posts = getAllPosts();
+  const howtos = getAllHowTos();
   
   const staticPages = [
     { url: baseUrl, priority: '1.0', changefreq: 'daily', lastmod: new Date().toISOString() },
@@ -54,7 +83,14 @@ function generateSitemap() {
     changefreq: 'weekly'
   }));
   
-  const allPages = [...staticPages, ...postPages];
+  const howtoPages = howtos.map((howto) => ({
+    url: `${baseUrl}/how-to/${howto.slug}`,
+    lastmod: howto.date,
+    priority: '0.8',
+    changefreq: 'weekly'
+  }));
+  
+  const allPages = [...staticPages, ...postPages, ...howtoPages];
   
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

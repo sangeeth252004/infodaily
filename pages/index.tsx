@@ -61,6 +61,13 @@ export default function Home({ posts }: HomeProps) {
 
       <div className="container">
         <header className="header">
+          <nav className="main-nav">
+            <Link href="/" className="site-title">InfoDaily</Link>
+            <div className="nav-links">
+              <Link href="/" className="nav-link">Home</Link>
+              <Link href="/how-to" className="nav-link">How-To</Link>
+            </div>
+          </nav>
           <div className="hero-section">
             <h1 className="title">InfoDaily</h1>
             <p className="subtitle">Latest Verified News Updates</p>
