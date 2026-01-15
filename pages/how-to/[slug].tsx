@@ -92,6 +92,7 @@ export default function HowToPage({ howto }: HowToPageProps) {
             <div className="nav-links">
               <Link href="/" className="nav-link">Home</Link>
               <Link href="/how-to" className="nav-link active">How-To</Link>
+              <Link href="/calculators" className="nav-link">Calculators</Link>
             </div>
           </nav>
         </header>
