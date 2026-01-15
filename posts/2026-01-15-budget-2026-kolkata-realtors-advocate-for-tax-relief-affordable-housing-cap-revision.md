@@ -1,0 +1,30 @@
+---
+title: "Budget 2026: Kolkata Realtors Advocate for Tax Relief, Affordable Housing Cap Revision"
+date: "2026-01-15T11:13:45.021Z"
+slug: "budget-2026-kolkata-realtors-advocate-for-tax-relief-affordable-housing-cap-revision"
+category: "technology"
+description: "Kolkata real estate bodies, CREDAI Bengal and NAREDCO Bengal, submit pre-Budget 2026 memorandums seeking tax relief, an increased affordable housing cap, and regulatory reforms to revive demand."
+keywords: "Kolkata real estate, Budget 2026, tax relief, affordable housing, CREDAI Bengal, NAREDCO Bengal, property market, home loan interest, GST ITC, capital gains tax, demand revival."
+---
+
+Kolkata real estate industry bodies, including the Confederation of Real Estate Developers' Associations of India (CREDAI) Bengal and the National Real Estate Development Council (NAREDCO) Bengal, have formally submitted their pre-Budget memorandums ahead of the Union Budget 2026. These industry associations are primarily seeking substantial tax relief measures and a significant revision of the affordable housing cap, aiming to stimulate demand and foster sustained growth within the sector. The proposals are designed to address prevailing challenges in the property market and enhance buyer sentiment across the region.
+
+The real estate sector holds significant economic importance, contributing substantially to India's Gross Domestic Product (GDP) and serving as a major employer across various associated industries. Despite its pivotal role, the sector frequently advocates for policy interventions that can directly influence market dynamics, improve affordability, and encourage investment. For Budget 2026, Kolkata realtors underscore the critical need for government support to rejuvenate demand, particularly in the mid-income and affordable housing segments, which form a substantial portion of the market in West Bengal. Their submitted recommendations focus on measures designed to directly enhance purchasing power for consumers and improve the financial viability of new and ongoing development projects.
+
+The key demands articulated by Kolkata realtors for consideration in the upcoming Union Budget 2026 encompass several critical areas:
+
+*   **Tax Relief Measures for Homebuyers and Developers:**
+    *   **Input Tax Credit (ITC) Reinstatement:** A primary request is the reintroduction of Input Tax Credit for developers under the Goods and Services Tax (GST) regime. Industry stakeholders argue that restoring ITC would significantly reduce construction costs, allowing developers to either lower property prices or enhance project quality, ultimately benefiting homebuyers.
+    *   **Enhanced Home Loan Interest Deduction:** Realtors propose an upward revision of the interest deduction limit on home loans under Section 24(b) of the Income Tax Act. The current annual cap of ₹2 lakh is deemed insufficient given rising property values and interest rates. An increase to at least ₹5 lakh is suggested to provide more substantial tax savings for homebuyers, thereby encouraging homeownership and boosting sales.
+    *   **Capital Gains Tax Rationalisation:** Recommendations include rationalizing the capital gains tax structure for real estate assets. This aims to differentiate between short-term speculative activities and long-term investments, potentially by adjusting holding periods or tax rates, to encourage stable, long-term capital inflow into the sector.
+
+*   **Affordable Housing Cap Revision:**
+    *   **Increased Monetary Limit:** Industry bodies have called for an upward adjustment of the monetary limit that defines 'affordable housing'. They contend that the existing classification, which varies for metropolitan and non-metropolitan areas, is outdated and fails to account for current property prices and escalated construction costs, particularly in major urban centers like Kolkata. Revising this cap would ensure a larger pool of housing units qualifies for affordable housing benefits, making homeownership accessible to a wider demographic.
+
+*   **Support for Rental Housing and Regulatory Streamlining:**
+    *   **Incentives for Rental Housing:** Suggestions also include exploring tax incentives or policy frameworks to encourage the development of organized rental housing, addressing the growing demand for rental accommodations in urban areas.
+    *   **Regulatory Simplification:** Calls for simplifying and expediting the regulatory approval processes for real estate projects to minimize delays and reduce the carrying costs for developers. This includes promoting single-window clearance mechanisms.
+
+Realtors contend that the implementation of these recommendations could significantly revitalize the housing market by stimulating demand and improving the supply pipeline. Enhanced tax deductions for homebuyers would directly alleviate their financial burden, making property acquisition more appealing. Concurrently, a revised definition of affordable housing would broaden the market, potentially attracting new buyers and investors into previously inaccessible segments. For developers, the reinstatement of ITC, coupled with streamlined approvals, would mitigate cost pressures and enhance project feasibility, leading to more competitive pricing and a greater volume of new developments. This, in turn, is expected to generate employment and contribute to broader economic recovery.
+
+The pre-Budget memorandums from Kolkata's real estate associations underscore the industry's proactive engagement with policymakers to foster a conducive environment for growth. As the Union Budget 2026 approaches, the real estate sector in Kolkata, aligned with its national counterparts, awaits the government's announcements with keen anticipation, hopeful that these crucial demands will be considered to ensure a robust, sustainable, and equitable trajectory for the housing market in the years ahead.
