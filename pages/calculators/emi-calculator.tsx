@@ -75,6 +75,7 @@ export default function EmiCalculatorPage() {
       canonicalPath="/calculators/emi-calculator"
       h1="EMI Calculator"
       intro="Estimate your monthly EMI and total interest for a loan based on amount, rate, and tenure."
+      calculatorName="EMI Calculator"
     >
       <div className="calc-form">
         <form
@@ -136,11 +137,8 @@ export default function EmiCalculatorPage() {
           <div className="calc-actions">
             <Button type="submit">Calculate</Button>
             <Button type="button" variant="secondary" onClick={onReset}>
-              Clear / Reset
+              Reset
             </Button>
-            <Link href="/calculators" className="back-link" style={{ marginLeft: 'auto' }}>
-              Back to calculators
-            </Link>
           </div>
 
           {error ? <div className="calc-error">{error}</div> : null}
@@ -149,14 +147,14 @@ export default function EmiCalculatorPage() {
 
       {result ? (
         <div className="calc-result" aria-live="polite">
-          <div className="calc-result-title">Result</div>
-          <p>
-            Monthly EMI: <strong>{result.emi}</strong>
+          <div className="calc-result-title">Monthly EMI:</div>
+          <p style={{ fontSize: '1.5rem', fontWeight: 600, marginTop: '0.5rem', marginBottom: '0.75rem' }}>
+            {result.emi}
           </p>
-          <p>
+          <p style={{ marginBottom: '0.5rem' }}>
             Total Interest: <strong>{result.totalInterest}</strong>
           </p>
-          <p>
+          <p style={{ marginBottom: 0 }}>
             Total Payment: <strong>{result.totalPayment}</strong> ({result.months} months)
           </p>
         </div>

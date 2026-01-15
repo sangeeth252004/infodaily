@@ -51,6 +51,7 @@ export default function BmiCalculatorPage() {
       canonicalPath="/calculators/bmi-calculator"
       h1="BMI Calculator"
       intro="Enter your height and weight to calculate your Body Mass Index (BMI) and category."
+      calculatorName="BMI Calculator"
     >
       <div className="calc-form">
         <form
@@ -91,11 +92,8 @@ export default function BmiCalculatorPage() {
           <div className="calc-actions">
             <Button type="submit">Calculate</Button>
             <Button type="button" variant="secondary" onClick={onReset}>
-              Clear / Reset
+              Reset
             </Button>
-            <Link href="/calculators" className="back-link" style={{ marginLeft: 'auto' }}>
-              Back to calculators
-            </Link>
           </div>
 
           {error ? <div className="calc-error">{error}</div> : null}
@@ -104,11 +102,11 @@ export default function BmiCalculatorPage() {
 
       {result ? (
         <div className="calc-result" aria-live="polite">
-          <div className="calc-result-title">Result</div>
-          <p>
-            Your BMI is <strong>{result.bmi}</strong>.
+          <div className="calc-result-title">Your BMI is:</div>
+          <p style={{ fontSize: '1.5rem', fontWeight: 600, marginTop: '0.5rem', marginBottom: '0.75rem' }}>
+            {result.bmi}
           </p>
-          <p>
+          <p style={{ marginBottom: 0 }}>
             Category: <strong>{result.category}</strong>
           </p>
         </div>

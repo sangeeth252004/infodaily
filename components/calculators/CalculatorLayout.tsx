@@ -9,6 +9,7 @@ type Props = {
   canonicalPath: string
   h1: string
   intro?: string
+  calculatorName?: string
   children: ReactNode
 }
 
@@ -18,6 +19,7 @@ export default function CalculatorLayout({
   canonicalPath,
   h1,
   intro,
+  calculatorName,
   children,
 }: Props) {
   const siteMeta = getSiteMetadata()
@@ -66,12 +68,21 @@ export default function CalculatorLayout({
         </header>
 
         <main className="main">
-          <h1 className="section-title">{h1}</h1>
-          {intro ? (
-            <p className="section-description" style={{ marginBottom: '2rem', color: '#6b7280' }}>
-              {intro}
-            </p>
+          {calculatorName ? (
+            <nav className="calc-breadcrumb" aria-label="Breadcrumb">
+              <Link href="/" className="calc-breadcrumb-link">
+                Home
+              </Link>
+              <span className="calc-breadcrumb-separator">/</span>
+              <Link href="/calculators" className="calc-breadcrumb-link">
+                Calculators
+              </Link>
+              <span className="calc-breadcrumb-separator">/</span>
+              <span className="calc-breadcrumb-current">{calculatorName}</span>
+            </nav>
           ) : null}
+          <h1 className="section-title">{h1}</h1>
+          {intro ? <p className="section-description">{intro}</p> : null}
           {children}
         </main>
 

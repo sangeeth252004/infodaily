@@ -62,6 +62,7 @@ export default function GstCalculatorPage() {
       canonicalPath="/calculators/gst-calculator"
       h1="GST Calculator"
       intro="Add GST to a base amount or remove GST from a GST-inclusive price."
+      calculatorName="GST Calculator"
     >
       <div className="calc-form">
         <form
@@ -111,11 +112,8 @@ export default function GstCalculatorPage() {
           <div className="calc-actions">
             <Button type="submit">Calculate</Button>
             <Button type="button" variant="secondary" onClick={onReset}>
-              Clear / Reset
+              Reset
             </Button>
-            <Link href="/calculators" className="back-link" style={{ marginLeft: 'auto' }}>
-              Back to calculators
-            </Link>
           </div>
 
           {error ? <div className="calc-error">{error}</div> : null}
@@ -124,15 +122,15 @@ export default function GstCalculatorPage() {
 
       {result ? (
         <div className="calc-result" aria-live="polite">
-          <div className="calc-result-title">Result</div>
-          <p>
+          <div className="calc-result-title">Final Price:</div>
+          <p style={{ fontSize: '1.5rem', fontWeight: 600, marginTop: '0.5rem', marginBottom: '0.75rem' }}>
+            {result.finalPrice}
+          </p>
+          <p style={{ marginBottom: '0.5rem' }}>
             Base Amount: <strong>{result.base}</strong>
           </p>
-          <p>
+          <p style={{ marginBottom: 0 }}>
             GST Amount: <strong>{result.gstAmount}</strong>
-          </p>
-          <p>
-            Final Price: <strong>{result.finalPrice}</strong>
           </p>
         </div>
       ) : null}

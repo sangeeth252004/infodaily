@@ -9,7 +9,7 @@ export default function CalculatorsIndex() {
       description="Use fast, free online calculators for age, BMI, percentage, simple interest, EMI, and GST. Mobile-friendly tools with clear results."
       canonicalPath="/calculators"
       h1="Free Online Calculators"
-      intro="Quick, mobile-friendly calculators with clear results. Choose a tool below to get started."
+      intro="Accurate, easy-to-use calculators for everyday calculations. All tools are free and provide instant results with clear explanations."
     >
       <div className="calc-grid">
         {CALCULATORS.map(calc => (
@@ -18,8 +18,8 @@ export default function CalculatorsIndex() {
               <div className="post-card-content">
                 <h2 className="calc-card-title">{calc.name}</h2>
                 <p className="calc-card-desc">{calc.shortDescription}</p>
-                <div className="post-meta" style={{ marginTop: '1.25rem' }}>
-                  Open calculator →
+                <div style={{ marginTop: '1rem', color: '#2563EB', fontWeight: 500, fontSize: '0.9375rem' }}>
+                  Open Calculator →
                 </div>
               </div>
             </Link>

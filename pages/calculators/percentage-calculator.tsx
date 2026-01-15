@@ -39,6 +39,7 @@ export default function PercentageCalculatorPage() {
       canonicalPath="/calculators/percentage-calculator"
       h1="Percentage Calculator"
       intro="Calculate a percentage of a number (for example, 15% of 200)."
+      calculatorName="Percentage Calculator"
     >
       <div className="calc-form">
         <form
@@ -77,11 +78,8 @@ export default function PercentageCalculatorPage() {
           <div className="calc-actions">
             <Button type="submit">Calculate</Button>
             <Button type="button" variant="secondary" onClick={onReset}>
-              Clear / Reset
+              Reset
             </Button>
-            <Link href="/calculators" className="back-link" style={{ marginLeft: 'auto' }}>
-              Back to calculators
-            </Link>
           </div>
 
           {error ? <div className="calc-error">{error}</div> : null}
@@ -90,10 +88,9 @@ export default function PercentageCalculatorPage() {
 
       {result !== null ? (
         <div className="calc-result" aria-live="polite">
-          <div className="calc-result-title">Result</div>
-          <p>
-            <strong>{percent || '0'}%</strong> of <strong>{value || '0'}</strong> is{' '}
-            <strong>{result}</strong>.
+          <div className="calc-result-title">Result:</div>
+          <p style={{ fontSize: '1.5rem', fontWeight: 600, marginTop: '0.5rem', marginBottom: 0 }}>
+            {result}
           </p>
         </div>
       ) : null}

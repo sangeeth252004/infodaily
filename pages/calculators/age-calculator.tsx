@@ -71,6 +71,7 @@ export default function AgeCalculatorPage() {
       canonicalPath="/calculators/age-calculator"
       h1="Age Calculator"
       intro="Enter your date of birth to calculate your age in years, months, and days."
+      calculatorName="Age Calculator"
     >
       <div className="calc-form">
         <form
@@ -99,11 +100,8 @@ export default function AgeCalculatorPage() {
               Calculate
             </Button>
             <Button type="button" variant="secondary" onClick={onReset}>
-              Clear / Reset
+              Reset
             </Button>
-            <Link href="/calculators" className="back-link" style={{ marginLeft: 'auto' }}>
-              Back to calculators
-            </Link>
           </div>
 
           {error ? <div className="calc-error">{error}</div> : null}
@@ -112,10 +110,9 @@ export default function AgeCalculatorPage() {
 
       {result ? (
         <div className="calc-result" aria-live="polite">
-          <div className="calc-result-title">Result</div>
-          <p>
-            Your age is <strong>{result.years}</strong> years,{' '}
-            <strong>{result.months}</strong> months, and <strong>{result.days}</strong> days.
+          <div className="calc-result-title">Your age is:</div>
+          <p style={{ fontSize: '1.5rem', fontWeight: 600, marginTop: '0.5rem', marginBottom: 0 }}>
+            {result.years} years, {result.months} months, and {result.days} days
           </p>
         </div>
       ) : null}
