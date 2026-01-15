@@ -1,0 +1,23 @@
+---
+title: "NEET-PG Cut-Offs Repeatedly Lowered Amidst Vacant Seat Concerns"
+date: "2026-01-15T00:59:12.697Z"
+slug: "neet-pg-cut-offs-repeatedly-lowered-amidst-vacant-seat-concerns"
+category: "technology"
+description: "India's medical authorities have repeatedly reduced NEET-PG cut-off scores to fill thousands of vacant postgraduate medical seats, raising questions about admission standards and healthcare workforce distribution."
+keywords: "NEET-PG, medical admissions, cut-offs, vacant seats, postgraduate medical education, India, MCC, MoHFW"
+---
+
+New Delhi – Medical authorities in India have once again lowered the cut-off percentile scores for the National Eligibility cum Entrance Test-Postgraduate (NEET-PG), making more candidates eligible for admission to postgraduate medical courses for the current academic session. This marks a recurring trend in recent years, where initial qualifying thresholds are reduced in subsequent counselling rounds to address a significant number of vacant seats across the nation's medical colleges.
+
+The decision, typically announced by the Medical Counselling Committee (MCC) under the Directorate General of Health Services (DGHS) and the Ministry of Health & Family Welfare (MoHFW), aims to ensure that available postgraduate medical seats do not go unfilled. Despite thousands of aspirants competing annually for these coveted positions, a paradox persists: a substantial number of seats remain vacant even after multiple rounds of counselling. This situation has prompted authorities to relax admission criteria repeatedly, extending eligibility to a broader pool of candidates.
+
+Key details surrounding this repeated lowering of cut-offs include:
+
+*   **Percentile Adjustments:** Initial cut-offs, often set at the 50th percentile for the general category and 40th for reserved categories, are progressively reduced. In recent cycles, these thresholds have seen drops of several percentile points, sometimes reaching significantly lower percentiles for various categories in final mop-up rounds.
+*   **Vacant Seats:** Thousands of seats, particularly in private medical colleges and deemed universities, often remain unoccupied after the initial counselling rounds. These institutions frequently have higher tuition fees, which can deter otherwise eligible candidates from taking admission.
+*   **Speciality Imbalance:** A notable contributing factor is the strong preference among candidates for certain clinical specialities such as Radiology, Dermatology, General Medicine, and Orthopaedics. Consequently, less preferred branches like Anatomy, Physiology, Biochemistry, Forensic Medicine, and some surgical sub-specialities struggle to attract sufficient candidates, leading to vacant positions.
+*   **Geographical Disparity:** Seats in medical colleges located in remote or less developed regions also face challenges in attracting students, contributing to the overall vacancy count despite the national demand for medical professionals.
+
+The persistent issue of vacant postgraduate medical seats, despite a vast pool of eligible doctors, underscores a complex interplay of factors within India's medical education system. While lowering cut-offs helps fill seats and potentially addresses the national requirement for specialized medical professionals, it also fuels debate among stakeholders. Concerns are sometimes raised about the potential impact on the quality of postgraduate training and the standard of future healthcare professionals if entry barriers are continuously relaxed. Conversely, proponents argue that making more doctors eligible ensures that valuable training infrastructure is utilized and that a broader section of medical graduates can pursue specialization, which is crucial for public health.
+
+As the counselling process for the current academic year progresses, the immediate focus remains on efficiently allocating the available seats. Long-term solutions, potentially involving reforms in fee structures, incentivizing less-preferred specialities, and improving infrastructure in colleges located in underserved areas, may be considered by policymakers to address the root causes of this recurring challenge in future admission cycles. The ongoing situation highlights the need for a balanced approach that maintains academic standards while ensuring optimal utilization of medical education resources to meet the nation's healthcare demands.
