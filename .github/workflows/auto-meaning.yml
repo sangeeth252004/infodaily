@@ -36,7 +36,11 @@ jobs:
         run: |
           git config user.name "infodaily-bot"
           git config user.email "bot@infodaily.online"
-          git add meaning
-          git commit -m "meaning: publish definitions - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
-          git push
+          if [ -d "meaning" ] && [ "$(ls -A meaning 2>/dev/null)" ]; then
+            git add meaning/
+            git commit -m "meaning: publish definitions - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+            git push || exit 0
+          else
+            echo "No definition files to commit"
+          fi
 

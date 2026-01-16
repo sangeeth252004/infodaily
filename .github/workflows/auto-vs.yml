@@ -36,7 +36,11 @@ jobs:
         run: |
           git config user.name "infodaily-bot"
           git config user.email "bot@infodaily.online"
-          git add vs
-          git commit -m "vs: publish comparisons - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
-          git push
+          if [ -d "vs" ] && [ "$(ls -A vs 2>/dev/null)" ]; then
+            git add vs/
+            git commit -m "vs: publish comparisons - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+            git push || exit 0
+          else
+            echo "No comparison files to commit"
+          fi
 

@@ -36,7 +36,11 @@ jobs:
         run: |
           git config user.name "infodaily-bot"
           git config user.email "bot@infodaily.online"
-          git add qa
-          git commit -m "qa: publish Q&A entries - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
-          git push
+          if [ -d "qa" ] && [ "$(ls -A qa 2>/dev/null)" ]; then
+            git add qa/
+            git commit -m "qa: publish Q&A entries - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+            git push || exit 0
+          else
+            echo "No Q&A files to commit"
+          fi
 
