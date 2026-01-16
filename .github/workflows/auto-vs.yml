@@ -1,0 +1,42 @@
+name: Automated VS Generator
+
+on:
+  schedule:
+    # Run once per day at 4:00 AM UTC (to avoid overlap with other workflows)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate comparison articles
+        run: node scripts/generateVs.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          VS_PER_RUN: 3
+          VS_DAILY_LIMIT: 5
+
+      - name: Commit & push
+        run: |
+          git config user.name "infodaily-bot"
+          git config user.email "bot@infodaily.online"
+          git add vs
+          git commit -m "vs: publish comparisons - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+          git push
+

@@ -1,0 +1,42 @@
+name: Automated Q&A Generator
+
+on:
+  schedule:
+    # Run once per day at 2:00 AM UTC (to avoid overlap with other workflows)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Q&A entries
+        run: node scripts/generateQA.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          QA_PER_RUN: 3
+          QA_DAILY_LIMIT: 5
+
+      - name: Commit & push
+        run: |
+          git config user.name "infodaily-bot"
+          git config user.email "bot@infodaily.online"
+          git add qa
+          git commit -m "qa: publish Q&A entries - $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+          git push
+

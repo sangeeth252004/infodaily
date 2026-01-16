@@ -65,8 +65,12 @@ export default function Home({ posts }: HomeProps) {
             <Link href="/" className="site-title">InfoDaily</Link>
             <div className="nav-links">
               <Link href="/" className="nav-link">Home</Link>
+              <Link href="/posts" className="nav-link">Posts</Link>
               <Link href="/how-to" className="nav-link">How-To</Link>
               <Link href="/calculators" className="nav-link">Calculators</Link>
+              <Link href="/qa" className="nav-link">Q&A</Link>
+              <Link href="/meaning" className="nav-link">Meanings</Link>
+              <Link href="/vs" className="nav-link">Comparisons</Link>
             </div>
           </nav>
           <div className="hero-section">
