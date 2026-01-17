@@ -1,0 +1,9 @@
+---
+term: "Cloud computing"
+definition: "Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale."
+date: "2026-01-17T15:37:06.174Z"
+slug: "cloud-computing"
+keywords: "on-demand, internet, services, scalability, pay-as-you-go, IaaS, PaaS, SaaS, infrastructure, software, data, networking"
+---
+
+Cloud computing involves the provision of computing resources and services, such as processing power, storage, and applications, over a network, typically the internet, on a pay-as-you-go basis. Instead of owning and managing physical IT infrastructure, organizations and individuals can access these resources from a cloud provider, allowing for on-demand scalability and flexibility. This model enables users to avoid significant upfront capital expenses and reduces the burden of IT maintenance, empowering them to focus on core business objectives. The services can be categorized into three main types: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), each offering different levels of abstraction and management. For example, a small business might use cloud computing by subscribing to a Software as a Service application like a Customer Relationship Management (CRM) system, rather than installing and maintaining their own CRM software on local servers. This allows them to access the CRM from any device with internet connectivity, and the cloud provider handles all software updates and infrastructure management. The context of cloud computing has revolutionized how businesses and individuals interact with technology, enabling collaboration, data accessibility, and the development of innovative applications without the constraints of traditional on-premises IT.
