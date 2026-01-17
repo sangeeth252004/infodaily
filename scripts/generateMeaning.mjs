@@ -298,15 +298,26 @@ KEYWORDS:
       fs.mkdirSync(MEANING_DIR, { recursive: true });
     }
 
-    // Escape quotes in frontmatter values
-    const escapeQuotes = (str) => str.replace(/"/g, '\\"').replace(/\n/g, ' ');
+    // Escape YAML string values - handle quotes, backslashes, and newlines
+    // This ensures all special characters are properly escaped for YAML parsing
+    const escapeYamlString = (str) => {
+      if (!str) return '';
+      return str
+        .replace(/\\/g, '\\\\')      // Escape backslashes first (must be first)
+        .replace(/"/g, '\\"')        // Escape double quotes
+        .replace(/\n/g, ' ')          // Replace newlines with spaces
+        .replace(/\r/g, '')          // Remove carriage returns
+        .trim();
+    };
+
+    const definitionYaml = escapeYamlString(definition);
 
     const markdown = `---
-term: "${escapeQuotes(term)}"
-definition: "${escapeQuotes(definition)}"
+term: "${escapeYamlString(term)}"
+definition: "${definitionYaml}"
 date: "${now.toISOString()}"
 slug: "${slug}"
-keywords: "${escapeQuotes(keywords || '')}"
+keywords: "${escapeYamlString(keywords || '')}"
 ---
 
 ${detailedExplanation}`;

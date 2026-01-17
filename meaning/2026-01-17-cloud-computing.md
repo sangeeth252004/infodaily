@@ -1,6 +1,6 @@
 ---
 term: "Cloud computing"
-definition: "Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale."
+definition: "Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (\"the cloud\") to offer faster innovation, flexible resources, and economies of scale."
 date: "2026-01-17T15:37:06.174Z"
 slug: "cloud-computing"
 keywords: "on-demand, internet, services, scalability, pay-as-you-go, IaaS, PaaS, SaaS, infrastructure, software, data, networking"
