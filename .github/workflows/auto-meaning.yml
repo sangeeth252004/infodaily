@@ -30,7 +30,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MEANING_PER_RUN: 5
-          MEANING_DAILY_LIMIT: 5
+          MEANING_DAILY_LIMIT: 10
 
       - name: Commit & push
         run: |
