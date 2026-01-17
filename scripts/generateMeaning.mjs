@@ -298,12 +298,15 @@ KEYWORDS:
       fs.mkdirSync(MEANING_DIR, { recursive: true });
     }
 
+    // Escape quotes in frontmatter values
+    const escapeQuotes = (str) => str.replace(/"/g, '\\"').replace(/\n/g, ' ');
+
     const markdown = `---
-term: "${term.replace(/"/g, '\\"')}"
-definition: "${definition.replace(/"/g, '\\"')}"
+term: "${escapeQuotes(term)}"
+definition: "${escapeQuotes(definition)}"
 date: "${now.toISOString()}"
 slug: "${slug}"
-keywords: "${keywords.replace(/"/g, '\\"')}"
+keywords: "${escapeQuotes(keywords || '')}"
 ---
 
 ${detailedExplanation}`;
@@ -418,4 +421,3 @@ async function generateMeanings() {
 if (import.meta.url === `file://${process.argv[1]}` || process.argv[1]?.endsWith('generateMeaning.mjs')) {
   generateMeanings().catch(console.error);
 }
-
