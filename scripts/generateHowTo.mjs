@@ -20,11 +20,14 @@ const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 // Configuration
 const ARTICLES_PER_RUN = parseInt(process.env.HOWTO_DAILY_LIMIT || "1", 10); // Default: 1 article per run
-const MODEL_NAMES = [
-  "gemini-2.5-flash",      // Try the newest first
-  "gemini-2.0-flash",      // Standard stable
-  "gemini-2.0-flash-lite", // Fast backup
-  "gemini-2.0-pro"         // High reasoning backup
+
+// Model rotation for better reliability
+const MODEL_ROTATION = [
+  "gemini-2.5-flash",
+  "gemini-2.5-flash-lite",
+  "gemini-2.0-flash",
+  "gemini-2.0-flash-lite",
+  "gemini-3-flash"
 ];
 
 // How-To topic categories (focused on errors and troubleshooting)
@@ -46,46 +49,52 @@ function slugify(text) {
 }
 
 /**
- * Sleep utility with exponential backoff
+ * Sleep utility
  */
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 /**
- * Retry API call with exponential backoff
+ * Generate content with model rotation
+ * Tries each model in order until one succeeds
  */
-async function retryWithBackoff(fn, maxRetries = 3, baseDelay = 2000) {
-  for (let attempt = 0; attempt < maxRetries; attempt++) {
+async function generateWithModelRotation(prompt) {
+  let lastError = null;
+
+  for (const modelName of MODEL_ROTATION) {
     try {
-      return await fn();
-    } catch (error) {
-      const isLastAttempt = attempt === maxRetries - 1;
-      const errorMsg = error.message || String(error);
+      console.log(`🔄 Trying model: ${modelName}`);
+      const model = genAI.getGenerativeModel({ model: modelName });
+      const result = await model.generateContent(prompt);
+      const response = await result.response;
+      const text = response.text();
+      console.log(`✅ Success with ${modelName}`);
+      return text;
+    } catch (err) {
+      lastError = err;
+      const errorMsg = err.message || String(err);
       
       // Check for rate limiting or quota errors
-      const isRateLimit = errorMsg.includes('429') || 
-                         errorMsg.includes('quota') || 
-                         errorMsg.includes('rate limit') ||
-                         errorMsg.includes('RESOURCE_EXHAUSTED');
-      
-      if (isLastAttempt) {
-        throw error;
+      if (
+        errorMsg.includes("429") ||
+        errorMsg.includes("quota") ||
+        errorMsg.includes("Too Many Requests") ||
+        errorMsg.includes("RESOURCE_EXHAUSTED")
+      ) {
+        console.warn(`⚠️ Rate limit/quota hit on ${modelName}, trying next model...`);
+        await sleep(2000); // Wait before trying next model
+        continue;
       }
       
-      // Exponential backoff: 2s, 4s, 8s, etc.
-      const delay = baseDelay * Math.pow(2, attempt);
-      
-      if (isRateLimit) {
-        console.log(`⏳ Rate limit detected, waiting ${delay / 1000}s before retry...`);
-        // Longer wait for rate limits
-        await sleep(delay * 2);
-      } else {
-        console.log(`⏳ Retrying in ${delay / 1000}s... (attempt ${attempt + 1}/${maxRetries})`);
-        await sleep(delay);
-      }
+      // For other errors, log and try next model
+      console.warn(`⚠️ Error with ${modelName}: ${errorMsg.substring(0, 100)}`);
+      await sleep(1000);
+      continue;
     }
   }
+
+  throw lastError || new Error("All Gemini models exhausted");
 }
 
 /**
@@ -200,42 +209,10 @@ Generate ONE specific, actionable how-to topic title that fits the category "${c
 Return ONLY the title, nothing else.`;
 
   try {
-    let textResponse;
-    let usedModel = "";
-
-    // Try models in order with retry logic
-    for (const modelName of MODEL_NAMES) {
-      try {
-        const model = genAI.getGenerativeModel({ model: modelName });
-        
-        // Retry with backoff for each model
-        const result = await retryWithBackoff(async () => {
-          return await model.generateContent(prompt);
-        }, 2, 1000); // 2 retries, 1s base delay
-        
-        const response = await result.response;
-        textResponse = response.text().trim();
-        usedModel = modelName;
-        break;
-      } catch (error) {
-        const errorMsg = error.message || String(error);
-        const shortMsg = errorMsg.length > 100 ? errorMsg.substring(0, 100) + '...' : errorMsg;
-        console.warn(`⚠️ Failed with ${modelName}: ${shortMsg}`);
-        
-        // If rate limited, wait longer before trying next model
-        if (errorMsg.includes('429') || errorMsg.includes('quota') || errorMsg.includes('RESOURCE_EXHAUSTED')) {
-          console.log(`⏳ Rate limit detected, waiting 5s before trying next model...`);
-          await sleep(5000);
-        }
-      }
-    }
-
-    if (!textResponse) {
-      throw new Error("All AI models failed");
-    }
-
+    let textResponse = await generateWithModelRotation(prompt);
+    
     // Clean the title
-    let title = textResponse
+    let title = textResponse.trim()
       .replace(/^["']|["']$/g, '') // Remove quotes
       .replace(/^Title:\s*/i, '') // Remove "Title:" prefix if present
       .trim();
@@ -360,40 +337,7 @@ META_DESCRIPTION:
 KEYWORDS:
 CONTENT:`;
 
-    let textResponse;
-    let usedModel = "";
-
-    // Try models in order with retry logic
-    for (const modelName of MODEL_NAMES) {
-      try {
-        const model = genAI.getGenerativeModel({ model: modelName });
-        
-        // Retry with backoff for each model
-        const result = await retryWithBackoff(async () => {
-          return await model.generateContent(prompt);
-        }, 2, 1000); // 2 retries, 1s base delay
-        
-        const response = await result.response;
-        textResponse = response.text();
-        usedModel = modelName;
-        console.log(`✅ Generated with ${modelName}`);
-        break;
-      } catch (error) {
-        const errorMsg = error.message || String(error);
-        const shortMsg = errorMsg.length > 100 ? errorMsg.substring(0, 100) + '...' : errorMsg;
-        console.warn(`⚠️ Failed with ${modelName}: ${shortMsg}`);
-        
-        // If rate limited, wait longer before trying next model
-        if (errorMsg.includes('429') || errorMsg.includes('quota') || errorMsg.includes('RESOURCE_EXHAUSTED')) {
-          console.log(`⏳ Rate limit detected, waiting 5s before trying next model...`);
-          await sleep(5000);
-        }
-      }
-    }
-
-    if (!textResponse) {
-      throw new Error("All AI models failed");
-    }
+    const textResponse = await generateWithModelRotation(prompt);
 
     // Parse response
     const title = textResponse.match(/TITLE:(.*?)(?:\n|$)/)?.[1]?.trim();

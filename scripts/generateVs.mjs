@@ -22,7 +22,15 @@ const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 const COMPARISONS_PER_RUN = parseInt(process.env.VS_PER_RUN || "3", 10); // Default: 3 comparisons per run
 const MAX_DAILY = parseInt(process.env.VS_DAILY_LIMIT || "5", 10); // Max 5 per day
 const DELAY_BETWEEN_GENERATIONS = 120000; // 120 seconds in milliseconds
-const MODEL_NAME = "gemini-2.5-flash"; // Use only this model
+
+// Model rotation for better reliability
+const MODEL_ROTATION = [
+  "gemini-2.5-flash",
+  "gemini-2.5-flash-lite",
+  "gemini-2.0-flash",
+  "gemini-2.0-flash-lite",
+  "gemini-3-flash"
+];
 
 // Safe comparison categories
 const COMPARISON_CATEGORIES = [
@@ -54,6 +62,48 @@ function slugify(text) {
  */
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * Generate content with model rotation
+ * Tries each model in order until one succeeds
+ */
+async function generateWithModelRotation(prompt) {
+  let lastError = null;
+
+  for (const modelName of MODEL_ROTATION) {
+    try {
+      console.log(`🔄 Trying model: ${modelName}`);
+      const model = genAI.getGenerativeModel({ model: modelName });
+      const result = await model.generateContent(prompt);
+      const response = await result.response;
+      const text = response.text();
+      console.log(`✅ Success with ${modelName}`);
+      return text;
+    } catch (err) {
+      lastError = err;
+      const errorMsg = err.message || String(err);
+      
+      // Check for rate limiting or quota errors
+      if (
+        errorMsg.includes("429") ||
+        errorMsg.includes("quota") ||
+        errorMsg.includes("Too Many Requests") ||
+        errorMsg.includes("RESOURCE_EXHAUSTED")
+      ) {
+        console.warn(`⚠️ Rate limit/quota hit on ${modelName}, trying next model...`);
+        await sleep(2000); // Wait before trying next model
+        continue;
+      }
+      
+      // For other errors, log and try next model
+      console.warn(`⚠️ Error with ${modelName}: ${errorMsg.substring(0, 100)}`);
+      await sleep(1000);
+      continue;
+    }
+  }
+
+  throw lastError || new Error("All Gemini models exhausted");
 }
 
 /**
@@ -185,10 +235,7 @@ Generate ONE comparison pair in the format: "ItemA vs ItemB"
 Return ONLY the comparison in that format, nothing else.`;
 
   try {
-    const model = genAI.getGenerativeModel({ model: MODEL_NAME });
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    let comparisonText = response.text().trim();
+    let comparisonText = (await generateWithModelRotation(prompt)).trim();
 
     // Clean the comparison text
     comparisonText = comparisonText
@@ -290,10 +337,7 @@ WHICH_TO_CHOOSE:
 KEYWORDS:
 [comma-separated keywords for SEO]`;
 
-    const model = genAI.getGenerativeModel({ model: MODEL_NAME });
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const textResponse = response.text();
+    const textResponse = await generateWithModelRotation(prompt);
 
     // Parse response
     const summaryMatch = textResponse.match(/SUMMARY:\s*(.*?)(?=\nKEY_DIFFERENCES:)/s);
