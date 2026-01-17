@@ -1,7 +1,6 @@
 /**
  * Meaning / Definition Generation Script
- * Generates original dictionary-style definitions using Gemini AI
- * Includes anti-duplicate logic, rate-limit handling, and model rotation
+ * SAFE YAML + Gemini Model Rotation + Anti-Duplicate
  */
 
 import fs from "fs";
@@ -58,7 +57,15 @@ function slugify(text) {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 }
 
-/* 🔁 GEMINI MODEL ROTATION HANDLER */
+/* 🔒 YAML-SAFE SANITIZER (CRITICAL FIX) */
+function yamlSafe(str = "") {
+  return str
+    .replace(/\r?\n+/g, " ")
+    .replace(/\0/g, "")
+    .trim();
+}
+
+/* 🔁 GEMINI MODEL ROTATION */
 async function generateWithModelRotation(prompt) {
   let lastError = null;
 
@@ -67,8 +74,7 @@ async function generateWithModelRotation(prompt) {
       console.log(`🔄 Using model: ${modelName}`);
       const model = genAI.getGenerativeModel({ model: modelName });
       const result = await model.generateContent(prompt);
-      const response = await result.response;
-      return response.text();
+      return result.response.text();
     } catch (err) {
       lastError = err;
       const msg = err.message || String(err);
@@ -86,7 +92,7 @@ async function generateWithModelRotation(prompt) {
     }
   }
 
-  throw new Error("All Gemini models exhausted");
+  throw lastError || new Error("All Gemini models exhausted");
 }
 
 /* ---------------- DUPLICATE CHECKS ---------------- */
@@ -138,11 +144,12 @@ Rules:
 - Safe for AdSense
 - Not medical, legal, political, adult
 - Something people actually search
-- No explanation, only the term
+- Output ONLY the term
 `;
 
-  let term = (await generateWithModelRotation(prompt)).trim()
-    .replace(/^["']|["']$/g, "");
+  let term = (await generateWithModelRotation(prompt))
+    .replace(/^["']|["']$/g, "")
+    .trim();
 
   if (
     term.length < 2 ||
@@ -166,7 +173,7 @@ Define the term clearly and professionally.
 
 Term: ${term}
 
-Format strictly as:
+Format EXACTLY as:
 
 DEFINITION:
 (one sentence)
@@ -190,21 +197,24 @@ KEYWORDS:
   const date = new Date().toISOString();
   const fileName = `${date.split("T")[0]}-${slug}.md`;
 
-  if (!fs.existsSync(MEANING_DIR)) fs.mkdirSync(MEANING_DIR, { recursive: true });
+  if (!fs.existsSync(MEANING_DIR)) {
+    fs.mkdirSync(MEANING_DIR, { recursive: true });
+  }
 
-  fs.writeFileSync(
-    path.join(MEANING_DIR, fileName),
-`---
-term: "${term}"
-definition: "${def}"
+  /* ✅ YAML-SAFE FRONTMATTER (NO QUOTE BREAKS) */
+  const markdown = `---
+term: "${yamlSafe(term)}"
+definition: |
+  ${yamlSafe(def)}
 date: "${date}"
 slug: "${slug}"
-keywords: "${keywords || ""}"
+keywords: "${yamlSafe(keywords || "")}"
 ---
 
-${body}`
-  );
+${body}
+`;
 
+  fs.writeFileSync(path.join(MEANING_DIR, fileName), markdown);
   return term;
 }
 
