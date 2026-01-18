@@ -1,0 +1,25 @@
+---
+title: "Delhi's Air Quality Index Reaches \"Severe\" Category Amidst Persistent Cold Wave"
+date: "2026-01-18T03:29:27.197Z"
+slug: "delhi-s-air-quality-index-reaches-severe-category-amidst-persistent-cold-wave"
+category: "technology"
+description: "Delhi recently recorded an Air Quality Index (AQI) of 439, classifying it as \"severe,\" while a cold wave and dense fog continue to affect the region."
+keywords: "Delhi AQI, air quality, severe pollution, cold wave, fog, Delhi smog, environmental health, India pollution, PM2.5"
+---
+
+The National Capital Territory of Delhi recently experienced a significant deterioration in its air quality, with the Air Quality Index (AQI) officially reported at 439. This figure places the city's air quality firmly within the "severe" category, indicating serious health risks for residents. Concurrently, a persistent cold wave and widespread fog have continued to blanket the region, further compounding the challenging environmental conditions. Authorities and meteorological departments are closely monitoring the situation as these combined conditions impact public health and daily activities across the metropolitan area.
+
+An AQI reading of 401 to 500 is categorized as "severe" by the Central Pollution Control Board (CPCB) and India's Ministry of Environment, Forest and Climate Change. This classification signifies that the air quality is detrimental to the health of both healthy individuals and those with pre-existing conditions. Exposure to such high levels of pollutants can lead to respiratory illnesses, cardiovascular problems, and exacerbate existing ailments, particularly among vulnerable populations including children, the elderly, and individuals with chronic diseases. The primary pollutants of concern in such severe conditions typically include fine particulate matter (PM2.5) and coarser particulate matter (PM10), alongside other gases like nitrogen dioxide.
+
+The current severe air quality in Delhi is attributed to a combination of meteorological and anthropogenic factors. Low wind speeds, characteristic of winter months, reduce the dispersion of pollutants, leading to their accumulation close to the ground. Additionally, a persistent cold wave contributes to temperature inversions, which trap smog and particulate matter. Sources such as vehicular emissions, industrial discharges, construction dust, and regional agricultural stubble burning often contribute to the particulate load in the atmosphere during this period. The dense fog present across the city further reduces visibility and can interact with pollutants, intensifying the smog effect and making the air heavier and more hazardous to breathe.
+
+The combination of severe air pollution, cold temperatures, and dense fog has had tangible impacts on the daily lives of Delhi's approximately 30 million residents. Visibility has been significantly reduced across the city, affecting road, rail, and air travel and leading to potential delays and disruptions. Public health advisories issued by authorities recommend minimizing outdoor activities, especially for sensitive groups, and using N95 masks when venturing outside. Schools have previously implemented closures or shifted to online learning during periods of severe air pollution to protect students from adverse health effects. The prolonged exposure to such conditions places a considerable strain on public health infrastructure.
+
+*   **Current AQI**: 439 (categorized as "severe").
+*   **Official Classification**: "Severe" indicates that the air quality can affect healthy people and seriously impact those with existing diseases.
+*   **Primary Pollutants of Concern**: Fine particulate matter (PM2.5) and coarser particulate matter (PM10) are typically the dominant pollutants during such episodes.
+*   **Health Advisory**: Residents, particularly children, the elderly, and individuals with respiratory or cardiovascular conditions, are advised to avoid prolonged or heavy exertion outdoors.
+*   **Meteorological Conditions**: Persistent cold wave and dense fog contribute to reduced pollutant dispersion and significantly impact visibility.
+*   **Visibility**: Reports indicate poor visibility conditions across various parts of the city, affecting all modes of transportation.
+
+As the city continues to navigate these challenging environmental conditions, government agencies and environmental watchdogs maintain continuous monitoring of air quality levels. Forecasts indicate that current meteorological patterns, including low temperatures and fog, may persist in the immediate future, which could continue to hinder the natural dispersion of pollutants. Public health officials emphasize adherence to protective measures, while long-term strategies for pollution control remain a focus for regional and national authorities to mitigate the recurrence and severity of such episodes in the future.
