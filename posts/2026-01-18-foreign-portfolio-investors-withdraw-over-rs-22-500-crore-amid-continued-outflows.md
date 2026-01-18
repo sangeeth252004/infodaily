@@ -1,0 +1,18 @@
+---
+title: "Foreign Portfolio Investors Withdraw Over Rs 22,500 Crore Amid Continued Outflows"
+date: "2026-01-18T09:13:34.676Z"
+slug: "foreign-portfolio-investors-withdraw-over-rs-22-500-crore-amid-continued-outflows"
+category: "technology"
+description: "Foreign Portfolio Investors (FPIs) have withdrawn over Rs 22,500 crore from Indian equities in October so far, maintaining their net seller status amidst global economic uncertainties."
+keywords: "FPI outflows, foreign investment, Indian equities, capital markets, net sellers, rupee depreciation, global inflation, interest rates, India economy"
+---
+
+Foreign Portfolio Investors (FPIs) have continued their selling trend in Indian capital markets, withdrawing over Rs 22,500 crore from domestic equities in October so far. This significant divestment underscores a sustained period of outflows by overseas investors, who have largely remained net sellers for the majority of the current calendar year, according to data from depositories.
+
+The latest figure for October marks a continuation of the selling streak that resumed in September, when FPIs pulled out a net amount of Rs 7,624 crore. Earlier in October, specifically during the first week, these investors withdrew Rs 5,122 crore, contributing to the growing overall monthly outflow. Cumulatively, FPIs have divested more than Rs 1.7 lakh crore from the Indian markets since the beginning of 2022. This persistent exit of foreign capital indicates a cautious sentiment among international investors towards emerging markets, including India.
+
+Several global macroeconomic factors are cited as key drivers behind the FPI exodus. These include the aggressive monetary policy tightening by central banks worldwide, particularly the US Federal Reserve's successive interest rate hikes aimed at combating persistent inflation. Rising crude oil prices, which impact import bills for oil-dependent economies like India, and the strengthening US dollar against major currencies, further contribute to the attractiveness of dollar-denominated assets and create pressure on emerging market currencies. Concerns about a potential global recession and geopolitical uncertainties also play a role in investors' risk-off sentiment.
+
+The continuous FPI outflows exert downward pressure on the Indian rupee, which has depreciated against the US dollar, reaching new record lows. This divestment also contributes to volatility in the domestic stock market, with benchmark indices experiencing fluctuations. While FPIs have been net sellers, Domestic Institutional Investors (DIIs) have largely counterbalanced some of the selling pressure by remaining net buyers in the Indian equity market, providing a degree of stability. The selling has been predominantly concentrated in the equity segment, with the debt market experiencing relatively smaller outflows or marginal inflows during specific periods.
+
+The trajectory of FPI flows in the near term is expected to remain highly dependent on the evolving global economic landscape. Factors such as the pace of global interest rate hikes, inflation trends, crude oil price movements, and the overall strength of the US dollar will continue to influence foreign investor sentiment and their allocation decisions concerning Indian assets. Market participants are closely monitoring these global cues for signs of a potential reversal in the FPI selling trend.
