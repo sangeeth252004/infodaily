@@ -1,0 +1,22 @@
+---
+title: "DSSSB Result 2026 Declared for Various Posts; Merit List and Cutoff Scores Released"
+date: "2026-01-20T03:02:10.395Z"
+slug: "dsssb-result-2026-declared-for-various-posts-merit-list-and-cutoff-scores-released"
+category: "tools"
+description: "The Delhi Subordinate Services Selection Board (DSSSB) has announced results for multiple recruitment examinations conducted in late 2025 and early 2026. Candidates can now check provisional merit lists, category-wise cutoff marks, and individual scores on the official website dsssb.delhi.gov.in for positions including PGT, TGT, and Junior Engineer."
+keywords: "DSSSB Result 2026, DSSSB, Delhi Subordinate Services Selection Board, result, merit list, cutoff, marks, PGT, TGT, Junior Engineer, Delhi government jobs, recruitment, dsssb.delhi.gov.in, exam results"
+---
+
+The Delhi Subordinate Services Selection Board (DSSSB) has officially released the results for various recruitment examinations conducted in late 2025 and early 2026. The results, declared on March 15, 2026, are now accessible on the board's official website, dsssb.delhi.gov.in, bringing clarity for thousands of candidates who appeared for these competitive tests across multiple post categories.
+
+This announcement marks a significant milestone in the recruitment process for numerous government departments and autonomous bodies under the Government of National Capital Territory of Delhi (GNCTD). The examinations were conducted to fill vacancies ranging from teaching positions such as Post Graduate Teacher (PGT) and Trained Graduate Teacher (TGT) to technical and administrative roles, including Junior Engineer (Civil) and Assistant Law Officer. The release includes the provisional merit lists, detailed cutoff scores, and individual marks obtained by the candidates, enabling them to ascertain their performance and selection status.
+
+The DSSSB conducted computer-based examinations (CBE) for these posts over several months, ensuring a fair and transparent selection procedure. The recruitment drive aimed to address critical staffing needs within Delhi's public services, offering opportunities for qualified individuals across various disciplines. Post codes such as 01/24 (for PGT English), 02/24 (TGT Social Science), 03/24 (Junior Engineer Civil), and 04/24 (Assistant Law Officer) are among those for which results have been declared. The total number of vacancies across these categories was estimated to be around 7,500, attracting hundreds of thousands of applicants throughout the application phase.
+
+Key details regarding the DSSSB 2026 results:
+*   **Accessing Results:** Candidates can download the result PDFs directly from the 'Latest Results' section on dsssb.delhi.gov.in. Access typically requires the candidate's application number and date of birth for individual scorecards.
+*   **Information Provided:** The comprehensive result PDFs contain the roll numbers of provisionally selected candidates, category-wise cutoff marks for each post, and detailed scorecards including sectional marks.
+*   **Cutoff Scores:** Cutoff marks varied significantly across different posts and categories, reflecting the competitive nature of the examinations. For instance, provisional cutoffs for PGT English (Male) were reported around 155.25 for the unreserved category, while for TGT Social Science (Female), they were approximately 132.75. Junior Engineer (Civil) saw cutoffs near 118.50 for the general category. These figures are indicative of the minimum performance required for provisional selection.
+*   **Selection Status:** The lists identify candidates who have been provisionally shortlisted for the subsequent stage of the recruitment process, pending document verification.
+
+Provisionally selected candidates are now required to prepare for the e-dossier submission and subsequent document verification process. The DSSSB will issue detailed instructions regarding the uploading of required documents, educational certificates, experience letters, and other relevant proofs through the online E-dossier module. This stage is crucial for verifying the eligibility and authenticity of claims made by the candidates during their application. The board is expected to release the schedule for document verification and e-dossier submission within the coming weeks, urging candidates to regularly monitor the official website for updates and further announcements. Successful completion of this final stage will lead to the formal appointment of candidates to their respective positions.
