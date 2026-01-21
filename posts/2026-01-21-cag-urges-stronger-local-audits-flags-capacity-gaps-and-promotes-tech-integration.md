@@ -1,0 +1,20 @@
+---
+title: "CAG Urges Stronger Local Audits, Flags Capacity Gaps and Promotes Tech Integration"
+date: "2026-01-21T17:47:40.659Z"
+slug: "cag-urges-stronger-local-audits-flags-capacity-gaps-and-promotes-tech-integration"
+category: "ai"
+description: "India's Comptroller and Auditor General, Girish Chandra Murmu, called for enhanced capacity in local audits of PRIs and ULBs, advocating for tech-led methodologies to ensure financial accountability."
+keywords: "CAG, local audits, Panchayati Raj Institutions, Urban Local Bodies, capacity gaps, technology-led audits, financial accountability, Girish Chandra Murmu, PAI strengthening, data analytics, ODISHA, Audit Management System"
+---
+
+Comptroller and Auditor General (CAG) of India, Girish Chandra Murmu, recently highlighted significant capacity shortfalls in the audit mechanisms of Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs) across the country. Speaking at a 'Regional Training Conference on Audit of Panchayati Raj Institutions & Urban Local Bodies,' Mr. Murmu advocated for the strengthening of Public Accounts Institutions (PAIs) at the local level and a comprehensive shift towards technology-led audits to enhance transparency and financial accountability.
+
+The CAG's remarks underscore a critical need for robust oversight at the grassroots level, particularly as the financial devolution to local bodies continues to increase. PRIs and ULBs are responsible for managing substantial public funds allocated for various development schemes aimed at improving local infrastructure and services. Effective auditing of these funds is paramount to ensuring their judicious utilization and preventing financial irregularities.
+
+Mr. Murmu identified several challenges impeding the effectiveness of local audits. These include a prevalent lack of specialized expertise among audit personnel, insufficient staffing levels, and a continued reliance on conventional, often outdated, audit methodologies. Such deficiencies can compromise the thoroughness and efficiency required for comprehensive financial scrutiny. To address these issues, the CAG's office is actively collaborating with state audit departments to promote the adoption of a uniform audit framework, aiming to standardize practices and elevate the quality of audits nationwide.
+
+A central tenet of the CAG's push is the integration of advanced technology into audit processes. Mr. Murmu emphasized that technologies such as data analytics, artificial intelligence (AI), and machine learning can significantly enhance audit efficiency, expand coverage, and provide deeper insights into financial transactions. These tools facilitate proactive identification of anomalies and systemic weaknesses. The CAG's office has developed initiatives like 'ODISHA' (Online Decentralised Integrated System for Holistic Audit) and the Audit Management System (AMS) to support states in adopting these tech-driven approaches, providing platforms for more streamlined and effective audits.
+
+Strengthening local audits holds broader implications for governance, fostering greater transparency and public trust in local administration. Beyond technological upgrades and capacity building, the CAG also stressed the importance of public participation in local audit processes, suggesting it could act as an additional layer of oversight and accountability. This collaborative approach, involving both official auditors and the citizenry, is viewed as crucial for ensuring the effective utilization of public resources.
+
+The call from the CAG indicates a clear strategic direction towards modernizing and bolstering the financial oversight of India's local self-governing bodies. Going forward, emphasis is expected to remain on sustained training, targeted capacity building programs, and the widespread adoption of technology to achieve more robust, transparent, and effective local governance audits. These efforts aim to fortify the financial integrity of PRIs and ULBs, ultimately contributing to better public service delivery and accountability at the local level.
