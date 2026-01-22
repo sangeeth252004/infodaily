@@ -1,0 +1,25 @@
+---
+title: "NRIs in UAE Navigate Legal Pathways for Property Acquisition in India on Behalf of Friends"
+date: "2026-01-22T13:40:28.057Z"
+slug: "nris-in-uae-navigate-legal-pathways-for-property-acquisition-in-india-on-behalf-of-friends"
+category: "technology"
+description: "Explore the legal mechanisms available to Non-Resident Indians (NRIs) in the UAE seeking to purchase property in India for a friend, focusing on compliance with Indian regulations."
+keywords: "NRI property India, UAE NRI, buy property for friend, Power of Attorney India, Gift Deed India, FEMA guidelines, Indian real estate, Non-Resident Indian property law"
+---
+
+Non-Resident Indians (NRIs) residing in the United Arab Emirates frequently explore investment opportunities in India, including real estate. A common query arises regarding the legality and process of an NRI purchasing property in India not for their direct ownership, but on behalf of a friend. While direct purchase for another is complex, established legal frameworks permit such transactions through specific, well-defined procedures that comply with Indian financial and property laws.
+
+The acquisition of property in India by NRIs is primarily governed by the Foreign Exchange Management Act (FEMA), 1999, and regulations issued by the Reserve Bank of India (RBI). These guidelines dictate permissible transactions and ownership structures. For an NRI in the UAE to facilitate a property purchase for a friend in India, the transaction must be structured to ensure legal ownership eventually rests with the intended recipient while adhering to all regulatory stipulations.
+
+One of the most common and legally recognised methods for an NRI to assist a friend in purchasing property is through a Power of Attorney (PoA). A PoA is a legal document that grants one person (the "attorney-in-fact" or "agent") the authority to act on behalf of another person (the "principal") in specified matters. In this context, the friend in India would typically be the principal, granting the NRI the PoA to execute specific actions related to the property purchase.
+
+*   **Specific Power of Attorney:** This is crucial. Instead of a general PoA, which grants broad authority, a specific or special Power of Attorney should be drafted. This document meticulously outlines the exact actions the NRI is authorised to perform, such as signing sale deeds, making payments from designated accounts, and registering the property, all on behalf of the friend.
+*   **Execution and Registration:** The PoA must be properly executed by the friend (the principal) in India or, if the friend is also an NRI, as per international notarisation and apostille conventions. It then needs to be registered with the relevant sub-registrar's office in India to be legally valid for property transactions.
+*   **Fund Flow:** Funds for the property purchase must originate from the friend's (resident Indian) legitimate sources. An NRI cannot use their NRE (Non-Resident External) or NRO (Non-Resident Ordinary) account funds to purchase property directly in the friend's name without specific gifting provisions, which would then make the NRI the donor and the friend the donee. If the NRI is solely acting as an agent, the financial burden lies with the friend.
+
+Alternatively, an NRI can directly purchase property in India and subsequently transfer ownership to the friend. This route involves the NRI becoming the owner first, which carries its own set of regulations and tax implications before a transfer can occur.
+
+*   **Gift Deed:** If an NRI wishes to transfer property already owned by them in India to a friend, a Gift Deed can be executed. This involves the voluntary transfer of property without any monetary consideration. Gift Deeds must be registered, and stamp duty is applicable based on state-specific regulations. It's important to note that while gifting is generally permissible between relatives without tax implications for the donee under certain conditions, gifting to a non-relative (friend) may attract income tax in the hands of the donee if the value exceeds INR 50,000, under Section 56(2)(x) of the Income Tax Act, 1961.
+*   **Joint Ownership:** An NRI can also jointly purchase property with a resident Indian friend. In this scenario, both individuals would be co-owners. The NRI's share of the investment would need to be routed through permissible NRI accounts (NRE/NRO) or inward remittances. The friend's share would come from resident Indian accounts. Ownership percentages, financial contributions, and future liabilities should be clearly defined in the sale deed.
+
+Navigating these legal pathways requires meticulous attention to detail and adherence to both Indian and international legal protocols. It is strongly recommended that both the NRI in the UAE and the friend in India consult with legal and financial experts specialising in Indian real estate and NRI affairs to ensure full compliance and avoid future disputes or regulatory penalties. Proper documentation, understanding tax liabilities, and clear communication are paramount for a successful and legally sound transaction.
