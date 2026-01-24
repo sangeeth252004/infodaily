@@ -1,0 +1,20 @@
+---
+title: "Delhi Police Arrest Accused in Child Rape Case Aided by 10-Year-Old's Specific Clues"
+date: "2026-01-24T00:59:38.624Z"
+slug: "delhi-police-arrest-accused-in-child-rape-case-aided-by-10-year-old-s-specific-clues"
+category: "technology"
+description: "Delhi Police swiftly arrested a man accused of raping a five-year-old girl in Shahbad Dairy, Outer North Delhi, following crucial descriptive clues provided by her 10-year-old brother, including details of a \"blue room\" and a \"broken wall.\""
+keywords: "Delhi Police, rape accused arrest, child testimony, Shahbad Dairy, Gopi, POCSO Act, Outer North district, criminal investigation, police procedure, child witness"
+---
+
+Delhi Police have apprehended a 24-year-old man in connection with the alleged rape of a five-year-old girl in the Shahbad Dairy area of Outer North Delhi. The arrest, which occurred on April 20, 2022, less than 24 hours after the incident was reported, was significantly facilitated by precise clues provided by the victim's 10-year-old brother.
+
+The incident unfolded on the evening of April 19, 2022, when the five-year-old girl was reported missing from her home. She was later located in a distressed state. During the initial police inquiry, her older brother, aged 10, shared critical observations that proved instrumental in guiding investigators. He informed the police that his sister had been taken to a "blue room" located within a neighbour's house. Crucially, he also mentioned a distinct feature of the location: a "broken wall" or a "crack in the wall." These details, though seemingly minor, provided concrete leads in a challenging environment.
+
+Upon receiving this information, a dedicated team comprising investigators from the Outer North district’s cyber unit and local police personnel was immediately mobilized. The officers recognized the potential accuracy and specific nature of the child's account, which offered tangible physical descriptions in an otherwise vague situation. Faced with the daunting task of searching a densely populated residential area, the police operation commenced with a meticulous door-to-door canvassing effort, specifically targeting homes that matched the unique identifiers of a "blue room" and a "broken wall." This systematic approach was designed to narrow down the numerous potential locations.
+
+The investigative team also leveraged technical surveillance to complement their on-ground efforts. By cross-referencing information obtained from the child witness with digital data, police were able to further refine their search parameters. The combination of the precise physical descriptions provided by the 10-year-old and advanced technological assistance enabled officers to pinpoint a specific residence. Upon identifying a house that corresponded exactly with the detailed description provided by the young boy, police successfully apprehended a man identified as Gopi, a 24-year-old labourer originally from Bihar, who resided at the location. Gopi was subsequently identified as the alleged perpetrator.
+
+The rapid resolution of this case highlights the critical importance of prompt reporting by victims' families and the effective utilization of child testimony in criminal investigations. Children, often overlooked as reliable witnesses, can provide invaluable information when listened to carefully. The Delhi Police's swift action, from receiving the initial complaint to making an arrest within a day, demonstrates a commitment to rapid response in cases involving vulnerable individuals.
+
+The accused, Gopi, has been formally charged under relevant sections of the Indian Penal Code (IPC) and the Protection of Children from Sexual Offences (POCSO) Act, 2012. He remains in police custody as the legal process continues. The victim is reported to be receiving necessary medical attention and psychological support. This case serves as an example of how concrete details, even when communicated through the perspective of a child, can significantly impact the outcome of a complex criminal investigation.
