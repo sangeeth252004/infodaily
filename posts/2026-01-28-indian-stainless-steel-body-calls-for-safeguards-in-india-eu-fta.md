@@ -1,0 +1,23 @@
+---
+title: "Indian Stainless Steel Body Calls for Safeguards in India-EU FTA"
+date: "2026-01-28T16:25:55.308Z"
+slug: "indian-stainless-steel-body-calls-for-safeguards-in-india-eu-fta"
+category: "ai"
+description: "The Indian Stainless Steel Development Association (ISSDA) has urged the government to incorporate robust safeguard mechanisms into the India-EU Free Trade Agreement to protect the domestic industry from potential surges in low-cost imports."
+keywords: "India-EU FTA, Free Trade Agreement, ISSDA, Indian Stainless Steel Development Association, stainless steel industry, trade safeguards, import duties, rules of origin, domestic industry protection, trade negotiations, Make in India."
+---
+
+NEW DELHI – The Indian Stainless Steel Development Association (ISSDA) has formally appealed to the Indian government, urging the integration of robust safeguard mechanisms into the ongoing India-European Union Free Trade Agreement (FTA) negotiations. The primary objective of this plea is to shield the domestic stainless steel manufacturing sector from a potential surge in low-cost imports that could follow significant tariff reductions under the proposed trade pact. This proactive move comes as both India and the European Union continue intensive discussions aimed at finalising a comprehensive and mutually beneficial trade agreement.
+
+The Indian stainless steel industry, a vital component of the nation's manufacturing landscape, expresses significant apprehension that the removal or substantial reduction of import duties on stainless steel products from the EU could lead to market distortions. A key concern highlighted by ISSDA is not only the influx of direct EU-originating products but also the potential for products from third countries to be rerouted through the EU to exploit preferential tariffs, a practice often referred to as trade deflection. Such a scenario could undermine years of investment and capacity building within India.
+
+Industry stakeholders emphasize that the domestic stainless steel sector has made substantial investments in modernizing facilities, expanding production capacities, and adopting advanced technologies. This includes significant capital expenditure towards greenfield and brownfield projects, aligning with national initiatives like 'Make in India.' With an installed capacity that largely meets domestic demand and supports thousands of direct and indirect jobs, the industry plays a crucial role in India's economic growth and industrial self-reliance across various sectors, including automotive, infrastructure, consumer durables, and capital goods.
+
+ISSDA's representation outlines several key areas where protective measures are deemed essential:
+
+*   **Stringent Rules of Origin (RoO):** The association has specifically called for robust and clearly defined Rules of Origin criteria within the FTA to prevent products manufactured in non-EU countries from gaining duty-free access to the Indian market by merely undergoing minor processing or labelling in EU member states. This measure aims to ensure that only genuinely EU-originating goods benefit from tariff concessions.
+*   **Effective Trade Defense Instruments:** ISSDA advocates for the continued availability and efficient application of trade defense instruments, including anti-dumping duties, countervailing duties, and safeguard duties. These instruments are considered critical tools to address unfair trade practices such as dumping and subsidies that could distort market competition.
+*   **Phased Tariff Reduction:** The industry body has suggested a carefully calibrated and phased approach to tariff reductions, allowing the domestic sector adequate time to adjust to new competitive environments and mitigate immediate adverse impacts.
+*   **Monitoring and Review Mechanisms:** The inclusion of provisions for regular joint reviews and monitoring of trade flows post-FTA implementation has also been proposed, enabling timely intervention if unforeseen surges in imports or other adverse impacts on the domestic industry are observed.
+
+The Indian government is expected to carefully evaluate these detailed representations from the stainless steel industry as it navigates the complex landscape of international trade negotiations with the EU. The ongoing discussions for the India-EU FTA aim to boost bilateral trade and investment, currently valued at over €115 billion, while simultaneously addressing the concerns of key domestic industrial sectors to ensure equitable and sustainable economic growth. The final shape of the agreement will reflect a balance between opening markets and protecting national industrial interests.
