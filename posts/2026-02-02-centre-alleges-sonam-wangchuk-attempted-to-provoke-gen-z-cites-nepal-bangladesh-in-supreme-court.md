@@ -1,0 +1,21 @@
+---
+title: "Centre Alleges Sonam Wangchuk Attempted to Provoke Gen Z, Cites \"Nepal-Bangladesh\" in Supreme Court"
+date: "2026-02-02T14:36:48.423Z"
+slug: "centre-alleges-sonam-wangchuk-attempted-to-provoke-gen-z-cites-nepal-bangladesh-in-supreme-court"
+category: "technology"
+description: "The Union Government's counsel in the Supreme Court accused Sonam Wangchuk of attempting to incite \"Gen Z\" and referenced \"Nepal-Bangladesh\" in connection with his activism for Ladakh's environmental protection and constitutional safeguards."
+keywords: "Sonam Wangchuk, Supreme Court, Centre, Ladakh, Gen Z, Nepal-Bangladesh, activism, protest, environmental protection, Sixth Schedule"
+---
+
+The Union Government, through its legal representatives, recently submitted before the Supreme Court of India that environmental activist and innovator Sonam Wangchuk attempted to "provoke Gen Z" and made references to "Nepal-Bangladesh" in the context of his ongoing advocacy. This contention was raised during court proceedings related to Wangchuk's activism concerning the protection of Ladakh's fragile ecosystem and its demand for constitutional safeguards under the Sixth Schedule.
+
+The Centre's counsel contended that Mr. Wangchuk's public statements and activities were aimed at mobilizing young people, specifically "Gen Z," to participate in protests and exert pressure on the government. The reference to "Nepal-Bangladesh" was reportedly made by the Centre to suggest potential demographic or security concerns that could arise from unchecked activism or policies, though the precise context of this comparison within the court's proceedings was detailed in the submission. The government's argument highlighted what it perceived as the broader implications of Mr. Wangchuk's campaign.
+
+Sonam Wangchuk, a prominent figure known for his educational reforms and environmental initiatives, has been at the forefront of a movement advocating for the recognition of Ladakh under the Sixth Schedule of the Constitution. This constitutional provision offers special protections for tribal areas, including land rights, self-governance, and cultural preservation, which Wangchuk and his supporters argue are crucial for safeguarding Ladakh's unique environment and indigenous communities from the potential impacts of industrialization and climate change. His activism has included hunger strikes and public appeals, drawing national and international attention to the region's vulnerabilities.
+
+Key details surrounding the Centre's submission include:
+*   **Allegation of Incitement:** The government's primary charge revolved around the claim that Wangchuk was actively seeking to "provoke" and mobilize younger generations, implying a deliberate effort to stir unrest.
+*   **"Nepal-Bangladesh" Reference:** This specific geographic reference by the Centre's counsel was reportedly used to underscore concerns about potential demographic shifts or border security challenges that the government suggested could be exacerbated by certain forms of unregulated development or migration, potentially linking these to the arguments made by activists like Wangchuk regarding unchecked growth.
+*   **Context of Activism:** The submissions were made within the broader context of ongoing legal challenges and public discourse surrounding Ladakh's future, particularly its demand for Sixth Schedule status. Wangchuk has argued that without such protection, Ladakh's glaciers and traditional way of life are at risk.
+
+The Supreme Court is currently hearing matters related to the constitutional status of Ladakh and various petitions concerning environmental protection and development in the region. The Centre's intervention, framing Wangchuk's actions in this manner, adds a significant dimension to the legal and political discourse surrounding Ladakh's future. The implications of such governmental charges against a respected public figure known for peaceful advocacy could resonate across environmental and human rights circles. The court's response to these submissions and its subsequent directives will be closely watched as the proceedings continue.
