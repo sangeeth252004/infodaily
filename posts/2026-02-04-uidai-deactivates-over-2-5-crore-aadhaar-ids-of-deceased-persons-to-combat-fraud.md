@@ -1,0 +1,20 @@
+---
+title: "UIDAI Deactivates Over 2.5 Crore Aadhaar IDs of Deceased Persons to Combat Fraud"
+date: "2026-02-04T17:38:45.355Z"
+slug: "uidai-deactivates-over-2-5-crore-aadhaar-ids-of-deceased-persons-to-combat-fraud"
+category: "ai"
+description: "The Unique Identification Authority of India (UIDAI) has deactivated over 25 million Aadhaar numbers belonging to deceased individuals as part of a cleanup drive to curb fraud and prevent misuse of government benefits."
+keywords: "UIDAI, Aadhaar, Aadhaar deactivation, deceased persons, fraud prevention, identity management, digital India, government schemes, data integrity, UIDAI cleanup"
+---
+
+The Unique Identification Authority of India (UIDAI) has undertaken a significant cleanup drive, deactivating over 2.5 crore (25 million) Aadhaar identification numbers belonging to deceased individuals. This large-scale operation aims to mitigate potential fraud and misuse of the unique digital identity, which is foundational to numerous government services and welfare schemes across India.
+
+Aadhaar, a 12-digit unique identification number, serves as a primary proof of identity and address for residents of India. It is widely used for accessing subsidies, opening bank accounts, filing income tax returns, and availing various government-provided benefits. The continued presence of active Aadhaar IDs for deceased persons poses significant risks, including the potential for impersonation, fraudulent claims of government entitlements, and the siphoning off of public funds. Such misuse can lead to financial losses for the exchequer and dilute the effectiveness of welfare programs intended for living beneficiaries.
+
+To address this vulnerability, the UIDAI has established a collaborative mechanism with state registrars of births and deaths. This system facilitates the sharing of death registration data, enabling the UIDAI to identify and deactivate Aadhaar numbers associated with individuals officially declared deceased. This inter-departmental cooperation is crucial for maintaining the accuracy and integrity of the vast Aadhaar database, which currently enrolls over 1.3 billion residents. The initiative underscores the UIDAI's commitment to ensuring that the digital identity ecosystem remains robust and trustworthy.
+
+The deactivation of over 2.5 crore Aadhaar IDs represents a substantial step towards enhancing the security of India's digital public infrastructure. By systematically removing these inactive accounts, the UIDAI is working to improve the precision of government beneficiary lists, prevent the misappropriation of welfare funds, and streamline the delivery of public services. This proactive measure not only safeguards financial resources but also reinforces public trust in the Aadhaar system as a reliable tool for transparent governance and the equitable distribution of benefits.
+
+The cleanup drive is an ongoing process, reflecting the continuous efforts required to manage and update a database of this magnitude. The legal framework governing Aadhaar, specifically the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, provides the UIDAI with the mandate to maintain the accuracy and security of the Aadhaar ecosystem. Regular audits and updates, powered by data sharing agreements, are vital for sustained integrity. This includes protocols for managing changes in resident data, ensuring that the system reflects real-time demographic shifts.
+
+The UIDAI reiterates its commitment to strengthening the Aadhaar framework against fraudulent activities. Such proactive data hygiene measures are essential for the long-term viability and effectiveness of India's digital governance initiatives. As the country increasingly relies on digital identity for public service delivery, maintaining an accurate and secure Aadhaar database remains a paramount objective for the authority.
