@@ -7,13 +7,16 @@ import { format } from 'date-fns'
 import { cleanTitle, getCanonicalUrl, getSiteMetadata } from '../../lib/seo'
 
 interface PostPageProps {
-  post: Post & { content: string; formattedDate: string; cleanTitle: string }
+  post: Post & { content: string; formattedDate: string }
   relatedPosts: Array<Post & { formattedDate: string; cleanTitle: string }>
 }
 
 export default function PostPage({ post, relatedPosts }: PostPageProps) {
   const siteMeta = getSiteMetadata()
-  const cleanPostTitle = post.cleanTitle
+
+  // FIX: compute clean title safely
+  const cleanPostTitle = cleanTitle(post.title)
+
   const pageTitle = `${cleanPostTitle} | InfoDaily`
   const canonicalUrl = getCanonicalUrl(`/posts/${post.slug}`)
   const publishedDate = new Date(post.date).toISOString()
@@ -25,9 +28,18 @@ export default function PostPage({ post, relatedPosts }: PostPageProps) {
     description: post.description,
     datePublished: publishedDate,
     dateModified: publishedDate,
-    author: { '@type': 'Organization', name: 'InfoDaily Editorial Team' },
-    publisher: { '@type': 'Organization', name: siteMeta.name },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
+    author: {
+      '@type': 'Organization',
+      name: 'InfoDaily Editorial Team',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: siteMeta.name,
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': canonicalUrl,
+    },
     articleSection: post.category,
   }
 
@@ -37,7 +49,6 @@ export default function PostPage({ post, relatedPosts }: PostPageProps) {
         <title>{pageTitle}</title>
         <meta name="description" content={post.description} />
         <link rel="canonical" href={canonicalUrl} />
-
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostSchema) }}
@@ -85,12 +96,10 @@ export default function PostPage({ post, relatedPosts }: PostPageProps) {
               <div className="related-articles-grid">
                 {relatedPosts.map((relatedPost) => (
                   <article key={relatedPost.slug} className="related-article-card">
-                    <Link href={`/posts/${relatedPost.slug}`} className="related-article-link">
-                      <h3 className="related-article-title">{relatedPost.cleanTitle}</h3>
-                      <p className="related-article-description">{relatedPost.description}</p>
-                      <time dateTime={relatedPost.date}>
-                        {relatedPost.formattedDate}
-                      </time>
+                    <Link href={`/posts/${relatedPost.slug}`}>
+                      <h3>{relatedPost.cleanTitle}</h3>
+                      <p>{relatedPost.description}</p>
+                      <time>{relatedPost.formattedDate}</time>
                     </Link>
                   </article>
                 ))}
@@ -125,9 +134,7 @@ export default function PostPage({ post, relatedPosts }: PostPageProps) {
               strategy="afterInteractive"
             />
 
-            <p className="footer-copyright">
-              © {new Date().getFullYear()} InfoDaily
-            </p>
+            <p>© {new Date().getFullYear()} InfoDaily</p>
           </div>
         </footer>
       </div>
