@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next'
 import Head from 'next/head'
 import Link from 'next/link'
+import Script from "next/script"
 import { getAllPosts, Post } from '../lib/posts'
 import { format } from 'date-fns'
 import { getSiteMetadata, getCanonicalUrl, cleanTitle } from '../lib/seo'
@@ -13,7 +14,6 @@ export default function Home({ posts }: HomeProps) {
   const siteMeta = getSiteMetadata()
   const canonicalUrl = getCanonicalUrl('/')
 
-  // JSON-LD for SEO
   const websiteSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -29,7 +29,6 @@ export default function Home({ posts }: HomeProps) {
   return (
     <>
       <Head>
-        {/* Primary Meta */}
         <title>{siteMeta.title}</title>
         <meta name="title" content={siteMeta.title} />
         <meta name="description" content={siteMeta.description} />
@@ -40,19 +39,16 @@ export default function Home({ posts }: HomeProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="canonical" href={canonicalUrl} />
 
-        {/* Open Graph */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:title" content={siteMeta.title} />
         <meta property="og:description" content={siteMeta.description} />
         <meta property="og:site_name" content={siteMeta.name} />
 
-        {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={siteMeta.title} />
         <meta name="twitter:description" content={siteMeta.description} />
 
-        {/* Structured Data */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
@@ -73,6 +69,7 @@ export default function Home({ posts }: HomeProps) {
               <Link href="/vs" className="nav-link">Comparisons</Link>
             </div>
           </nav>
+
           <div className="hero-section">
             <h1 className="title">InfoDaily</h1>
             <p className="subtitle">Latest Verified News Updates</p>
@@ -81,6 +78,13 @@ export default function Home({ posts }: HomeProps) {
 
         <main className="main">
           <h2 className="section-title">Latest News</h2>
+
+          {/* Native Ad */}
+          <Script
+            src="https://pl28673593.effectivegatecpm.com/5ff153651c7fdf5d0d4b535a6916b968/invoke.js"
+            strategy="afterInteractive"
+          />
+          <div id="container-5ff153651c7fdf5d0d4b535a6916b968"></div>
 
           <div className="posts-grid">
             {posts
@@ -104,12 +108,8 @@ export default function Home({ posts }: HomeProps) {
 
                 return (
                   <article key={post.slug} className="post-card">
-                    <Link
-                      href={`/posts/${post.slug}`}
-                      className="post-card-link"
-                    >
+                    <Link href={`/posts/${post.slug}`} className="post-card-link">
                       <div className="post-card-content">
-                        {/* CATEGORY REMOVED – ALL ARE NEWS */}
                         <h2 className="post-title">
                           {cleanTitle(post.title)}
                         </h2>
@@ -117,13 +117,7 @@ export default function Home({ posts }: HomeProps) {
                           {post.description}
                         </p>
                         <div className="post-meta">
-                          <time
-                            dateTime={post.date}
-                            title={format(
-                              postDate,
-                              'MMMM dd, yyyy HH:mm'
-                            )}
-                          >
+                          <time dateTime={post.date}>
                             {timeDisplay}
                           </time>
                         </div>
@@ -133,32 +127,15 @@ export default function Home({ posts }: HomeProps) {
                 )
               })}
           </div>
-
-          {posts.length === 0 && (
-            <div className="empty-state">
-              <p>
-                No news available yet. Articles are published automatically from
-                verified trending sources.
-              </p>
-            </div>
-          )}
         </main>
 
         <footer className="footer">
           <div className="footer-content">
             <nav className="footer-links">
-              <Link href="/about" className="footer-link">
-                About
-              </Link>
-              <Link href="/privacy-policy" className="footer-link">
-                Privacy Policy
-              </Link>
-              <Link href="/contact" className="footer-link">
-                Contact
-              </Link>
-              <Link href="/disclaimer" className="footer-link">
-                Disclaimer
-              </Link>
+              <Link href="/about" className="footer-link">About</Link>
+              <Link href="/privacy-policy" className="footer-link">Privacy Policy</Link>
+              <Link href="/contact" className="footer-link">Contact</Link>
+              <Link href="/disclaimer" className="footer-link">Disclaimer</Link>
             </nav>
             <p className="footer-copyright">
               © {new Date().getFullYear()} InfoDaily. All rights reserved.
