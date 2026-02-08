@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Script from "next/script"
 import CalculatorLayout from '../../components/calculators/CalculatorLayout'
 import { CALCULATORS } from '../../lib/calculators/catalog'
 
@@ -11,6 +12,14 @@ export default function CalculatorsIndex() {
       h1="Free Online Calculators"
       intro="Accurate, easy-to-use calculators for everyday calculations. All tools are free and provide instant results with clear explanations."
     >
+
+      {/* Native Ad */}
+      <Script
+        src="https://pl28673593.effectivegatecpm.com/5ff153651c7fdf5d0d4b535a6916b968/invoke.js"
+        strategy="afterInteractive"
+      />
+      <div id="container-5ff153651c7fdf5d0d4b535a6916b968"></div>
+
       <div className="calc-grid">
         {CALCULATORS.map(calc => (
           <article key={calc.slug} className="post-card">
@@ -26,8 +35,7 @@ export default function CalculatorsIndex() {
           </article>
         ))}
       </div>
+
     </CalculatorLayout>
   )
 }
-
-
