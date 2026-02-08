@@ -1,0 +1,20 @@
+---
+title: "UIDAI Completes Over 1 Crore Biometric Updates for Children Nationwide"
+date: "2026-02-08T13:38:24.144Z"
+slug: "uidai-completes-over-1-crore-biometric-updates-for-children-nationwide"
+category: "ai"
+description: "The Unique Identification Authority of India (UIDAI) has completed over 1 crore mandatory biometric updates for children aged 0-18 across India, enhancing identity verification and access to services for minors."
+keywords: "Aadhaar, UIDAI, biometric update, child Aadhaar, Baal Aadhaar, identity verification, enrollment, India, government services, minor updates"
+---
+
+The Unique Identification Authority of India (UIDAI) has announced the completion of over one crore (10 million) mandatory biometric updates for children across India. This milestone was achieved as part of an ongoing nationwide drive aimed at ensuring the accuracy and validity of Aadhaar details for minors aged between 0 and 18 years. The updates are crucial for maintaining current identity records as children grow and their unique biometrics change.
+
+These biometric updates are a mandatory requirement for children holding a 'Baal Aadhaar,' the blue-colored Aadhaar card issued to children below five years of age. Unlike adult Aadhaar, Baal Aadhaar does not initially include biometric data such as fingerprints or iris scans, relying only on a facial photograph and demographic information linked to a parent or guardian's Aadhaar. To ensure the authenticity and continued utility of the Aadhaar number, updates are required at two specific age milestones: five years and fifteen years.
+
+Upon a child reaching the age of five, their first set of biometrics, including ten fingerprints, iris scans, and a facial photograph, must be captured and linked to their Aadhaar number. A similar, subsequent update is required when the child turns fifteen, to re-capture updated biometrics that reflect their adolescent growth. These updates are provided free of charge by the UIDAI to all residents, emphasizing accessibility for families. The completion of over 1 crore updates signifies a significant push in ensuring these crucial records are kept current.
+
+The importance of these updates extends to enabling children's access to various government-run welfare schemes and services. An updated Aadhaar ensures seamless verification for school admissions, scholarship applications, benefits under the Public Distribution System (PDS), and other critical services where Aadhaar is utilized as a primary identity document. Failure to update biometrics at the stipulated ages can lead to the temporary deactivation of the Aadhaar number, potentially hindering access to these essential provisions.
+
+To facilitate this extensive update drive, the UIDAI has utilized its network of Aadhaar enrolment and update centres located across banks, post offices, and designated government offices. Additionally, special camps have been organized in educational institutions and Anganwadi centers in collaboration with state governments and local authorities. This outreach strategy aims to bring the update services closer to families and communities, making the process more convenient for parents and guardians.
+
+The UIDAI continues to encourage parents and guardians to proactively schedule these mandatory biometric updates for their children. Public awareness campaigns are routinely conducted to inform citizens about the importance of these updates and the simple procedures involved. This ongoing effort underscores the authority's commitment to maintaining a robust and accurate national identity database, ensuring that all residents, including the youngest, can benefit from the Aadhaar ecosystem. The Authority aims to sustain this momentum to ensure comprehensive coverage and accuracy of all Aadhaar records nationwide.
