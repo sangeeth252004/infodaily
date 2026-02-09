@@ -1,0 +1,18 @@
+---
+title: "Cricketing Legends Ponting, Shastri Assess Babar Azam's T20 World Cup Form"
+date: "2026-02-09T09:52:45.883Z"
+slug: "cricketing-legends-ponting-shastri-assess-babar-azam-s-t20-world-cup-form"
+category: "technology"
+description: "Former international captains Ricky Ponting and Ravi Shastri have offered their assessments of Pakistan's Babar Azam's current batting form during the ICC Men's T20 World Cup, highlighting concerns about his strike rate and power hitting."
+keywords: "Babar Azam, Ricky Ponting, Ravi Shastri, T20 World Cup, Pakistan cricket, cricket performance, strike rate, power hitting"
+---
+
+Former Australian captain Ricky Ponting and ex-India head coach Ravi Shastri have critically evaluated the batting approach and form of Pakistan captain Babar Azam during the ongoing ICC Men's T20 World Cup. Their comments, widely reported, suggest a focus on Azam's perceived drop in power-hitting and a tendency to start innings cautiously, raising questions about his suitability for the aggressive demands of contemporary T20 cricket.
+
+Ricky Ponting, a three-time World Cup-winning captain, specifically noted a reduction in Azam's characteristic power. Ponting remarked that Azam has "lost a bit of his power" and questioned whether the Pakistani opener is taking enough risks early in his innings to elevate his strike rate. The former Australian batter highlighted that while Azam is traditionally a strong player, his current output might not be aligning with the high-octane requirements of the T20 format, particularly when setting or chasing competitive totals. Ponting's observations focused on the need for Azam to inject more aggression and intent into his batting from the outset.
+
+Echoing similar sentiments, Ravi Shastri, who guided India to significant successes as coach, described Babar Azam as a "slow starter." Shastri’s analysis pointed towards Azam's tendency to build his innings gradually, which can be a valuable trait in longer formats like Test and One-Day International (ODI) cricket. However, Shastri underscored that in the fast-paced environment of T20s, a slow start can place undue pressure on subsequent batters and impact the team's overall scoring rate. Both cricketing figures emphasized the importance for Azam, a top-order batter, to adapt more swiftly to the match situation and accelerate his scoring from an earlier stage.
+
+Babar Azam is a pivotal figure in Pakistan's cricketing lineup, holding significant responsibilities as both captain and a key opening batter. His consistent run-scoring has historically been a cornerstone of Pakistan's success across formats. However, the T20 World Cup setting places a premium on high strike rates and boundary-hitting prowess, particularly from top-order players. The assessments from Ponting and Shastri, two highly respected voices in international cricket, draw attention to a critical area for Azam and the Pakistani team as they navigate the tournament.
+
+The performance of key players like Babar Azam is often scrutinized during major international tournaments. As the T20 World Cup progresses, all eyes will remain on Azam’s batting, observing whether he can adjust his approach to meet the demands articulated by cricketing experts and contribute significantly to Pakistan's campaign. His ability to blend his technical proficiency with the necessary T20 aggression will be crucial for his team's aspirations in the tournament.
