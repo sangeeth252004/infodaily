@@ -1,0 +1,20 @@
+---
+title: "Supreme Court Flags AI Concerns Over Video Transcripts in Wangchuk Case"
+date: "2026-02-16T15:33:25.794Z"
+slug: "supreme-court-flags-ai-concerns-over-video-transcripts-in-wangchuk-case"
+category: "ai"
+description: "The Supreme Court of India has expressed concerns over the accuracy of video transcripts provided by the Centre in the Sonam Wangchuk case, citing the \"era of AI\" and potential for manipulation. The court has directed precise transcripts."
+keywords: "Supreme Court, AI concerns, video transcripts, Sonam Wangchuk, digital evidence, artificial intelligence, legal proceedings, Centre, Ladakh"
+---
+
+The Supreme Court of India recently raised significant concerns regarding the accuracy and authenticity of video transcripts submitted by the Centre in the ongoing case involving environmental activist Sonam Wangchuk. During a hearing, the bench explicitly referenced "the era of AI," underscoring the potential for digital manipulation and the critical need for verifiable evidence in judicial proceedings. The Court has directed the Centre to provide precise and authenticated transcripts.
+
+The specific remarks by the bench, comprising Justices Sanjiv Khanna and Dipankar Datta, highlighted a growing awareness within the judiciary about the challenges presented by advanced artificial intelligence technologies. The justices reportedly emphasized that in an age where AI tools can generate or alter digital content, including video and audio, the veracity of such evidence must be meticulously scrutinised. This concern mandates a higher standard for the presentation of digital records, particularly when they pertain to fundamental rights and personal liberty.
+
+The case revolves around allegations of Sonam Wangchuk being held under house arrest in Ladakh, a claim denied by the Jammu and Kashmir administration. Wangchuk has been vocal, including undertaking a hunger strike, in advocating for constitutional safeguards for Ladakh under the Sixth Schedule and statehood for the region. The video evidence and its transcripts are central to establishing the factual circumstances surrounding Wangchuk's movements and public engagements, making their integrity paramount to the legal arguments.
+
+The Supreme Court’s directive requests the Centre to ensure that the submitted transcripts accurately reflect the content of the videos without any ambiguity or potential for misinterpretation. This involves not only the spoken word but also the context and any visual cues presented in the footage. The move signals a proactive approach by the judiciary to address the evolving landscape of digital evidence, recognizing that traditional methods of verification may not suffice against sophisticated AI-driven alterations.
+
+This development holds broader implications for the handling of digital evidence across various legal cases in India. As AI technologies become more pervasive, the judiciary is increasingly confronted with the need to establish robust protocols for authenticating digital submissions, ranging from videos and audio recordings to digital documents and communications. The Court's emphasis on precision in the context of AI suggests a potential shift towards stricter requirements for evidence certification and presentation to counter emerging technological challenges.
+
+The Centre is now tasked with providing the re-verified and precise video transcripts to the Supreme Court. The resolution of this specific dispute concerning Wangchuk's alleged detention, alongside the broader judicial stance on AI and digital evidence, will continue to be a focal point in forthcoming hearings. This case underscores the judiciary's ongoing efforts to adapt legal frameworks to the rapid advancements in technology and their potential impact on justice delivery.
