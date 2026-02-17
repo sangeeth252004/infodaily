@@ -1,0 +1,26 @@
+---
+title: "BNP Chief Tarique Rahman to Take Oath Today as Bangladesh PM After Landslide Victory"
+date: "2026-02-17T01:14:58.916Z"
+slug: "bnp-chief-tarique-rahman-to-take-oath-today-as-bangladesh-pm-after-landslide-victory"
+category: "technology"
+description: "Bangladesh Nationalist Party (BNP) chief Tarique Rahman is set to be sworn in as Prime Minister today following a reported landslide victory in the recent general election, marking a significant shift in the nation's political landscape."
+keywords: "Tarique Rahman, Bangladesh, Prime Minister, BNP, oath-taking, government formation, election, political transition, Dhaka, Bangabhaban"
+---
+
+Dhaka, Bangladesh – Bangladesh Nationalist Party (BNP) chief Tarique Rahman is scheduled to take the oath of office today as the new Prime Minister of Bangladesh. The ceremony follows an announcement of a decisive victory for the BNP in the recently concluded general election. The oath-taking event is slated for this afternoon at the Presidential Palace (Bangabhaban) in Dhaka, marking a significant political transition for the South Asian nation.
+
+The anticipated swearing-in ceremony signifies the return of the Bangladesh Nationalist Party to the helm of government, following a period out of power. Sources within the BNP confirmed that President Shahabuddin Chuppu is expected to administer the oath, a constitutional formality that formally establishes the new government. This development is expected to reshape Bangladesh's domestic and international policy directions, drawing considerable attention from regional and international observers.
+
+The BNP announced that it secured a landslide victory in the recent polls, which it described as a strong mandate from the electorate for its vision and leadership. The party’s return to power under the leadership of Tarique Rahman, who serves as the acting chairman, represents a pivotal moment for his party and its supporters. Observers note that such a decisive electoral outcome could provide the incoming government with a strong mandate to implement its policy agenda across various sectors, impacting the nation's trajectory for years to come.
+
+Rahman's assumption of the premiership follows a period of active leadership of the BNP, a major political party with a significant historical footprint in Bangladesh's democratic journey. His leadership from abroad has been a prominent feature of the party’s strategy in recent years, culminating in this electoral success. The incoming administration is anticipated to focus on key areas such as economic revitalization, enhancing good governance, and addressing persistent national challenges including unemployment, inflation, and infrastructure development. The outcome also signals a potential shift in the country's socio-political dynamics, with implications for civil society and media.
+
+Details regarding the oath-taking ceremony and the incoming administration include:
+
+*   **Venue:** The official ceremony is scheduled to take place at Bangabhaban, the historic official residence and principal workplace of the President of Bangladesh, located in Dhaka. This venue traditionally hosts such high-profile state functions.
+*   **Timing:** The event is planned for the late afternoon, with preparations underway to accommodate a large number of distinguished guests and ensure a smooth transition of power.
+*   **Expected Attendees:** A broad array of dignitaries is anticipated to be present, including the Chief Justice, the Speaker of Parliament, senior military and civil officials, leaders of allied political parties, members of the diplomatic corps, and prominent figures from business and culture. Former Prime Ministers and Presidents, if available, are also customary invitees.
+*   **Oath Administrator:** President Shahabuddin Chuppu will administer the oath of office to Prime Minister-designate Tarique Rahman, affirming his commitment to the constitution and the people of Bangladesh.
+*   **Cabinet Formation:** Following the Prime Minister's oath, members of the new cabinet, chosen for their expertise and party loyalty, are also expected to be sworn in, forming the core executive body of the government to manage various ministries and departments.
+
+The swearing-in of Tarique Rahman as Prime Minister sets the stage for the immediate formation of his cabinet and the articulation of the new government's policy priorities. The new administration is expected to outline its detailed policy agenda in the coming days, with initial focus likely on bolstering economic stability, fostering job creation, improving public services, and ensuring national security. This transition is poised to draw considerable national and international attention as Bangladesh embarks on a new chapter in its political history, with the incoming administration's immediate actions and long-term vision to be closely observed by citizens and global stakeholders alike. The party has expressed its commitment to fostering national unity and addressing the aspirations of all segments of the population.
