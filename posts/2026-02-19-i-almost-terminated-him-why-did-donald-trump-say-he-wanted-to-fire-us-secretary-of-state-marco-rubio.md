@@ -1,0 +1,20 @@
+---
+title: "‘I almost terminated him’: Why did Donald Trump say he wanted to fire US Secretary of State Marco Rubio?"
+date: "2026-02-19T19:35:20.054Z"
+slug: "i-almost-terminated-him-why-did-donald-trump-say-he-wanted-to-fire-us-secretary-of-state-marco-rubio"
+category: "technology"
+description: "Former President Donald Trump recently stated he \"almost terminated\" Senator Marco Rubio, inaccurately referring to him as US Secretary of State, citing perceived disloyalty during the 2016 Republican primaries."
+keywords: "Donald Trump, Marco Rubio, US Secretary of State, 2016 Republican primary, political rally, political loyalty, US Senator, Antony Blinken, Florida, US politics"
+---
+
+Former President Donald Trump recently stated he "almost terminated" Senator Marco Rubio during a political rally. In his remarks, Mr. Trump inaccurately referred to Senator Rubio as the "US Secretary of State." The comments were made as Mr. Trump recounted past political interactions, specifically attributing his consideration of dismissal to perceived disloyalty during the 2016 Republican presidential primary debates.
+
+It is crucial to clarify that Marco Rubio currently serves as a U.S. Senator for Florida, a role he has held since 2011. He has never held the position of United States Secretary of State, which is a cabinet-level office responsible for foreign affairs. The current Secretary of State is Antony Blinken. This factual distinction underscores a key inaccuracy in the former President's public statement regarding Senator Rubio's past or present governmental role.
+
+Mr. Trump's comments specifically revisited the intense period of the 2016 Republican presidential primary campaign. During that election cycle, both Mr. Trump and Senator Rubio were prominent contenders for the party's nomination. The debates and campaign trail saw significant policy disagreements and personal criticisms exchanged between the candidates. Mr. Trump's statement implies that Senator Rubio's actions and rhetoric during these debates were a source of contention, leading to his judgment of "disloyalty" from a retrospective viewpoint.
+
+The phrasing "almost terminated him" reflects Mr. Trump's frequent use of business-oriented terminology in political contexts, a style often associated with his background as a real estate developer and television personality. While Senator Rubio was a rival for the nomination and not a subordinate, the comment suggests Mr. Trump's retrospective view of how he would have managed such a relationship within an executive structure, had Rubio been in an appointed position under a Trump administration. This type of rhetoric is a characteristic feature of Mr. Trump's public address style.
+
+Despite the fierce competition and perceived disloyalty cited by Mr. Trump, Senator Rubio ultimately endorsed Mr. Trump after withdrawing from the 2016 primary race. Senator Rubio also supported Mr. Trump's re-election campaign in 2020. This trajectory highlights the complex and often pragmatic nature of political alliances, even following periods of intense rivalry. The recent comment by Mr. Trump reopens a chapter of past political animosity that had seemingly been set aside in favor of party unity.
+
+Statements of this nature, revisiting past grievances and evaluating loyalty, frequently emerge in periods leading up to or during election cycles. They serve to shape narratives about political figures and their relationships within a party. For Senator Rubio, currently serving in the Senate, the comment could potentially prompt questions regarding his past interactions or his current standing within certain factions of the Republican party. The episode offers insight into the enduring impact of personal dynamics on the national political stage and how historical rivalries can be re-emphasized through public remarks.
