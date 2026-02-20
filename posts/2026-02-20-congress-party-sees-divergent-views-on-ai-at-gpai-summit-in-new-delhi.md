@@ -1,0 +1,20 @@
+---
+title: "Congress Party Sees Divergent Views on AI at GPAI Summit in New Delhi"
+date: "2026-02-20T10:29:09.378Z"
+slug: "congress-party-sees-divergent-views-on-ai-at-gpai-summit-in-new-delhi"
+category: "ai"
+description: "During the GPAI Summit in New Delhi, Congress MP Shashi Tharoor lauded AI's potential, while Indian Youth Congress leaders protested outside, highlighting concerns over job displacement and regulation."
+keywords: "Shashi Tharoor, Indian Youth Congress, AI Summit, GPAI, Artificial Intelligence, Bharat Mandapam, New Delhi, technology policy, political dissent, India AI"
+---
+
+During the Global Partnership on Artificial Intelligence (GPAI) Summit held at Bharat Mandapam in New Delhi from December 12-14, 2023, a notable divergence of opinion within the Congress party emerged regarding Artificial Intelligence (AI). While senior Congress Member of Parliament Shashi Tharoor publicly lauded AI's potential and India's role in its development, members of the Indian Youth Congress (IYC) simultaneously staged a protest outside the summit venue, expressing significant concerns over the technology's societal impact.
+
+Mr. Tharoor, known for his engagement with technology topics, highlighted India's unique position to lead in AI development, particularly in creating solutions for the Global South. Addressing attendees, he reportedly emphasized the necessity of responsible AI innovation that aligns with democratic values and addresses critical societal challenges. His remarks underscored a vision of AI as a tool for progress and economic advancement, advocating for proactive engagement rather than apprehension. He further stressed the importance of a balanced approach that harnesses AI's benefits while safeguarding against potential risks.
+
+In stark contrast, leaders and activists from the Indian Youth Congress converged outside Bharat Mandapam, carrying placards and chanting slogans to voice their apprehensions. Their protest focused on potential negative consequences of unregulated AI, including widespread job displacement across various sectors, exacerbation of existing social biases, and risks to data privacy and security. The IYC demanded robust governmental regulations and clear policy frameworks to safeguard citizens' interests amidst rapid AI adoption, advocating for comprehensive strategies to address the socio-economic implications.
+
+The simultaneous events underscored a broader internal debate within the Congress party, reflecting the national discourse on balancing technological advancement with social responsibility. The GPAI Summit itself, hosted by India, brought together international experts, policymakers, and industry leaders to discuss the responsible development and deployment of AI. India's presidency of GPAI from 2023-2024 positioned the nation at the forefront of global AI governance discussions, making the internal party split particularly salient.
+
+This 'paradox' within a major political party highlights the multifaceted challenges associated with emerging technologies like AI. While proponents foresee transformative benefits in healthcare, education, and economic growth, critics caution against the socio-economic disruptions and ethical dilemmas that could arise without adequate oversight. The differing viewpoints within the Congress illustrate the complex tightrope walk governments worldwide face in formulating comprehensive AI strategies that foster innovation while protecting vulnerable populations.
+
+As AI continues to evolve, the debate on its regulation, ethical implications, and impact on employment is expected to intensify. The incident at the GPAI Summit serves as a microcosm of the diverse perspectives that policymakers and political parties will need to reconcile as India navigates its path in the global AI landscape, shaping legislation that promotes innovation while mitigating potential risks. Future policy discussions are likely to address these varied concerns to forge a balanced national approach to artificial intelligence.
