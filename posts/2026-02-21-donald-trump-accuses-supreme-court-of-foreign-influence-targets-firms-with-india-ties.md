@@ -1,0 +1,18 @@
+---
+title: "Donald Trump Accuses Supreme Court of Foreign Influence, Targets Firms with India Ties"
+date: "2026-02-21T10:17:58.226Z"
+slug: "donald-trump-accuses-supreme-court-of-foreign-influence-targets-firms-with-india-ties"
+category: "technology"
+description: "Former President Donald Trump accused the US Supreme Court of foreign influence and criticized US companies and attorneys with India ties following a 2020 election legal setback."
+keywords: "Donald Trump, Supreme Court, foreign influence, India ties, US companies, attorneys, 2020 election, legal setback, Sullivan & Cromwell, Robert Giuffra, Smartmatic, Dominion Voting Systems"
+---
+
+Former U.S. President Donald Trump publicly accused the U.S. Supreme Court of being influenced by foreign interests in December 2020. This accusation followed the court's decision to reject a lawsuit challenging the results of the 2020 presidential election. Concurrently, Mr. Trump specifically targeted American companies and attorneys perceived to have ties to India, raising questions about their loyalties and the integrity of election-related processes.
+
+The accusations emerged after the Supreme Court on December 11, 2020, declined to hear a lawsuit filed by the State of Texas. This lawsuit sought to overturn election results in Georgia, Michigan, Pennsylvania, and Wisconsin. The Court's ruling effectively concluded Mr. Trump's primary legal efforts to challenge the outcome of the election. In response, Mr. Trump asserted that the Supreme Court "chickened out" and questioned its independence, suggesting it had been swayed by external, unspecified foreign influences. These statements were part of a broader series of remarks made by Mr. Trump in the aftermath of the 2020 election, during which he repeatedly made unsubstantiated allegations regarding widespread electoral fraud.
+
+The former President's remarks extended to specific U.S. entities and individuals, focusing on their alleged connections to India. He publicly named Sullivan & Cromwell, an international law firm, and one of its partners, Robert Giuffra. Mr. Trump alleged that the firm represented Smartmatic and Dominion, two companies that produce voting machines. Dominion Voting Systems subsequently denied having ties with the law firm. Mr. Trump also claimed that Mr. Giuffra held "strong ties to India." He further characterized India as a nation that "brutally and unfairly" taxes U.S. products, connecting this point to his concerns about the loyalties of American entities with Indian ties.
+
+Mr. Trump's comments generated public discussion regarding potential implications for the U.S. legal system and international relations. His accusations against the Supreme Court questioned the impartiality of the nation's highest judicial body and fueled narratives about external interference in U.S. democratic processes. The targeting of U.S. companies and attorneys based on their alleged or actual connections to India drew attention to the potential impact on bilateral business relations and the professional standing of individuals with such ties. These statements also contributed to the ongoing public discourse surrounding the security and integrity of voting technology companies, particularly Smartmatic and Dominion, which had been subjects of various conspiracy theories related to the 2020 election.
+
+The pronouncements by Mr. Trump underscored the contentious period following the 2020 U.S. presidential election, characterized by legal challenges and public commentary on election integrity. His specific targeting of entities with India ties highlighted a particular aspect of his post-election discourse, linking perceived foreign influence to domestic political and legal outcomes.
