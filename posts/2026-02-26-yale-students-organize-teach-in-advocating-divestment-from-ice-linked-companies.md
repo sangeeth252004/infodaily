@@ -1,0 +1,21 @@
+---
+title: "Yale Students Organize Teach-In Advocating Divestment from ICE-Linked Companies"
+date: "2026-02-26T16:46:22.558Z"
+slug: "yale-students-organize-teach-in-advocating-divestment-from-ice-linked-companies"
+category: "technology"
+description: "Yale University students recently held a teach-in, urging the university to divest its endowment from companies with ties to U.S. Immigration and Customs Enforcement (ICE). The event aimed to educate attendees on the financial entanglements and ethical implications of such investments."
+keywords: "Yale University, student activism, divestment, ICE-linked companies, teach-in, ethical investment, endowment, immigration enforcement, student protest"
+---
+
+New Haven, CT – Students at Yale University recently organized and hosted a teach-in, calling for the university to divest its substantial endowment from companies alleged to have ties to U.S. Immigration and Customs Enforcement (ICE). The event, held on campus, aimed to educate the Yale community on the financial relationships between the university's investments and various corporations, specifically those involved in aspects of immigration enforcement, detention, or related services. Student organizers emphasized their belief that such investments conflict with the university's stated ethical principles.
+
+The teach-in served as a platform for discussion and information sharing regarding the ethical dimensions of university endowments. Participants heard presentations detailing the operational frameworks of companies providing services to ICE, including those involved in private detention facilities, surveillance technology, data management, and logistical support. Organizers outlined the financial mechanisms that link these companies to federal immigration operations, arguing that institutional investors, including universities, indirectly contribute to perceived human rights issues through their holdings in such firms. The primary goal articulated by the student groups was to pressure the Yale Corporation, the university's governing board, to review and subsequently alter its investment portfolio.
+
+Key points highlighted during the teach-in included:
+
+*   **Educational Focus:** The event's format as a "teach-in" underscored an emphasis on informing attendees about the specific companies, their roles, and the financial ties in question, rather than solely a protest.
+*   **Ethical Investment Framework:** Organizers invoked principles of socially responsible investing, contending that investments should align with institutional values and avoid complicity in practices deemed harmful.
+*   **Targeted Industries:** Discussions frequently centered on private prison corporations, technology firms supplying surveillance equipment or data analytics, and financial institutions facilitating operations for these entities.
+*   **Precedent for Divestment:** References were made to historical divestment campaigns by universities, such as those against apartheid in South Africa or fossil fuel companies, as models for addressing contemporary ethical concerns.
+
+The student initiative represents a growing movement on college campuses advocating for greater transparency and ethical alignment within university endowments. Organizers presented information suggesting that the university's investments, though diversified, potentially include holdings in companies that directly or indirectly profit from immigration enforcement policies. They urged the Yale Corporation to undertake a comprehensive review of its investments and to implement a policy that screens out companies engaged in activities deemed problematic by the student body. The teach-in concluded with a call for ongoing advocacy and for members of the Yale community to engage with university administrators on the issue. While no immediate response from the Yale Corporation has been publicly announced regarding the specific demands of this teach-in, student groups indicate their intent to continue raising awareness and pressing for divestment action.
