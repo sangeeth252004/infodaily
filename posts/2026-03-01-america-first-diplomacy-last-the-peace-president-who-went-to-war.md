@@ -1,0 +1,20 @@
+---
+title: "America First, Diplomacy Last: The Peace President who went to war"
+date: "2026-03-01T18:21:21.858Z"
+slug: "america-first-diplomacy-last-the-peace-president-who-went-to-war"
+category: "technology"
+description: "Explore recent U.S. government policy shifts under the Biden administration, focusing on initiatives like the CHIPS and Science Act to bolster domestic semiconductor manufacturing and strategic tech sectors."
+keywords: "US tech policy, CHIPS Act, semiconductor industry, America First, technology strategy, Biden administration, supply chain security, economic competition, tech diplomacy"
+---
+
+The United States has markedly escalated its strategic focus on domestic technology industries, signaling a shift in global economic engagement under the current administration. This development centers on a series of policy decisions aimed at bolstering American competitiveness, particularly in critical sectors such as semiconductor manufacturing and artificial intelligence. These measures, championed by President Joe Biden, mark a departure from previous approaches that often prioritized globalized supply chains and multilateral diplomatic solutions in technology trade.
+
+The cornerstone of this new strategy is the CHIPS and Science Act, signed into law on August 9, 2022. This bipartisan legislation allocates approximately $52.7 billion in subsidies for domestic semiconductor research, development, manufacturing, and workforce development. The stated goal is to reduce reliance on foreign-made chips, particularly those from East Asia, following significant supply chain disruptions experienced during the COVID-19 pandemic. The Department of Commerce, led by Secretary Gina Raimondo, has been instrumental in outlining the framework for these investments, emphasizing national security and economic resilience.
+
+*   **Investment Breakdown**: The Act includes $39 billion in manufacturing incentives, $13.2 billion for R&D and workforce development, and $500 million for international technology security and innovation fund.
+*   **Key Beneficiaries**: Major semiconductor manufacturers, including Intel, have announced significant investments in new fabrication plants (fabs) in states like Ohio and Arizona, contingent on federal funding from the CHIPS Act. These projects represent multi-billion dollar commitments expected to create thousands of construction and manufacturing jobs.
+*   **Export Controls**: Concurrently, the Department of Commerce introduced stringent export controls in October 2022, targeting advanced semiconductor technology and equipment to certain nations, notably China. These controls aim to limit the ability of rival powers to develop advanced military capabilities, highlighting a national security dimension to the technology strategy.
+
+This assertive stance has prompted varied international responses. While some allies have expressed concerns about potential trade fragmentations, many have initiated their own domestic investment programs, such as Europe's own Chips Act, mirroring the U.S. push for localized production. Critics of the "America First" approach warn of potential retaliatory measures and a fracturing of the global technology ecosystem, while proponents argue it is essential for long-term economic security and technological leadership.
+
+Looking ahead, the implementation of the CHIPS Act and the enforcement of export controls are expected to continue shaping global technology supply chains and international relations. The Department of Commerce is actively reviewing applications for funding, with initial awards anticipated in 2024. The long-term impact on global innovation, semiconductor pricing, and geopolitical stability remains a subject of ongoing observation and analysis by industry experts and policymakers worldwide.
