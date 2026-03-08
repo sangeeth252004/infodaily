@@ -1,0 +1,20 @@
+---
+title: "Former President Trump Backs India's Purchase of Russian Oil Amid Gulf Tensions"
+date: "2026-03-08T01:14:00.751Z"
+slug: "former-president-trump-backs-india-s-purchase-of-russian-oil-amid-gulf-tensions"
+category: "ai"
+description: "Former U.S. President Donald Trump voiced support for a temporary waiver for India to buy Russian oil, citing the \"Gulf crisis\" to ease energy pressure on the nation."
+keywords: "Donald Trump, India, Russia, oil, waiver, Gulf crisis, energy policy, sanctions, crude oil, U.S. foreign policy, geopolitical energy."
+---
+
+Former U.S. President Donald Trump has voiced support for a temporary waiver that would permit India to continue purchasing Russian oil. Mr. Trump's statement, made on February 11, 2024, cited what he described as the "Gulf crisis" as a justification to "take a little of pressure off" India amidst global energy market volatility and regional instability. This position marks a potential divergence from current U.S. policy, which aims to limit Russia's oil revenues following its 2022 invasion of Ukraine.
+
+Mr. Trump emphasized the importance of ensuring stable and affordable energy supplies for nations like India, a key U.S. strategic partner. He referenced disruptions in global shipping and increased oil prices, largely attributed to recent events in the Middle East, including attacks on commercial vessels in the Red Sea and Gulf of Aden. These incidents have elevated insurance costs and rerouted shipping, affecting global supply chains and energy security.
+
+India, the world's third-largest oil consumer and importer, significantly increased its acquisition of Russian crude oil after February 2022. As Western nations, including the United States and European Union members, implemented sanctions and a G7-led price cap of $60 per barrel on seaborne Russian oil, India emerged as a crucial buyer. This allowed India to secure discounted crude, thereby managing domestic inflation and diversifying its energy import basket, which traditionally relied heavily on Middle Eastern suppliers. Data from commodity tracking firms indicates that Russia became India's largest oil supplier in 2023, surpassing traditional sources like Iraq and Saudi Arabia.
+
+The existing G7 price cap mechanism aims to reduce Russia's capacity to fund its military operations by limiting the revenue generated from oil sales, while simultaneously working to keep Russian oil flowing to avoid a global supply shock. Countries participating in the price cap agree not to use Western shipping, insurance, and financial services for Russian oil trades unless the oil is purchased at or below the $60 per barrel threshold. While India has not formally joined the price cap coalition, its purchases have often occurred at prices around or below this limit, benefiting from market dynamics and direct deals.
+
+A formal waiver, as suggested by Mr. Trump, could potentially formalize or broaden India's ability to engage in Russian oil trade without direct U.S. opposition or the threat of secondary sanctions. Such a move would represent a notable shift in the broader strategy of economic pressure on Moscow.
+
+The former President's comments introduce a potential future direction for U.S. energy diplomacy and sanction enforcement, particularly if he were to return to the White House. This perspective highlights a focus on allied energy security and mitigating global economic pressures, even if it means recalibrating strategies aimed at isolating Russia's energy sector. The current U.S. administration has not publicly responded to Mr. Trump's specific proposal for an Indian waiver. The long-term implications for global oil markets, geopolitical alliances, and the effectiveness of international sanctions remain subject to evolving political landscapes.
