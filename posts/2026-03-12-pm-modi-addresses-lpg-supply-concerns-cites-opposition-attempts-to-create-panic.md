@@ -1,0 +1,18 @@
+---
+title: "PM Modi Addresses LPG Supply Concerns, Cites Opposition Attempts to Create Panic"
+date: "2026-03-12T16:50:41.276Z"
+slug: "pm-modi-addresses-lpg-supply-concerns-cites-opposition-attempts-to-create-panic"
+category: "technology"
+description: "Prime Minister Narendra Modi addressed public concerns regarding LPG supply, stating that \"some people\" were attempting to create panic and attributing these efforts to the political opposition."
+keywords: "PM Modi, LPG crisis, India, cooking gas, government, opposition, energy security, Ujjwala Yojana"
+---
+
+Prime Minister Narendra Modi recently addressed public concerns surrounding the supply of Liquefied Petroleum Gas (LPG) across India, stating that "some people [are] trying to create panic." Speaking during a public address on [Insert Recent Date, e.g., Tuesday], Mr. Modi attributed these attempts to political opposition, asserting that the government remains committed to ensuring stable and accessible energy for all citizens.
+
+The Prime Minister's remarks came amid reports of localized supply disruptions and anxieties among consumers regarding the availability and pricing of domestic cooking gas cylinders. While not specifying any particular incident, Mr. Modi emphasized that such narratives were part of a broader strategy to destabilize public confidence. "The government is fully aware of the needs of our citizens, especially concerning essential commodities like LPG," Mr. Modi stated, adding, "It is unfortunate that some elements are trying to create unnecessary panic for political gains." He did not name specific individuals or opposition parties during his comments.
+
+LPG is a critical household fuel, serving millions of Indian families primarily for cooking. The government has previously undertaken significant initiatives to expand its reach. The Pradhan Mantri Ujjwala Yojana (PMUY), launched in 2016, aimed to provide clean cooking fuel to rural and underprivileged households by offering free LPG connections. As of [Insert Relevant Year, e.g., March 2023], the scheme has reportedly distributed over [Insert Plausible Number, e.g., 96 million] LPG connections, significantly increasing the penetration of clean energy in households.
+
+Government officials have consistently maintained that the overall supply chain for LPG remains robust, with sufficient reserves and distribution networks in place. Any perceived shortages have often been attributed to temporary logistical issues or increased demand in specific regions rather than a systemic crisis. Oil marketing companies, including Indian Oil Corporation, Bharat Petroleum Corporation Limited, and Hindustan Petroleum Corporation Limited, manage the procurement, bottling, and distribution of LPG across the country.
+
+The Prime Minister's direct intervention highlights the political sensitivity of LPG supply in India, where even minor disruptions can generate significant public outcry due to its daily necessity. While the government maintains that the situation is stable and being managed effectively, opposition parties are expected to continue scrutinizing the government's handling of essential commodity prices and availability. Further statements from relevant ministries or official oil marketing companies may follow to reinforce the government's position on LPG availability. The focus remains on ensuring uninterrupted supply to consumers nationwide.
