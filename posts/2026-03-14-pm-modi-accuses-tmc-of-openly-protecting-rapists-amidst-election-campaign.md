@@ -1,0 +1,20 @@
+---
+title: "PM Modi Accuses TMC of \"Openly Protecting Rapists\" Amidst Election Campaign"
+date: "2026-03-14T12:29:52.750Z"
+slug: "pm-modi-accuses-tmc-of-openly-protecting-rapists-amidst-election-campaign"
+category: "technology"
+description: "Prime Minister Narendra Modi criticized the Trinamool Congress (TMC) in West Bengal on May 13, 2024, alleging the party is \"openly protecting rapists\" in connection with the RG Kar and Sandeshkhali cases during a Lok Sabha election rally in Purulia."
+keywords: "PM Modi, TMC, Narendra Modi, Trinamool Congress, RG Kar case, Sandeshkhali case, West Bengal elections, Lok Sabha elections, Purulia rally, women's safety, law and order, political accusations"
+---
+
+Prime Minister Narendra Modi on Monday, May 13, 2024, addressed an election rally in Purulia, West Bengal, where he launched sharp criticism against the ruling Trinamool Congress (TMC). During his address, PM Modi accused the TMC government of "openly protecting rapists" and "destroying the culture of Bengal," specifically referencing recent high-profile cases from RG Kar Medical College and Hospital and Sandeshkhali. The accusations come amidst the ongoing Lok Sabha election campaign, intensifying the political discourse in the state.
+
+The Prime Minister’s remarks centered on the theme of law and order and women's safety in West Bengal, portraying the TMC as failing in its responsibilities. He stated that the "entire country is watching" the situation, emphasizing that "every woman of Bengal is watching" the actions of the state government. Modi asserted that the incidents underscored a worsening law and order situation under TMC rule, particularly concerning crimes against women.
+
+One of the cases highlighted by PM Modi was the alleged gang-rape of a medical student within the hostel premises of RG Kar Medical College and Hospital in Kolkata. The Calcutta High Court has taken cognizance of this matter, which has drawn significant public attention and sparked protests. PM Modi criticized what he characterized as the state government's attempts to suppress the truth and politicize the investigation, rather than ensuring swift justice. He also linked this to the Calcutta High Court's observations regarding the state's handling of NEET-UG counselling, suggesting a broader pattern of alleged administrative failures and defiance of judicial directives.
+
+The other major case cited by the Prime Minister was the Sandeshkhali incident in North 24 Parganas, where serious allegations of sexual assault and land grabbing against local TMC leaders, most notably Sheikh Shahjahan, emerged. The Calcutta High Court has directed the Central Bureau of Investigation (CBI) to probe these allegations. PM Modi specifically referred to Sheikh Shahjahan, stating that "Shah Jahan used to play with the honour of daughters" in Sandeshkhali, further alleging that the TMC government had actively shielded the accused. He contrasted this situation with the BJP's commitment to women's empowerment, promoting "Modi's Guarantee" for justice and safety.
+
+PM Modi also extended his critique beyond these specific cases, touching upon broader governance issues in West Bengal. He accused the TMC of fostering a "Syndicate Raj" and engaging in "cut money" practices, which he described as systematic corruption affecting the state's development and public services. He contended that the state government was prioritizing political considerations over public welfare and justice.
+
+As the Lok Sabha elections progress, the accusations are anticipated to remain a central point of political contention between the BJP and the TMC. Investigations into both the RG Kar Medical College and Hospital case and the Sandeshkhali incidents are ongoing, with judicial and central agency oversight expected to continue. The political rhetoric surrounding these cases is likely to persist through the remaining phases of the election.
