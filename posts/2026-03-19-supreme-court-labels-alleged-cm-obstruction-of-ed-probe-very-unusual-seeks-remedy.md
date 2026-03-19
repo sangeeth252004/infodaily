@@ -1,0 +1,21 @@
+---
+title: "Supreme Court Labels Alleged CM Obstruction of ED Probe \"Very Unusual,\" Seeks Remedy"
+date: "2026-03-19T01:17:36.845Z"
+slug: "supreme-court-labels-alleged-cm-obstruction-of-ed-probe-very-unusual-seeks-remedy"
+category: "technology"
+description: "India's Supreme Court critically observed that alleged obstruction by West Bengal CM Mamata Banerjee in an ED probe related to an attack on its officials was \"very unusual,\" stating a remedy is needed for the rule of law."
+keywords: "Supreme Court, Mamata Banerjee, Enforcement Directorate, ED, West Bengal, obstruction, central agencies, rule of law, Shahjahan Sheikh, ration scam, legal proceedings, India news"
+---
+
+The Supreme Court of India has critically observed that alleged obstruction by West Bengal Chief Minister Mamata Banerjee in the Enforcement Directorate's (ED) investigation into an attack on its officials was "very unusual" and indicated that a "remedy" was necessary. The apex court's remarks came during proceedings regarding the ED's plea to transfer cases related to the alleged attacks and the subsequent investigation from state police to a central agency.
+
+A bench comprising Justices Surya Kant and Dipankar Datta made the observations while hearing the ED's petition. The central agency is investigating a money laundering case linked to an alleged ration distribution scam in West Bengal. The court emphasized that if a chief minister obstructs the investigation by central agencies, it undermines the rule of law.
+
+The case stems from an incident on January 5, 2024, when ED officials were allegedly attacked by a mob in Sandeshkhali, North 24 Parganas district, West Bengal. The officials were conducting raids at premises linked to Trinamool Congress (TMC) leader Shahjahan Sheikh, who is a key figure in the alleged ration scam. The ED's petition to the Supreme Court highlighted a pattern of alleged non-cooperation and obstruction by the state government and its officials.
+
+*   **ED's Submissions:** The Enforcement Directorate presented its case, claiming that Chief Minister Banerjee had allegedly given a "clean chit" to Shahjahan Sheikh even before the investigation into the attacks and the underlying scam was complete. The agency also contended that the Chief Minister's public statements were detrimental to the progress and integrity of the ED's probe.
+*   **Supreme Court's Stance:** The bench explicitly stated, "This is very unusual. If the chief minister obstructs the investigation by central agencies, then there is no rule of law. Some remedy is needed." This observation underscores the judiciary's concern over the potential implications for federal investigative processes and the constitutional framework governing central agencies.
+*   **West Bengal Government's Response:** Counsel representing the West Bengal government contested the ED's plea, asserting that the state police were fully capable and competent to investigate the incidents, including the attacks on ED officials. The state also argued that the ED's petition was an attempt to interfere with the state police's jurisdiction and was potentially politically motivated, seeking to bypass established legal procedures.
+*   **Relief Sought by ED:** The ED's petition specifically requested that the Supreme Court direct the transfer of the cases concerning the attacks on its officials to the Central Bureau of Investigation (CBI). Additionally, the agency sought custody of the individuals accused in these cases and a broader probe into the alleged obstruction of its investigative duties.
+
+The Supreme Court has issued notices to the West Bengal government and other relevant parties, seeking their detailed responses to the ED's allegations and requests. The matter is scheduled for further hearing, during which the court is expected to deliberate on the submissions from all sides and consider the appropriate legal remedies to uphold the sanctity of investigations by central agencies and the principle of the rule of law. The outcome of these proceedings could set significant precedents regarding the operational independence of central investigative bodies and the limits of state intervention in federal probes.
