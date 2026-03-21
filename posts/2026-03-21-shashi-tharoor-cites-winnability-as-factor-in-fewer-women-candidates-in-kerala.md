@@ -1,0 +1,20 @@
+---
+title: "Shashi Tharoor Cites 'Winnability' as Factor in Fewer Women Candidates in Kerala"
+date: "2026-03-21T06:31:24.995Z"
+slug: "shashi-tharoor-cites-winnability-as-factor-in-fewer-women-candidates-in-kerala"
+category: "technology"
+description: "Congress MP Shashi Tharoor addressed concerns over low women's representation in Kerala's political candidate selection, stating \"winnability\" is a key criterion. The remarks underscore an ongoing debate on gender parity in Indian politics."
+keywords: "Shashi Tharoor, Kerala politics, women candidates, winnability, political representation, gender parity, Indian elections, candidate selection"
+---
+
+Thiruvananthapuram, Kerala – Congress Member of Parliament Shashi Tharoor recently addressed concerns regarding the lower number of women candidates being fielded by political parties in Kerala's electoral fray. Speaking on the matter, Mr. Tharoor cited "winnability" as a significant factor influencing candidate selection, a criterion he stated applies to both male and female aspirants. His remarks come amidst ongoing discussions and scrutiny from civil society groups and women's rights advocates regarding gender representation in the state's political landscape.
+
+The statement by Mr. Tharoor, who represents the Thiruvananthapuram constituency, highlights a persistent challenge faced by political parties across India: balancing calls for diverse representation with the strategic imperative to select candidates perceived as having the highest chance of electoral success. Critics frequently point to the disproportionately low number of women candidates selected by major political entities, arguing that this contributes to a systemic underrepresentation of women in legislative bodies.
+
+Political parties often articulate that candidate selection is a multi-faceted process, involving considerations such as local appeal, experience, community standing, and, critically, the likelihood of securing victory in a given constituency. Mr. Tharoor's comments reflect this common rationale, suggesting that while the desire for increased female representation exists, the ultimate decision often defaults to perceived electoral strength. This perspective is not unique to the Congress party, as other political outfits have historically offered similar explanations when confronted with questions about gender imbalances in their candidate lists.
+
+*   **Context of Concern:** Advocacy groups in Kerala and nationally have consistently called for greater female participation in legislative and governance roles, pointing to the demographic reality that women constitute approximately half of the electorate.
+*   **Historical Trends:** Data from previous state and national elections in India frequently shows that women represent a small percentage of total candidates fielded by major parties and an even smaller percentage of elected representatives. For instance, in the 2021 Kerala Assembly elections, women comprised a marginal portion of the elected members.
+*   **Party Stance:** While many parties publicly express commitment to gender equality, the practical implementation during candidate finalization stages remains a subject of debate and criticism. Proposals for internal party quotas or constitutional amendments to reserve seats for women have been discussed but have seen limited widespread adoption.
+
+The debate surrounding the selection of candidates underscores the broader challenges in achieving gender parity in political leadership. While the "winnability" argument is a practical consideration for parties aiming for electoral victory, it often intersects with questions about the inherent biases within political structures and the equitable opportunities provided to women within these systems. As Kerala prepares for upcoming elections, the composition of candidate lists will likely remain a key point of discussion, with renewed focus on how political parties address the imperative of representation alongside electoral strategy. The ongoing dialogue is expected to continue shaping public discourse on political inclusion and diversity.
