@@ -1,0 +1,18 @@
+---
+title: "EAM Jaishankar Highlights Israel's Role in India's Conflict Support and Defence Technology Partnership"
+date: "2026-03-25T23:25:40.881Z"
+slug: "eam-jaishankar-highlights-israel-s-role-in-india-s-conflict-support-and-defence-technology-partnership"
+category: "ai"
+description: "External Affairs Minister S. Jaishankar acknowledged Israel's historical assistance to India during conflicts and its current importance as a key partner in defence technology, including drones."
+keywords: "EAM Jaishankar, India-Israel relations, defence technology, conflict support, foreign policy, drones, bilateral cooperation"
+---
+
+External Affairs Minister S. Jaishankar recently stated that Israel had provided assistance to India during certain conflicts and has become a crucial partner in the nation's defence technology sector. Speaking to the Indian diaspora in Cyprus on October 27, 2022, Minister Jaishankar highlighted the evolving nature of the bilateral relationship, noting its progression from discreet engagements to a more public and confident partnership over the past decade.
+
+Minister Jaishankar’s remarks underscored a foundational aspect of India-Israel ties that has historically been less publicized. He affirmed that Israel offered support to India during "some of our conflicts," indicating a strategic understanding that predates the formalization of full diplomatic relations in 1992. This historical context provides insight into the depth of the security relationship between the two countries, which began covertly in the 1950s and 1960s.
+
+The External Affairs Minister further emphasized Israel's contemporary significance as a "very important partner" in defence technology. This partnership extends to critical areas such as drone technology, which is vital for modern warfare, surveillance, and national security. India, a significant importer of defence equipment, has increasingly looked towards Israel for advanced military hardware, intelligence, and surveillance systems, as well as technology transfers for indigenous production. This collaboration aligns with India's broader strategy to modernize its armed forces and enhance its domestic defence manufacturing capabilities under initiatives like 'Make in India'.
+
+The growing transparency in India-Israel relations was another key point raised by Jaishankar. He noted that while the initial phases of cooperation were largely kept out of the public domain, the relationship has become "more public" in the last ten years, driven by increased confidence between the two nations. This shift reflects India's evolving foreign policy posture, which prioritizes national interests and strategic autonomy. Despite potential sensitivities observed globally regarding these ties, Minister Jaishankar reiterated that India's foreign policy choices are dictated by its sovereign national interests.
+
+The strategic partnership between India and Israel extends beyond defence to encompass collaboration in agriculture, water management, and technological innovation. The explicit acknowledgement by a senior Indian minister of Israel's historical military assistance and ongoing defence technology collaboration signals a robust and enduring bond. This public confirmation reinforces the strategic depth of the relationship and sets a precedent for continued and perhaps expanded cooperation in critical sectors. The bilateral engagement is expected to remain a significant pillar of India's foreign policy, contributing to its security and technological advancements.
