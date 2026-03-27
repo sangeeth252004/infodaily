@@ -1,0 +1,20 @@
+---
+title: "India Announces Fuel Duty Cuts, Rajnath Singh to Lead Middle East Crisis Group"
+date: "2026-03-27T12:41:17.081Z"
+slug: "india-announces-fuel-duty-cuts-rajnath-singh-to-lead-middle-east-crisis-group"
+category: "technology"
+description: "India's government reduces fuel excise duty to ease inflationary pressures, while Defence Minister Rajnath Singh is appointed to head a new high-level group monitoring the Middle East situation."
+keywords: "India, fuel duty, petrol, diesel, government policy, inflation, Rajnath Singh, Middle East crisis, foreign policy, national security, economic relief, government announcements"
+---
+
+New Delhi, India – The Indian government announced significant reductions in excise duty on petrol and diesel today, aiming to alleviate inflationary pressures on consumers. Concurrently, Defence Minister Rajnath Singh has been appointed to lead a newly established high-level inter-ministerial group tasked with monitoring and formulating India's response to the evolving situation in the Middle East. These developments, released through official channels this evening, address key economic and geopolitical concerns for the nation.
+
+Effective midnight, the excise duty on petrol will be reduced by ₹5 per litre, and on diesel by ₹3 per litre across the country. This marks the first major adjustment to fuel duties since May 2022 and is projected to provide immediate financial relief to motorists and transport operators nationwide. The Finance Ministry, in its official statement, indicated the decision was made after a comprehensive review of domestic retail fuel prices, global crude oil benchmarks, and their cumulative impact on the national economy and household budgets. This measure is expected to help moderate the current retail inflation rate, which has shown persistence in recent months, particularly in food and transportation sectors. The estimated annual fiscal implication of this duty cut is approximately ₹1.2 trillion, according to preliminary government estimates.
+
+Defence Minister Rajnath Singh will head the high-level group, which includes the External Affairs Minister, the National Security Advisor, and senior officials from the Ministries of Finance, Commerce, and Petroleum. The mandate of this group is to conduct continuous assessments of the security, economic, and humanitarian developments unfolding across the Middle East. Its responsibilities will encompass formulating strategic policy recommendations to safeguard India's national interests, including energy security, trade routes, and the welfare of the large Indian diaspora residing in the region. The establishment of this group underscores the government's proactive approach to regional instability, ensuring a coordinated and comprehensive response to potential challenges arising from the volatile geopolitical landscape.
+
+Further governmental actions reported this evening include:
+*   **Infrastructure Project Inauguration:** Union Minister for Road Transport and Highways, Nitin Gadkari, today inaugurated a 28-kilometre stretch of the new National Highway 530B in Uttar Pradesh, a project aimed at enhancing regional connectivity and reducing travel time between major industrial hubs.
+*   **Monetary Policy Statement:** The Reserve Bank of India (RBI) released its latest monetary policy statement, maintaining the repo rate at 6.5% for the sixth consecutive review. The RBI reiterated its commitment to aligning inflation with the target while supporting economic growth.
+
+The government's dual focus on domestic economic stability through fuel price adjustments and proactive engagement with international geopolitical challenges highlights its immediate priorities. Further announcements regarding the implementation details of the fuel duty cuts are anticipated from state governments, while the Middle East crisis group is expected to hold its inaugural meeting next week to commence its strategic deliberations. These measures reflect ongoing efforts to navigate both internal economic pressures and external geopolitical complexities affecting India.

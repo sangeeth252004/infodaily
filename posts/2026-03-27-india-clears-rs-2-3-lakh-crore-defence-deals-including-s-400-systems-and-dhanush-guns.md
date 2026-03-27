@@ -1,0 +1,21 @@
+---
+title: "India Clears Rs 2.3 Lakh Crore Defence Deals, Including S-400 Systems and Dhanush Guns"
+date: "2026-03-27T12:40:59.704Z"
+slug: "india-clears-rs-2-3-lakh-crore-defence-deals-including-s-400-systems-and-dhanush-guns"
+category: "technology"
+description: "India's Defence Acquisition Council has approved capital acquisition proposals worth approximately Rs 2.3 lakh crore, enhancing capabilities with S-400 air defence systems, indigenous Dhanush guns, and fighter jet overhauls."
+keywords: "India defence, Defence Acquisition Council, DAC, S-400 Triumf, Dhanush guns, defence deals, military modernization, Make in India defence, Rajnath Singh, Indian armed forces"
+---
+
+New Delhi – India's Defence Acquisition Council (DAC), chaired by Defence Minister Rajnath Singh, recently approved capital acquisition proposals totaling approximately Rs 2.3 lakh crore. This significant procurement initiative is aimed at bolstering the operational capabilities of the Indian Armed Forces, with a strong emphasis on indigenous manufacturing under the "Make in India" framework. The package includes crucial systems such as additional S-400 Triumf air defence missile systems and enhanced versions of the indigenously developed Dhanush artillery guns.
+
+The extensive clearance marks a substantial step in India's ongoing military modernization efforts. The acquisitions are designed to address critical capability gaps across the Army, Navy, and Air Force, providing advanced equipment and essential maintenance support. A significant portion of these deals prioritizes domestic production, aligning with the government's push for self-reliance in defence manufacturing. This approach is expected to stimulate the domestic defence industrial base, generate employment, and reduce reliance on foreign suppliers.
+
+Key components of the approved acquisition package include:
+
+*   **S-400 Triumf Air Defence Missile Systems:** Further procurement of these long-range, surface-to-air missile systems is set to augment India's layered air defence capabilities. The S-400, known for its ability to track and engage multiple aerial threats at various ranges, enhances the Indian Air Force's capacity to counter sophisticated airborne platforms and missiles. India previously placed an order for five S-400 regiments from Russia, with deliveries ongoing. This new approval signifies a continued strategic investment in advanced air defence technology.
+*   **Dhanush Artillery Guns:** The approval includes a significant number of additional 155mm/45 calibre Dhanush towed artillery guns. Developed by Advanced Weapons and Equipment India Limited (AWEIL) and produced by Gun Carriage Factory, Jabalpur, the Dhanush is the first indigenous long-range artillery gun. Its induction is aimed at replacing aging artillery systems within the Indian Army, providing enhanced firepower and accuracy in various terrains.
+*   **Overhaul of Su-30 MKI Fighter Jets:** The package also allocates substantial funds for the overhaul and upgrade of existing Sukhoi Su-30 MKI fighter aircraft. This critical maintenance and modernization program, to be undertaken by Hindustan Aeronautics Limited (HAL), is vital for extending the operational life and enhancing the combat effectiveness of a significant portion of the Indian Air Force's frontline fighter fleet.
+*   **Advanced Offshore Patrol Vessels (ACVs) for Coast Guard:** Procurement of new Advanced Offshore Patrol Vessels will strengthen the Indian Coast Guard's capabilities in maritime surveillance, interdiction, and search and rescue operations, contributing to enhanced coastal security and domain awareness.
+
+The DAC's decision underscores the Centre's commitment to modernizing the Indian armed forces while simultaneously fostering a robust domestic defence industrial ecosystem. These acquisitions are critical for maintaining India's strategic deterrent capabilities and ensuring national security in a complex geopolitical landscape. Further details regarding specific contract signings and delivery schedules are anticipated to be announced in the coming months as the procurement processes move forward.
