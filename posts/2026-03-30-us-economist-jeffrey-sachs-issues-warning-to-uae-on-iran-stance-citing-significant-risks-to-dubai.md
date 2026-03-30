@@ -1,0 +1,18 @@
+---
+title: "US Economist Jeffrey Sachs Issues Warning to UAE on Iran Stance, Citing Significant Risks to Dubai"
+date: "2026-03-30T08:17:49.589Z"
+slug: "us-economist-jeffrey-sachs-issues-warning-to-uae-on-iran-stance-citing-significant-risks-to-dubai"
+category: "ai"
+description: "Professor Jeffrey Sachs warned the UAE against aligning with anti-Iran efforts, stating Dubai could face severe security and economic repercussions."
+keywords: "Jeffrey Sachs, UAE, Dubai, Iran, geopolitical risks, economic stability, Middle East tensions, foreign policy warnings"
+---
+
+Professor Jeffrey Sachs, a renowned US economist and the director of the Center for Sustainable Development at Columbia University, issued a stark warning to the United Arab Emirates (UAE) regarding its potential alignment against Iran. In remarks reported on February 12, 2023, Sachs cautioned that Dubai could face catastrophic consequences, specifically stating it could be "blown up," if the UAE were to take an adversarial stance towards Iran. His commentary highlighted profound economic and security risks for the Gulf nation amid ongoing regional geopolitical complexities.
+
+Sachs, widely recognized for his extensive work on sustainable development, poverty reduction, and economic policy, underscored the delicate balance the UAE maintains in the global financial landscape. He pointed out that the UAE, and particularly its emirate of Dubai, has cultivated a reputation as an international financial and business hub, often functioning as an "offshore haven" for capital. This includes, as Sachs noted, funds from Russia and potentially other illicit sources, making its geopolitical stance particularly sensitive.
+
+The economist's warning centered on the premise that any move by the UAE to formally align with anti-Iran initiatives, potentially encouraged by external powers such as the United States, would fundamentally alter its security profile. Sachs explicitly stated, "If the UAE were to align itself with the US vis-à-vis Iran, Dubai would be blown up." This direct assertion underlined his assessment that such an alignment would transform the UAE into a direct target within regional conflicts, thereby jeopardizing its economic stability and physical infrastructure.
+
+Sachs emphasized the critical need for de-escalation in the Middle East, advocating against any actions that could ignite further conflict. He conveyed that the region is already burdened by historical tensions and "does not need another war," describing the current geopolitical situation as "very, very serious." His remarks called for a strategic approach that prioritizes peace and stability over confrontation, especially for nations deeply integrated into the global economy like the UAE.
+
+The implications of Sachs' warning extend to the broader international community, particularly for those with economic interests in the UAE. As a major player in global trade and finance, any significant disruption to the UAE's stability could have ripple effects across various sectors. The economist's commentary contributes to an ongoing international dialogue concerning the intricate interplay between regional security, economic prosperity, and the foreign policy choices of Middle Eastern nations. His statements serve as a reminder of the potential vulnerabilities faced by economically powerful yet geopolitically exposed states in volatile regions.
