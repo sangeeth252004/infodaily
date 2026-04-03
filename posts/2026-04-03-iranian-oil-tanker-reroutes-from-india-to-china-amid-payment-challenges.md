@@ -1,0 +1,18 @@
+---
+title: "Iranian Oil Tanker Reroutes from India to China Amid Payment Challenges"
+date: "2026-04-03T11:31:54.768Z"
+slug: "iranian-oil-tanker-reroutes-from-india-to-china-amid-payment-challenges"
+category: "technology"
+description: "An Iranian crude oil tanker, initially bound for India, rerouted to China in March 2024. The diversion highlights ongoing payment challenges for India's oil imports from Iran, following a seven-year hiatus in direct shipments."
+keywords: "Iranian oil, India, China, crude oil tanker, NIOC, MRPL, sanctions, payment mechanism, energy trade"
+---
+
+An Iranian crude oil tanker, the *Richmond*, which was reportedly destined for India, diverted its course to China in March 2024. The vessel, carrying approximately two million barrels of crude from the National Iranian Oil Company (NIOC), had loaded its cargo at Iran's Kharg Island and was initially expected at New Mangalore Port, India. This rerouting marks a significant development, as it would have been the first direct crude oil shipment from Iran to India in seven years, following the expiration of U.S. sanctions waivers in 2019.
+
+The diversion occurred as an intended deal between NIOC and Mangalore Refinery and Petrochemicals Ltd (MRPL), an Indian state-owned refiner, failed to materialize. Sources familiar with the transaction indicated that the primary reason for the reroute was the absence of a stable and sanctions-compliant payment mechanism between India and Iran. The *Richmond* ultimately discharged its cargo at Ningbo, China, after NIOC reportedly secured an immediate payment deal with an undisclosed Chinese entity.
+
+Prior to the imposition of renewed U.S. sanctions in 2019, India was a significant importer of Iranian crude, ranking as Iran's second-largest oil customer after China. Indian refiners, including MRPL, sourced substantial volumes of oil from Iran due to attractive pricing and favorable credit terms. Payment for these imports was previously facilitated through a rupee-based mechanism via UCO Bank, which ceased after the sanctions waivers expired. The current incident underscores the continued complexities surrounding financial transactions with Iran, even as both countries express interest in reviving trade ties.
+
+MRPL had reportedly finalized the purchase on a Cost, Insurance, and Freight (CIF) basis, which places the responsibility for delivery and associated risks on the seller, NIOC, until the cargo reaches its destination. Despite discussions between Indian and Iranian officials to establish a new payment framework, including potential options involving third-country currencies or a revived rupee-rial barter system, a concrete solution had not been finalized at the time of the tanker's departure. This lack of an operational payment channel presented a critical hurdle for the planned Indian import.
+
+The incident highlights the ongoing challenges faced by nations seeking to trade with Iran under the existing international sanctions regime. While India and Iran continue diplomatic engagement to explore viable payment solutions, the rerouting of the *Richmond* serves as a concrete example of how financial complexities can disrupt planned energy trade. Future crude oil shipments from Iran to India are contingent upon the successful establishment of a robust and mutually acceptable payment mechanism that can navigate the current geopolitical and financial landscape.
