@@ -1,0 +1,21 @@
+---
+title: "Former All-Rounder Yuvraj Singh Highlights Flaw in Sanju Samson's Batting Approach"
+date: "2026-04-03T07:56:53.878Z"
+slug: "former-all-rounder-yuvraj-singh-highlights-flaw-in-sanju-samson-s-batting-approach"
+category: "technology"
+description: "Former India all-rounder Yuvraj Singh has publicly discussed a specific issue he perceives in wicketkeeper-batsman Sanju Samson's game that he believes contributes to his struggles."
+keywords: "Yuvraj Singh, Sanju Samson, cricket, India cricket, performance, batting, consistency, international cricket, sports news"
+---
+
+Former Indian cricket all-rounder Yuvraj Singh has recently offered insights into the performance struggles of current Indian wicketkeeper-batsman Sanju Samson. Singh, a veteran of numerous international campaigns and a World Cup winner, identified a specific aspect of Samson's playing style that he believes has hindered his consistency at the highest level. These remarks have circulated within the cricketing community, sparking discussion on Samson's role and future in the national squad.
+
+Speaking on the matter, Yuvraj Singh reportedly pointed to Samson's inconsistent attacking approach as a primary concern. According to Singh, while Samson possesses an aggressive game, his tendency to take "too many breaks" between attacking phases prevents him from converting starts into significant scores or maintaining momentum. "My issue with Sanju was always that he plays an attacking game but if he plays the attack game consistently then he will score runs but he takes too many breaks," Singh was quoted as stating in recent reports. This assessment from a former player of Singh's caliber, known for his impactful middle-order batting, carries considerable weight, especially for a player like Samson who is often on the fringes of regular national team selection.
+
+Sanju Samson, known for his elegant stroke play and leadership as captain of the Rajasthan Royals in the Indian Premier League (IPL), has faced challenges in cementing a regular spot in India's limited-overs squads. Despite showcasing flashes of brilliance and often performing strongly in domestic cricket and the IPL, his international statistics have not consistently mirrored his potential. This inconsistency has frequently been a point of contention among fans and selectors alike, leading to debates over his inclusion in various formats. Yuvraj Singh's comments provide a direct perspective from an experienced international cricketer on a specific technical or mental aspect that might be contributing to this pattern.
+
+*   **Yuvraj Singh's Stature:** A pivotal member of India's 2007 T20 World Cup and 2011 ODI World Cup winning squads, Yuvraj Singh's commentary is widely respected for its strategic depth and understanding of high-pressure cricket.
+*   **Sanju Samson's Role:** Samson is a right-handed top-order batsman and wicketkeeper, often seen as a contender for middle-order batting roles in ODIs and T20Is. He captained the Rajasthan Royals to the IPL final in 2022.
+*   **Performance Context:** As of recent statistics, Samson has played 16 One Day Internationals, scoring 398 runs at an average of 55.71, including three half-centuries. In Twenty20 Internationals, he has played 24 matches, scoring 374 runs at an average of 18.70 with one half-century. His IPL career has been more prolific, with over 3,800 runs.
+*   **Implications for Selection:** The insights from former players often contribute to the broader discourse that surrounds player selection, particularly for positions with high competition within the Indian national team setup.
+
+The former all-rounder's observations arrive at a crucial juncture for Samson, who continues to be a subject of discussion for upcoming international assignments. While Samson has demonstrated his capabilities in domestic and franchise cricket, the consistent performance required at the international stage remains a key focus. Singh's direct feedback may prompt further introspection for Samson as he aims to establish himself as a regular fixture in the Indian national cricket team, with selectors continuously monitoring player consistency and impact. The cricketing fraternity will observe how these comments, and Samson's future performances, influence his journey in international cricket.
