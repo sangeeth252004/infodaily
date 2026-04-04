@@ -1,0 +1,21 @@
+---
+title: "Prime Minister Modi Accuses Congress of Prioritizing Politics Over Gulf Indian Safety"
+date: "2026-04-04T12:33:29.880Z"
+slug: "prime-minister-modi-accuses-congress-of-prioritizing-politics-over-gulf-indian-safety"
+category: "technology"
+description: "Prime Minister Narendra Modi has criticized the Indian National Congress, alleging the opposition party prioritizes politics and power over the welfare of Indians residing in Gulf nations."
+keywords: "PM Modi, Narendra Modi, Indian National Congress, Congress, Gulf Indians, Indian diaspora, foreign policy, welfare, political accusation, India politics"
+---
+
+Prime Minister Narendra Modi recently criticized the Indian National Congress, accusing the principal opposition party of prioritizing political gain over the safety and welfare of Indian citizens residing in Gulf nations. Speaking at a public event on a recent occasion, Prime Minister Modi asserted, "'All they care about is politics and power'," directly linking Congress's alleged political motivations to the potential endangerment of Indians abroad. This statement intensifies the ongoing political discourse surrounding foreign policy and diaspora welfare, particularly significant given India's substantial expatriate population in the Middle East.
+
+The Prime Minister's remarks highlight a core contention within India's political landscape regarding the approach to citizen protection and international relations. While not detailing specific incidents, Mr. Modi's accusation suggests that the Congress party's actions or criticisms have, in his view, undermined efforts to safeguard the interests of Indians working and living in Gulf Cooperation Council (GCC) countries. India maintains robust diplomatic ties with these nations, which host over 9 million Indian expatriates, according to data from the Ministry of External Affairs. These expatriates are crucial for India's economy, contributing significantly through remittances.
+
+The current government has frequently emphasized its proactive approach to assisting Indian diaspora communities during crises, citing examples such as the Vande Bharat Mission during the COVID-19 pandemic and Operation Kaveri for the evacuation of Indians from Sudan. Prime Minister Modi’s statement appears to frame the opposition's conduct as potentially disruptive to these diplomatic and humanitarian efforts. The accusation also serves to underscore a narrative of national interest versus political opportunism, a recurring theme in the ruling party's communication strategies. This political broadside comes amidst a period of heightened election campaigning, where issues of national pride, security, and citizen welfare are frequently debated.
+
+Supporting details regarding the Indian diaspora in the Gulf:
+*   **Indian Diaspora in Gulf:** The GCC countries—Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE—are home to a significant proportion of India's overseas citizens, with Saudi Arabia and the UAE hosting the largest numbers.
+*   **Economic Impact:** Remittances from Gulf countries form a substantial portion of India's total inbound remittances, contributing billions of dollars annually to the Indian economy.
+*   **Diplomatic Engagement:** The Indian government actively engages with Gulf nations on various issues, including labor welfare, cultural exchange, and strategic partnerships, through bilateral and multilateral forums.
+
+Prime Minister Modi's strong critique is expected to prompt a response from the Congress party, further fueling political debate on India's foreign policy approach and the treatment of its citizens abroad. The exchange underscores the importance of diaspora issues in India's domestic politics, positioning the welfare of overseas Indians as a key area of policy and political scrutiny. Future political campaigns and parliamentary discussions are likely to revisit these themes, as both the government and opposition seek to present themselves as the primary custodians of Indian citizens' interests, both at home and globally.
