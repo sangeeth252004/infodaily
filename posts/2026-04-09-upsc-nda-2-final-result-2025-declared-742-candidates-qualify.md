@@ -1,0 +1,24 @@
+---
+title: "UPSC NDA 2 Final Result 2025 Declared; 742 Candidates Qualify"
+date: "2026-04-09T01:15:40.015Z"
+slug: "upsc-nda-2-final-result-2025-declared-742-candidates-qualify"
+category: "tools"
+description: "The Union Public Service Commission (UPSC) has released the final results for the National Defence Academy (NDA) and Naval Academy (NA) Examination (II), 2025, on its official website, upsc.gov.in. A total of 742 candidates have qualified for admission to the esteemed defense academies."
+keywords: "UPSC, NDA 2 result, National Defence Academy, Naval Academy, NDA final result 2025, upsc.gov.in, merit list, defence entrance exam, India civil services, armed forces recruitment, officer selection."
+---
+
+The Union Public Service Commission (UPSC) has officially announced the final results for the National Defence Academy (NDA) and Naval Academy (NA) Examination (II), 2025. The comprehensive merit list, detailing the roll numbers of all successful candidates, was made public on the commission's official website, upsc.gov.in, for immediate access. This latest declaration confirms that a total of 742 candidates have successfully qualified, making them eligible for admission to the prestigious Army, Navy, and Air Force wings of the National Defence Academy, as well as for the Naval Academy (10+2 Cadet Entry Scheme).
+
+This examination represents a pivotal pathway for young individuals aspiring to forge a career in India's armed forces as commissioned officers. The selection process is renowned for its multi-stage rigor, meticulously designed to identify candidates possessing the requisite intellectual aptitude, leadership potential, and physical resilience demanded by military service. It commences with a written examination, assessing general ability and mathematics skills. Candidates who clear this initial hurdle then proceed to the demanding interviews conducted by the Services Selection Board (SSB) of the Ministry of Defence. The SSB interviews are an intensive evaluation, spanning several days, during which candidates are assessed on various parameters including psychological suitability, group dynamics, and problem-solving abilities. A mandatory medical examination is also a crucial part of the overall assessment to ensure candidates meet the stringent health standards required for military duty.
+
+The consolidated list of 742 qualified candidates has been compiled based on their combined performance in both the written examination and the subsequent SSB interviews. These successful individuals are now slated for admission to the 156th Course of the National Defence Academy and the 118th Indian Naval Academy Course (INAC), with classes expected to commence in due course as per the respective academies' schedules. It is important to note that the final allocation of qualified candidates to the specific services – Army, Navy, or Air Force – will be meticulously determined by the Ministry of Defence. This allocation process considers factors such as the preferences indicated by the candidates during their application and counseling, alongside their respective merit positions achieved in the examination.
+
+Key details regarding the UPSC NDA & NA (II) Examination, 2025 results are summarized below:
+
+*   **Total Qualified Candidates:** 742 individuals have been recommended for admission.
+*   **Official Result Publication:** The comprehensive merit list is readily accessible on the Union Public Service Commission's official portal, upsc.gov.in.
+*   **Examination Stages:** The rigorous selection procedure encompasses a written examination followed by extensive Services Selection Board (SSB) interviews and medical assessments.
+*   **Courses Targeted:** Successful candidates are eligible for admission to the 156th National Defence Academy Course and the 118th Indian Naval Academy Course (INAC).
+*   **Final Service Allocation Authority:** The Ministry of Defence is responsible for the definitive allocation of candidates to the Army, Navy, and Air Force wings.
+
+To maintain transparency, the individual marks secured by all candidates in the examination are scheduled to be made public on the UPSC website. This information is typically released approximately fifteen days following the official declaration of the final result. This provision allows candidates, both successful and unsuccessful, to review their performance metrics in detail. The successful completion of this highly competitive examination marks a significant milestone for these 742 individuals, paving their way towards esteemed careers dedicated to national security. The respective academies are now poised to initiate the necessary admission and joining procedures for the qualified candidates in the forthcoming weeks, preparing them for their rigorous training as future leaders of the Indian Armed Forces.
