@@ -1,0 +1,20 @@
+---
+title: "Kargil Democratic Alliance Rejects Ladakh Territorial Council, Reiterates Demands for Statehood and Sixth Schedule Status"
+date: "2026-04-15T20:38:29.231Z"
+slug: "kargil-democratic-alliance-rejects-ladakh-territorial-council-reiterates-demands-for-statehood-and-sixth-schedule-status"
+category: "technology"
+description: "The Kargil Democratic Alliance (KDA) has firmly rejected a proposed Ladakh Territorial Council, reiterating its core demands for statehood for Ladakh and inclusion under the Sixth Schedule of the Indian Constitution. This development highlights ongoing political aspirations in the Union Territory."
+keywords: "Kargil Democratic Alliance, KDA, Ladakh, Statehood, Sixth Schedule, Territorial Council, Article 370, Union Territory, Leh Apex Body, India"
+---
+
+The Kargil Democratic Alliance (KDA) has publicly rejected a proposal for a Ladakh Territorial Council, reaffirming its long-standing demands for full statehood for Ladakh and its inclusion under the Sixth Schedule of the Indian Constitution. This recent announcement underscores the persistent political aspirations in the region, nearly five years after its reorganisation as a Union Territory.
+
+The KDA, a prominent alliance of political, religious, and social organizations in the Kargil district, stated that the proposed territorial council falls short of addressing the fundamental concerns and aspirations of the Ladakhi people. The group has consistently advocated for greater administrative and legislative autonomy, arguing that statehood and Sixth Schedule status are crucial for protecting the region's unique identity, land, and culture.
+
+Ladakh was reorganised as a Union Territory directly administered by the central government following the abrogation of Article 370 of the Constitution in August 2019, which also bifurcated the erstwhile state of Jammu and Kashmir. Since then, various local bodies, most notably the KDA and the Leh Apex Body (LAB), have formed a joint platform to press for their demands, citing concerns over potential demographic changes, loss of land rights, and environmental impact under the current administrative structure.
+
+The Sixth Schedule of the Indian Constitution provides for the administration of tribal areas in four Northeastern states (Assam, Meghalaya, Tripura, and Mizoram) by creating autonomous district and regional councils. These councils are vested with powers in legislative, judicial, and administrative matters, including land management, forest regulation, inheritance, and social customs. Proponents for Ladakh's inclusion under this schedule point to the region's over 90% tribal population as a key justification for such protective measures.
+
+Discussions between representatives from Ladakh and the Union Home Ministry have taken place previously, including meetings with a high-powered committee established in December 2022 to address the region's concerns. However, these dialogues have yet to yield a resolution agreeable to the local leadership, particularly regarding the core demands of statehood and Sixth Schedule protection. The KDA has characterized the territorial council proposal as insufficient, viewing it as a measure that would not grant the necessary legislative and administrative safeguards required for the region.
+
+The united front presented by the KDA and LAB indicates a broad consensus across both Leh and Kargil districts on the future administrative status of Ladakh. Their continued insistence on statehood and Sixth Schedule status signals an ongoing political challenge for the central government in addressing the aspirations of the Union Territory's populace. The rejection of the territorial council proposal reinforces the demand for more substantial constitutional protections, ensuring the preservation of Ladakh's distinct socio-cultural and environmental fabric. What specific next steps the KDA and LAB will take, and how the Union government will respond to this latest rejection, remains a focal point for political observers in the region.
