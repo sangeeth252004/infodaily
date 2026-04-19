@@ -1,0 +1,20 @@
+---
+title: "US and India to Commence Three-Day Trade Pact Talks in Washington"
+date: "2026-04-19T11:29:00.115Z"
+slug: "us-and-india-to-commence-three-day-trade-pact-talks-in-washington"
+category: "technology"
+description: "US and Indian trade negotiators are set to begin three-day trade talks in Washington from April 20, aiming to resolve disputes, enhance market access, and strengthen economic ties across various sectors."
+keywords: "US-India trade, trade talks, Washington, market access, tariffs, GSP, economic cooperation, digital trade, supply chains, bilateral trade"
+---
+
+United States and Indian trade negotiators are scheduled to commence three days of bilateral trade talks in Washington starting Saturday, April 20. The discussions aim to address a range of long-standing trade disputes, enhance market access for goods and services, and further strengthen the economic partnership between the two strategic allies.
+
+These upcoming discussions signify continued efforts by both nations to foster a more robust and equitable trade relationship. The agenda is expected to cover a broad spectrum of issues pertinent to both economies, reflecting their commitment to resolving trade frictions and identifying new avenues for collaboration. The United States is India's largest trading partner in goods, with bilateral trade reaching over $120 billion in 2022-23, underscoring the significance of these negotiations.
+
+Among the key items anticipated to be on the negotiating table are reciprocal tariff reductions. Negotiators are expected to discuss potential adjustments on certain Indian steel and aluminum products, where India had imposed retaliatory tariffs following US duties, as well as tariffs on imported US motorcycles. Both sides seek to alleviate barriers that impact specific industries and facilitate smoother trade flows.
+
+The talks will also likely focus on improving market access. The US has sought greater access for its agricultural products, medical devices, and other manufactured goods in the Indian market. Conversely, India aims to secure better market opportunities for its goods and services in the US. A significant point of discussion for India is the potential reinstatement of its Generalized System of Preferences (GSP) beneficiary status, which the US revoked in 2019, impacting duty-free access for numerous Indian products to the American market. India views this as a crucial step to boost its exports.
+
+Furthermore, discussions are expected to delve into modern trade areas such as digital trade policies, data localization requirements, and the protection of intellectual property rights. These areas are increasingly vital for technology-driven economies and present opportunities for regulatory alignment. In line with global efforts to diversify and secure supply chains, both countries are expected to explore cooperation in critical sectors. This includes collaboration on clean energy technologies, pharmaceuticals, and critical minerals, aiming to build more resilient and diversified supply networks. Negotiators will also address non-tariff barriers that impede trade, such as certain regulatory practices, import licensing requirements, and standards that may disproportionately affect foreign goods.
+
+The outcome of these three-day talks could set the tone for future engagements and significantly influence the trajectory of US-India trade relations. Successful resolution of key disputes and progress on market access issues could unlock substantial growth in bilateral trade and investment, reinforcing the broader strategic partnership between the two nations. Officials from both sides will be working towards a framework that promotes mutual economic benefits and addresses the concerns of their respective industries. Future follow-up discussions and working group meetings are anticipated to build on the progress made during this round of negotiations.
