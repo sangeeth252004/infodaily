@@ -1,0 +1,20 @@
+---
+title: "Mamata Banerjee Rejects Exit Polls, Alleges Stock Market Manipulation Attempt"
+date: "2026-05-02T12:45:58.434Z"
+slug: "mamata-banerjee-rejects-exit-polls-alleges-stock-market-manipulation-attempt"
+category: "technology"
+description: "West Bengal Chief Minister Mamata Banerjee has dismissed exit poll projections for the Lok Sabha elections, predicting over 200 seats for the Trinamool Congress (TMC) and alleging an attempt at stock market manipulation."
+keywords: "Mamata Banerjee, TMC, Trinamool Congress, West Bengal, Lok Sabha elections, exit polls, stock market manipulation, election results, India"
+---
+
+Kolkata, India – West Bengal Chief Minister and Trinamool Congress (TMC) chairperson Mamata Banerjee on Sunday, June 2, 2024, strongly rejected the exit poll projections for the ongoing Lok Sabha elections. Banerjee characterized the projections as a "conspiracy" and an attempt to "manipulate the stock market," asserting that her party, the TMC, would secure over 200 seats in the state. Her remarks came ahead of the official vote counting scheduled for June 4.
+
+Addressing the media, Banerjee stated that she did not believe the figures presented by various exit polls, which largely indicated a different electoral landscape for West Bengal. She emphasized that the exit polls were "fake" and orchestrated to influence financial markets, suggesting a coordinated effort to drive investor behavior. "I don't believe in exit polls. I reject all exit polls. They are a conspiracy to manipulate the stock market. It is an attempt to create confusion among the people," Banerjee reportedly stated. She further alleged that "crores of rupees have been spent to create such exit polls."
+
+The Chief Minister’s strong condemnation follows a period of intense campaigning in West Bengal, a state critical to the national electoral outcome. While many exit polls projected significant gains for the Bharatiya Janata Party (BJP) in West Bengal, potentially altering the state's political dynamics, Banerjee's counter-narrative firmly maintained that the TMC would retain its dominant position. She expressed confidence that the people of West Bengal had voted decisively in favour of the Trinamool Congress, contradicting the trends suggested by pre-results surveys.
+
+Banerjee’s accusation of stock market manipulation directly links the release of exit poll data to economic implications. Exit polls, while not official results, can significantly influence investor sentiment and market movements, especially in a volatile economy. Her claim suggests that these projections were designed to create specific market reactions, potentially benefiting certain entities. Such allegations highlight the intersection of political discourse and financial markets, particularly during sensitive periods like national elections. The timing of her statement, just days before the official results, aims to counter a narrative that might shape public perception and market activity prior to the definitive outcome.
+
+The Trinamool Congress has been the dominant political force in West Bengal for over a decade. The Lok Sabha elections represent a crucial test for the party against the national ruling BJP, which has been making concerted efforts to expand its footprint in the state. Banerjee's assertion of securing over 200 seats for the TMC is a bold prediction, significantly higher than what many analyses and exit polls had suggested. West Bengal sends 42 members to the Lok Sabha, making it the fourth-largest state in terms of parliamentary representation.
+
+As the nation awaits the official declaration of results on June 4, the differing projections between exit polls and Banerjee’s confident prediction set the stage for a keenly watched outcome. The final vote count will definitively determine the accuracy of these varied forecasts and reveal the actual mandate of the electorate in West Bengal.
