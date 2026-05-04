@@ -1,0 +1,18 @@
+---
+title: "IIIT Hyderabad Introduces 12-Week Certificate Course on Engineering Agentic AI Systems"
+date: "2026-05-04T10:56:24.568Z"
+slug: "iiit-hyderabad-introduces-12-week-certificate-course-on-engineering-agentic-ai-systems"
+category: "ai"
+description: "IIIT Hyderabad has launched a 12-week online certificate course focused on engineering agentic AI systems, aiming to equip professionals with skills for autonomous AI development."
+keywords: "IIIT Hyderabad, agentic AI, AI course, artificial intelligence, certificate program, AI engineering, professional development, autonomous AI, AI systems, technology education, machine learning, deep learning"
+---
+
+The International Institute of Information Technology, Hyderabad (IIIT Hyderabad) has launched a new 12-week online certificate course focused on the engineering of agentic artificial intelligence systems. This program aims to equip professionals with specialized knowledge and practical skills required to design, develop, and deploy advanced AI solutions capable of autonomous decision-making and action. The initiative addresses a growing demand for expertise in highly advanced AI paradigms within the technology sector.
+
+The "Certificate Course on Engineering Agentic AI Systems" is structured to provide participants with a comprehensive understanding of this evolving field. Agentic AI refers to intelligent systems that can perceive their environment, form goals, plan a sequence of actions, execute those plans, and monitor their progress towards achieving complex objectives, often without constant human intervention. These systems represent a significant advancement beyond traditional reactive AI, moving towards more proactive and goal-oriented artificial intelligence.
+
+The curriculum is designed for working professionals, including software engineers, AI developers, data scientists, and researchers, who seek to deepen their expertise in AI and specialize in agentic frameworks. Participants will explore core concepts such as multi-agent systems, reinforcement learning fundamentals, prompt engineering for agentic behavior, and the ethical considerations surrounding autonomous AI. The program is expected to combine theoretical knowledge with hands-on projects, enabling learners to build and experiment with agentic AI prototypes.
+
+IIIT Hyderabad, known for its strong focus on research and education in information technology, particularly in areas like AI, machine learning, and robotics, is offering this course to bridge the existing skill gap in the rapidly advancing AI landscape. The institute's faculty and researchers, who possess significant expertise in cutting-edge AI technologies, will lead the program, ensuring a blend of academic rigor and industry relevance.
+
+The introduction of this specialized certificate course reflects the increasing industry shift towards more sophisticated and autonomous AI applications across various sectors, including finance, healthcare, manufacturing, and logistics. By training professionals in agentic AI, IIIT Hyderabad aims to contribute to the development of a skilled workforce capable of driving innovation and implementing next-generation AI solutions. Admissions and detailed program information are available through the IIIT Hyderabad Professional and Executive Programs website, with batches scheduled to commence periodically to accommodate industry demand.
