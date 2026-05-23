@@ -1,0 +1,18 @@
+---
+title: "NTA Releases Provisional Answer Keys for GAT-B and BET 2026, Opens Challenge Window"
+date: "2026-05-23T08:20:10.023Z"
+slug: "nta-releases-provisional-answer-keys-for-gat-b-and-bet-2026-opens-challenge-window"
+category: "tools"
+description: "The National Testing Agency (NTA) has released the provisional answer keys for the Graduate Aptitude Test-Biotechnology (GAT-B) and Biotechnology Eligibility Test (BET) 2026 examinations. Candidates can submit challenges to the keys online until May 24, 2026."
+keywords: "GAT-B, BET, NTA, answer key, 2026, challenge window, biotechnology, entrance exam, DBT, research fellowship"
+---
+
+The National Testing Agency (NTA) has announced the release of provisional answer keys for the Graduate Aptitude Test-Biotechnology (GAT-B) and Biotechnology Eligibility Test (BET) 2026 examinations. This development provides candidates an opportunity to review their responses against the official keys. Following the release, the NTA has initiated a window for candidates to challenge any discrepancies they identify in the provisional keys, with the deadline for submissions set for May 24, 2026.
+
+These examinations serve as critical gateways for aspirants seeking higher education and research opportunities within the field of biotechnology in India. The GAT-B is an entrance examination facilitating admissions into postgraduate biotechnology programs supported by the Department of Biotechnology (DBT), a government agency under the Ministry of Science and Technology. Concurrently, the BET evaluates candidates for eligibility to receive DBT Junior Research Fellowships, which are crucial for doctoral research pursuits in biotechnology and allied sciences. The administration of these exams and the subsequent release of results are managed by the NTA, a premier testing organization established by the Ministry of Education.
+
+The provisional nature of the released answer keys allows for a period of scrutiny by the candidates. This process is designed to ensure fairness and accuracy in the evaluation system before the final results are compiled. Candidates who took the GAT-B and BET 2026 examinations can access the provisional keys and their recorded responses by logging into the official NTA website using their credentials.
+
+To challenge a specific question or answer in the provisional key, candidates must follow a prescribed online procedure. A non-refundable processing fee of Rs 200 is mandated for each question challenged. This fee must be paid through the designated online payment gateway. The NTA has specified that challenges must be supported by valid justification and relevant documentation, which candidates are required to upload during the submission process. Incomplete challenges or those lacking proper supporting evidence may not be considered.
+
+Upon the closure of the challenge window on May 24, 2026, the NTA will undertake a comprehensive review of all submitted challenges. This review process involves examination by a panel of subject matter experts. Based on their expert evaluation, necessary modifications will be incorporated into the provisional answer keys. Subsequently, the NTA will publish the final answer keys. The final scores and results for both the GAT-B and BET 2026 examinations will be meticulously compiled and declared based on these finalized keys. Aspirants are advised to regularly monitor the official NTA website for further announcements regarding the final answer keys and the declaration of results.
