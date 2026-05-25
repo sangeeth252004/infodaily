@@ -1,0 +1,22 @@
+---
+title: "Congress Leader Rahul Gandhi Criticizes Centre Over Latest Fuel Price Revisions"
+date: "2026-05-25T07:02:48.332Z"
+slug: "congress-leader-rahul-gandhi-criticizes-centre-over-latest-fuel-price-revisions"
+category: "ai"
+description: "Rahul Gandhi, a prominent Congress leader, has sharply criticized the central government following recent fuel price adjustments, using the phrase \"'Inflation Man Modi strikes again'\". The remarks highlight ongoing debates about economic policy and inflation in India."
+keywords: "Rahul Gandhi, fuel price hike, India, Congress, Narendra Modi, Centre, inflation, economic policy, oil marketing companies, petrol, diesel, economy"
+---
+
+New Delhi – Congress leader Rahul Gandhi has publicly criticized the central government following recent adjustments to fuel prices across India. Gandhi’s remarks, made earlier today, included the pointed statement, "'Inflation Man Modi strikes again'," highlighting his concerns about the economic impact on citizens and the broader issue of inflation.
+
+The latest revisions to petrol and diesel prices were confirmed through official announcements by public sector oil marketing companies (OMCs), taking effect recently. While the specific quantum of the price increments across different cities was not immediately detailed within Gandhi's public statement, his comments underscore a broader political opposition to the government's management of fuel costs and their cumulative effect on national inflation. Gandhi's critique directly targets the administration led by Prime Minister Narendra Modi, implying a failure to adequately control rising living expenses that directly affect the common person.
+
+Fuel prices in India are typically adjusted daily, a system adopted in June 2017, based primarily on the prevailing international crude oil prices and the Rupee-Dollar exchange rate. These adjustments, though often marginal on a day-to-day basis, accumulate over time and can significantly impact household budgets. Beyond individual consumers, rising fuel costs directly increase operational expenses for various sectors, including transportation, logistics, and agriculture, leading to a cascading effect on the prices of essential goods and services. This contributes to overall inflationary pressures across the economy. The Congress party and other opposition groups have consistently raised concerns over the past few years regarding the high retail prices of petrol and diesel, attributing a significant portion of these costs to various central and state taxes, including excise duties and Value Added Tax (VAT).
+
+*   **Statement Context:** Rahul Gandhi's use of the term "'Inflation Man Modi'" is a direct and strong political charge, framing the Prime Minister as responsible for the current inflationary environment.
+*   **Economic Burden:** The recent fuel price adjustments are expected to add to the financial burden on consumers already grappling with other economic challenges such as food inflation and reduced purchasing power.
+*   **Previous Policies:** Prior to the daily revision system, fuel prices were typically reviewed fortnightly. The shift was intended to better reflect global market dynamics but has also led to more frequent, albeit smaller, changes.
+*   **Political Recurrence:** Fuel pricing remains a prominent and recurring point of contention in India's political landscape, frequently becoming a key issue during election campaigns and parliamentary debates.
+*   **Oil Marketing Companies:** The OMCs—Indian Oil Corporation, Bharat Petroleum Corporation, and Hindustan Petroleum Corporation—are responsible for implementing these daily price revisions based on a dynamic pricing mechanism.
+
+The central government has historically contended that fuel price fluctuations are largely dictated by global crude oil market volatility and the need to balance consumer interests with the nation's fiscal health, especially concerning revenue generation from fuel taxes. However, opposition parties consistently advocate for reductions in central excise duties and urge state governments to lower VAT to provide substantial relief to consumers. As this economic debate continues, the public closely monitors government responses and any potential policy interventions aimed at mitigating the impact of rising fuel costs. The political discourse surrounding fuel prices is expected to intensify, especially with state and general elections on the horizon, making it a critical aspect of public sentiment and policy consideration.
