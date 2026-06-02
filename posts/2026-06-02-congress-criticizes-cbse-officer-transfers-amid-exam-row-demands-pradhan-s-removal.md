@@ -1,0 +1,24 @@
+---
+title: "Congress Criticizes CBSE Officer Transfers Amid Exam Row, Demands Pradhan's Removal"
+date: "2026-06-02T14:42:55.794Z"
+slug: "congress-criticizes-cbse-officer-transfers-amid-exam-row-demands-pradhan-s-removal"
+category: "technology"
+description: "The Indian National Congress has criticized the recent transfers of CBSE officers, calling them an attempt to mislead the public amidst ongoing exam controversies and demanding the dismissal of Union Education Minister Dharmendra Pradhan."
+keywords: "CBSE, officer transfers, Congress, Dharmendra Pradhan, NEET-UG, UGC-NET, exam controversy, NTA, education ministry, political reaction"
+---
+
+The Indian National Congress on Friday, June 21, 2024, sharply criticized the central government's transfer of two senior Central Board of Secondary Education (CBSE) officers, labeling the move as an attempt to "throw dust in people's eyes" amid widespread controversies surrounding national examinations. The opposition party has escalated its demands, calling for the immediate sacking of Union Education Minister Dharmendra Pradhan over the handling of the NEET-UG and UGC-NET paper leak incidents.
+
+The transfers involve Nidhi Chhibber, the former Secretary of CBSE, and Sanyam Bhardwaj, the board's Controller of Examinations. Ms. Chhibber has been reassigned as an advisor in the NITI Aayog, a government think tank. Mr. Bhardwaj has been transferred to the position of Director (Capacity Building) in the Department of School Education and Literacy. Concurrently, IAS officer Rahul Singh has been appointed as the new Chairman of CBSE. These changes come as the National Testing Agency (NTA), responsible for conducting various national entrance examinations, faces intense scrutiny and public backlash following allegations of irregularities in the NEET-UG 2024 medical entrance exam and the subsequent cancellation of the UGC-NET 2024 examination due to compromised integrity.
+
+Congress spokesperson Supriya Shrinate articulated the party's position, stating that the transfers are merely a superficial measure designed to divert attention from the core issues. "This is not merely 'throwing dust in people's eyes' but a 'surgical strike' on the future of 2.4 million students," Shrinate remarked during a press briefing in New Delhi. She further described the transferred officers as "sacrificial lambs," implying that they are being held accountable for systemic failures that, in the Congress's view, lie with higher authorities, including the Union Education Minister.
+
+The transfers are seen by the opposition as an inadequate response to the deepening crisis of credibility facing India's examination system. The controversies began with allegations of paper leaks and grace mark issues in the NEET-UG 2024 exam, affecting over 2.4 million candidates seeking admission to undergraduate medical courses. This was followed by the abrupt cancellation of the UGC-NET 2024, an examination for junior research fellowships and assistant professorships, just one day after it was conducted, citing evidence that its integrity had been compromised.
+
+Key details surrounding the controversies and government response include:
+*   **NEET-UG 2024:** Faced allegations of paper leaks, inflated scores, and discrepancies in examination centres. Several arrests have been made in connection with the paper leak in states like Bihar.
+*   **UGC-NET 2024:** Cancelled by the Ministry of Education following inputs from the Indian Cyber Crime Coordination Centre (I4C) suggesting the integrity of the examination may have been compromised.
+*   **NTA Under Scrutiny:** The National Testing Agency, responsible for conducting both exams, has been the primary target of criticism from students, parents, and opposition parties regarding its operational integrity and ability to ensure fair examinations.
+*   **Ministerial Accountability:** The Congress party's demand for Minister Pradhan's resignation underscores a broader call for accountability from the top echelons of the education ministry.
+
+The government has initiated investigations into the alleged irregularities and paper leaks, with the Central Bureau of Investigation (CBI) taking over probes into both the NEET-UG and UGC-NET cases. While the transfers of CBSE officers signify an internal administrative adjustment, the Congress's strong reaction indicates continued political pressure and public demand for more significant action and transparency in addressing the integrity of national examinations. The coming weeks are expected to see further developments as investigations proceed and the political debate continues regarding the future of national testing mechanisms and ministerial responsibility.
