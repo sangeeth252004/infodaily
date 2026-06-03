@@ -1,0 +1,22 @@
+---
+title: "Karnataka Cabinet Takes Shape: D.K. Shivakumar Sworn In as Chief Minister Amidst Ministerial Induction"
+date: "2026-06-03T13:06:32.401Z"
+slug: "karnataka-cabinet-takes-shape-d-k-shivakumar-sworn-in-as-chief-minister-amidst-ministerial-induction"
+category: "technology"
+description: "D.K. Shivakumar was sworn in as Karnataka's new Chief Minister today in Bengaluru, alongside 24 ministers forming the initial state cabinet. The ceremony marks the culmination of the post-election government formation process, establishing the new administration."
+keywords: "Karnataka cabinet, D.K. Shivakumar, Chief Minister, oath ceremony, Bengaluru, government formation, state ministers, political transition, Kanteerava Stadium"
+---
+
+On Saturday, May 20, 2023, D.K. Shivakumar was sworn in as the new Chief Minister of Karnataka, officially marking the formation of the state's new government. The oath-taking ceremony, held at the iconic Kanteerava Stadium in Bengaluru, saw Mr. Shivakumar take the oath of office and secrecy, administered by Governor Thawar Chand Gehlot. A cohort of 24 ministers also took their oaths during the elaborate event, signaling the full constitution of the initial state cabinet following the recent assembly elections.
+
+The oath-taking ceremony culminates a period of political deliberations and anticipation following the recent assembly elections, where a decisive mandate was secured. The formation of the new cabinet is a critical step towards establishing administrative stability and initiating governance in the state. Mr. Shivakumar, a prominent political figure in Karnataka, now leads an administration tasked with addressing the state's diverse challenges and implementing the key promises made during the election campaign. This immediate constitution of the cabinet aims to ensure a smooth transition of power and an early start to policy implementation.
+
+The newly sworn-in cabinet is expected to prioritize immediate issues such as economic recovery, agricultural support, and infrastructure development. The selection of ministers reflects a balance of regional representation and experience, aiming to create an effective administrative team. Political analysts suggest the cabinet's initial actions will be closely watched by the electorate, particularly regarding the implementation of welfare schemes and fiscal management. The composition of the cabinet, adhering to the constitutional limit of 15% of the total strength of the legislative assembly (which for Karnataka's 224-member assembly means a maximum of 34 ministers including the Chief Minister), ensures a focused administrative structure ready to tackle state affairs.
+
+*   **Chief Minister:** D.K. Shivakumar formally assumed the role of Chief Minister of Karnataka.
+*   **Oath-Taking Venue:** The grand public ceremony was conducted at the Kanteerava Stadium in Bengaluru, witnessed by thousands of party supporters, state dignitaries, and national leaders.
+*   **Ministerial Strength:** A total of 24 cabinet ministers were sworn in alongside the Chief Minister. This initial group comprises both experienced politicians and newly elected representatives, drawn from various regions of the state.
+*   **Key Dignitaries:** The event was attended by senior leaders, allied political figures, and various state and national representatives, underscoring the significance of the government formation.
+*   **Constitutional Compliance:** The cabinet formation aligns with Article 164(1A) of the Indian Constitution, which mandates the total number of ministers, including the Chief Minister, in a state shall not exceed fifteen per cent of the total number of members of the Legislative Assembly of that state.
+
+Following the oath ceremony, the immediate priority for Chief Minister D.K. Shivakumar and his new cabinet will be the allocation of portfolios to the sworn-in ministers. This process is anticipated to be completed in the coming days, paving the way for the first full cabinet meeting. The administration is expected to swiftly begin deliberations on key policy decisions and the fulfillment of pre-election commitments, setting the agenda for the new government's term. The state now looks towards a period of renewed governance under its newly appointed leadership, focusing on stability and development.
