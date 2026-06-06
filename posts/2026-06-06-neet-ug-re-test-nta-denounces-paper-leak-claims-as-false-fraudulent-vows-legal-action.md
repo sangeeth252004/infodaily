@@ -1,0 +1,20 @@
+---
+title: "NEET-UG Re-test: NTA Denounces Paper Leak Claims as \"False, Fraudulent,\" Vows Legal Action"
+date: "2026-06-06T15:05:59.727Z"
+slug: "neet-ug-re-test-nta-denounces-paper-leak-claims-as-false-fraudulent-vows-legal-action"
+category: "ai"
+description: "The National Testing Agency (NTA) has strongly refuted claims of a paper leak for the NEET-UG re-test held on June 23, 2024, labeling them \"false and fraudulent\" and warning of strict legal action against those spreading misinformation."
+keywords: "NEET-UG re-test, NTA, paper leak claims, fraudulent, legal action, medical entrance exam, NEET 2024, National Testing Agency, exam integrity"
+---
+
+The National Testing Agency (NTA) has publicly declared recent claims of a paper leak concerning the NEET (National Eligibility-cum-Entrance Test) Undergraduate 2024 re-test as "false, baseless, and fraudulent." The agency issued a stern warning, stating it would pursue strict legal action against individuals and organizations found propagating such misinformation, which it described as malicious attempts to tarnish the integrity of the examination process.
+
+The re-test was conducted on Sunday, June 23, 2024, for 1,563 candidates who had previously been awarded grace marks in the initial NEET-UG 2024 examination held on May 5. This decision followed a directive from the Supreme Court, which mandated the cancellation of grace marks for these candidates, offering them the option to either retake the examination or have their original scores without grace marks considered. The NTA emphasized that the re-examination was conducted smoothly and securely across 7 centers nationwide.
+
+Following the re-test, allegations of question paper leaks began circulating on various social media platforms, including platforms like Telegram. These claims suggested that the re-test paper had been compromised, leading to renewed concerns among students and parents. However, the NTA, in its official communication, categorically rejected these allegations, asserting that the examination was conducted with full transparency and security protocols intact. The agency highlighted its robust security measures, which include comprehensive monitoring and multiple layers of verification, designed to prevent any form of malpractice or compromise.
+
+The NTA reiterated its commitment to upholding the fairness and sanctity of the NEET-UG examination, which serves as the gateway for admissions to undergraduate medical courses across India. The agency warned that the spread of "false and fraudulent" claims could lead to unnecessary panic and undermine public trust in the examination system. It stated that such acts would be met with legal recourse under relevant provisions of law against those responsible for disseminating baseless rumors and fake news.
+
+The NEET-UG 2024 examination initially faced scrutiny after results were declared on June 4, 2024, due to an unprecedented number of perfect scores and concerns over the awarding of grace marks. Over 2.4 million candidates appeared for the initial examination. The controversy led to multiple petitions in the Supreme Court and public debate surrounding the examination's integrity. The re-test for the 1,563 candidates was a direct outcome of these legal proceedings, aiming to address the concerns raised regarding grace marks.
+
+The results for the NEET-UG re-test are anticipated to be released by June 30, 2024. The NTA continues to monitor the situation and has urged all stakeholders, including candidates, parents, and coaching centers, to rely solely on official announcements and verified information from the agency to avoid falling victim to speculative or misleading reports. The agency maintains its vigilance against any attempts to disrupt the examination process or mislead the public.
