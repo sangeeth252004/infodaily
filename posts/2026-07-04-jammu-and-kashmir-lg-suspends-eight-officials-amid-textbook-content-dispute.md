@@ -1,0 +1,22 @@
+---
+title: "Jammu and Kashmir LG Suspends Eight Officials Amid Textbook Content Dispute"
+date: "2026-07-04T14:39:15.575Z"
+slug: "jammu-and-kashmir-lg-suspends-eight-officials-amid-textbook-content-dispute"
+category: "technology"
+description: "Eight government employees in Jammu and Kashmir have been suspended following BJP allegations that a Class 10 Urdu textbook contained content glorifying terrorists, prompting an official inquiry."
+keywords: "Jammu and Kashmir, textbook controversy, BJP, Lieutenant Governor, Afzal Guru, JKBOSE, government employees, textbook ban, academic jihad, India education"
+---
+
+Jammu and Kashmir Lieutenant Governor Manoj Sinha has suspended eight government employees associated with the revision of a Class 10 Urdu textbook, following demands by the Bharatiya Janata Party (BJP) for a ban on the publication. The action comes after the BJP's Jammu and Kashmir unit alleged the textbook contained content "glorifying terrorists" and promoted "academic jihad" within the region's educational system.
+
+The controversy originated with the Class 10 Urdu textbook published by the Jammu and Kashmir Board of School Education (JKBOSE). BJP leaders, led by J&K BJP president Ravinder Raina, publicly displayed what they identified as copies of the textbook. They specifically alleged that the publication depicted certain individuals, including Afzal Guru, as "martyrs." Afzal Guru was convicted for his role in the 2001 Indian Parliament attack and was executed in 2013. The BJP contended that presenting such figures as martyrs was a direct endorsement of terrorism and constituted "Pakistan-sponsored content" aimed at radicalizing youth. The party called for an immediate and comprehensive ban on the book and stringent action against all individuals responsible for its curriculum and approval.
+
+Responding swiftly to the escalating allegations, Lieutenant Governor Sinha ordered the suspension of eight members of the textbook revision committee on June 24, 2024. Simultaneously, a high-level inquiry has been formally initiated to thoroughly investigate the claims made regarding the textbook's content. The inquiry's mandate is to ascertain the veracity of the BJP's allegations, determine the precise nature of any controversial material included in the curriculum, and identify potential lapses in the review and approval processes.
+
+*   The suspended individuals were members of the committee tasked with the periodic review and updating of educational materials, including the Class 10 Urdu textbook.
+*   The BJP's primary objection centered on the alleged portrayal of Afzal Guru as a "martyr" within the textbook, a description the party deemed highly inappropriate and provocative.
+*   Beyond the specific textbook, the BJP leadership has also called for a broader review and overhaul of the entire JKBOSE curriculum, expressing concerns about potentially similar problematic content in other educational materials.
+
+In response to the mounting public and political pressure, the Jammu and Kashmir Board of School Education issued a detailed clarification concerning the Class 10 Urdu textbook. JKBOSE stated that the original edition of the textbook, which became the subject of the controversy, was initially published in 2016. The board emphasized that subsequent comprehensive reviews and revisions of the curriculum were conducted in 2019 and again in 2021. According to JKBOSE, the contentious portion containing the specific reference to Afzal Guru was identified during these review processes and subsequently removed from all updated editions. The board further clarified that the digital version of the Class 10 Urdu textbook, which is officially accessible on its website, contains the corrected and updated content, devoid of the controversial passages.
+
+The clarification provided by JKBOSE highlights a potential disparity between older printed copies, which BJP leaders reportedly presented, and the most current official versions of the textbook. This discrepancy forms a critical aspect of the ongoing investigation. The high-level inquiry is expected to meticulously examine all iterations of the textbook, trace the timeline of content changes, and assess the effectiveness of the board's review mechanisms. The outcome of this official investigation will likely determine any further administrative or punitive actions, as well as potential policy adjustments regarding curriculum development in the union territory.
