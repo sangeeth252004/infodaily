@@ -1,0 +1,20 @@
+---
+title: "Kharge Criticizes Centre Over Wangchuk Fast, Cites Broader Pattern of Handling Dissent"
+date: "2026-07-18T08:43:07.410Z"
+slug: "kharge-criticizes-centre-over-wangchuk-fast-cites-broader-pattern-of-handling-dissent"
+category: "technology"
+description: "Congress President Mallikarjun Kharge accused the Central government of a pattern of suppressing dissent, linking environmental activist Sonam Wangchuk's fast in Ladakh to past incidents involving farmers and protestors."
+keywords: "Mallikarjun Kharge, Sonam Wangchuk, Ladakh, Sixth Schedule, climate fast, Central government, environmental protection, political criticism, India, governance"
+---
+
+Congress President Mallikarjun Kharge recently launched a sharp criticism against the Central government, directly linking its alleged actions concerning environmental activist Sonam Wangchuk’s recent fast in Ladakh to a broader pattern of dealing with dissent and public movements. Kharge asserted that the government has "spared no one," drawing parallels between Wangchuk's protest and previous incidents involving various groups across India.
+
+In his public statements, Kharge specifically enumerated a series of past events, including those related to environmentalist G.D. Agrawal, farmers' protests, wrestlers' demonstrations, and victims of paper leak scams. He positioned these incidents as evidence of a consistent approach by the government, suggesting an alleged lack of responsiveness or strong-arm tactics against those who protest or demand policy changes. The remarks come as political discourse intensifies, particularly in the lead-up to significant elections.
+
+The immediate trigger for Kharge's comments was the conclusion of Sonam Wangchuk’s 67-day "climate fast" in Leh, Ladakh. Wangchuk, a renowned environmental activist and education reformer, began his fast on March 6, 2024, to advocate for the protection of Ladakh's fragile Himalayan ecosystem. His primary demand was the implementation of the Sixth Schedule of the Constitution for the Union Territory of Ladakh. The Sixth Schedule provides for the administration of certain tribal areas, granting them significant autonomy, including powers over land, forest, and cultural preservation. Activists in Ladakh argue this status is crucial to safeguard the region's unique culture and environment from potential over-exploitation due through unregulated industrial and developmental projects.
+
+Wangchuk concluded his fast on May 13, 2024, having endured weeks of extreme cold and challenging conditions. Throughout his protest, he highlighted concerns about the melting of glaciers, potential water scarcity, and the adverse effects of unchecked development on the delicate Himalayan ecology. While the fast has ended, Wangchuk has publicly stated his intention to continue the movement through other non-violent means, including planned marches involving local communities.
+
+The Central government had previously committed to reviewing the demands for Ladakh's Sixth Schedule inclusion following the abrogation of Article 370 in 2019, which led to the region's bifurcation from Jammu and Kashmir and its reclassification as a Union Territory. However, progress on this front has been slow, leading to growing dissatisfaction among local leaders and activists like Wangchuk. While the government has not directly responded to Kharge's specific accusations regarding a pattern of suppressing dissent, the issue of Ladakh's governance and environmental protection remains a subject of ongoing debate.
+
+As the political landscape evolves, the intersection of environmental activism, regional autonomy, and government policy is expected to remain a significant point of contention. The unresolved demands for Ladakh's constitutional protection and the broader allegations of a governmental pattern in handling public movements suggest continued political scrutiny and public discourse on these critical issues.
