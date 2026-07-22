@@ -1,0 +1,22 @@
+---
+title: "'No Legal Action Against Protesters': Sonam Wangchuk Sets Condition to End Ladakh Hunger Strike"
+date: "2026-07-22T12:21:46.223Z"
+slug: "no-legal-action-against-protesters-sonam-wangchuk-sets-condition-to-end-ladakh-hunger-strike"
+category: "ai"
+description: "Environmentalist Sonam Wangchuk has set a condition to end his ongoing hunger strike in Ladakh, demanding no legal action against participants of the Climate Justice Protests and urging Sixth Schedule protection for the region."
+keywords: "Sonam Wangchuk, Ladakh, hunger strike, Sixth Schedule, Climate Justice Protest, CJP, protest, legal action, environmental protection, Union Territory, Leh"
+---
+
+Leh, Ladakh – Prominent environmentalist and Magsaysay Award winner Sonam Wangchuk has stated a specific condition for concluding his ongoing hunger strike in Ladakh: a guarantee from the government that no legal action will be taken against individuals who participated in the recent Climate Justice Protests (CJP) in the Union Territory. Wangchuk initiated his "climate fast" in Leh over three weeks ago, advocating for constitutional safeguards for the ecologically sensitive region.
+
+Wangchuk's primary demand, alongside immunity for protesters, centers on the inclusion of Ladakh under the Sixth Schedule of the Indian Constitution. This constitutional provision aims to protect the land, resources, and cultural identity of indigenous populations in designated tribal areas, granting a degree of administrative and legislative autonomy. Activists argue that such measures are vital to preserve Ladakh's fragile Himalayan ecosystem and unique cultural heritage from the potential impacts of rapid, unregulated development following its designation as a Union Territory in 2019. The move to a Union Territory status, separating Ladakh from Jammu and Kashmir, sparked concerns among local communities regarding external exploitation of resources and loss of local control.
+
+The Climate Justice Protests, which preceded and ran concurrently with Wangchuk’s fast, saw significant participation from various segments of the local community, including women, youth, and religious leaders. These demonstrations have aimed to highlight concerns over the potential impact of industrialization, mining, and unchecked tourism on Ladakh's receding glaciers, dwindling water resources, and traditional lifestyles. The peaceful protests involved long marches, sit-ins, and public awareness campaigns, drawing national and international attention to the region's environmental vulnerabilities and the aspirations of its inhabitants for greater self-governance. Wangchuk’s condition directly addresses the perceived risk of legal repercussions faced by these participants, emphasizing the fundamental right to peaceful assembly and protest.
+
+Key aspects of the ongoing situation include:
+*   **Duration of Fast:** Sonam Wangchuk began his "fast unto death" around March 6, 2024, and has continued for over 25 days, leading to concerns about his health.
+*   **Core Demands:** The central demands articulated by Wangchuk and the Ladakh Apex Body (LAB) and Kargil Democratic Alliance (KDA) include the implementation of the Sixth Schedule for Ladakh, statehood for Ladakh, and dedicated parliamentary seats for the region.
+*   **Ecological Concerns:** Protesters highlight the threat to Ladakh's glaciers, which are critical water sources, from potential over-development and climate change impacts.
+*   **Protester Immunity:** The explicit condition of "no legal action" against CJP participants underscores the perceived vulnerability of activists engaged in public demonstrations.
+
+With Wangchuk's health increasingly becoming a focal point following prolonged fasting, the immediate onus is on government authorities to respond to his specific condition regarding the protection of protesters. Official channels have yet to issue a definitive statement addressing this demand. The situation reflects an ongoing dialogue and tension between local aspirations for environmental protection and greater autonomy, and the central government's administrative framework for the newly formed Union Territory of Ladakh. Stakeholders across the region and beyond await further developments regarding potential negotiations or a formal government statement in response to the activist's ultimatum.
