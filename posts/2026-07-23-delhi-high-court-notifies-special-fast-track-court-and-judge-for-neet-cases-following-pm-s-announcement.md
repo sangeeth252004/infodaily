@@ -1,0 +1,18 @@
+---
+title: "Delhi High Court Notifies Special Fast-Track Court and Judge for NEET Cases Following PM's Announcement"
+date: "2026-07-23T18:59:01.160Z"
+slug: "delhi-high-court-notifies-special-fast-track-court-and-judge-for-neet-cases-following-pm-s-announcement"
+category: "tools"
+description: "The Delhi High Court has established a special fast-track court, appointing Justice Naveen Kumar Kashyap, to expedite cases related to the NEET-UG 2024 examination controversy, an action following Prime Minister Narendra Modi's public commitment."
+keywords: "Delhi High Court, NEET, fast-track court, Justice Naveen Kumar Kashyap, NEET-UG 2024, examination integrity, Narendra Modi, Public Examinations Act"
+---
+
+The Delhi High Court has moved to address the escalating controversy surrounding the National Eligibility-cum-Entrance Test (Undergraduate) 2024 examination by notifying the establishment of a special fast-track court. This dedicated court, presided over by Justice Naveen Kumar Kashyap, is designated to expedite the disposal of cases related to the NEET examination, a decision that follows a public announcement by Prime Minister Narendra Modi on the matter. The notification was issued on Monday, June 24, 2024, signaling a focused judicial response to the widespread allegations of irregularities.
+
+The formation of this specialized court underscores the gravity of the situation impacting thousands of medical aspirants nationwide. The NEET-UG 2024 examination has faced significant scrutiny following allegations of paper leaks, grace marks issues, and other malpractices, leading to extensive protests and numerous legal challenges filed across various high courts and the Supreme Court of India. The swift judicial action by the Delhi High Court reflects the urgency acknowledged by both the executive and judicial branches of government to restore confidence in the examination system.
+
+Justice Naveen Kumar Kashyap, who will oversee the special court, is tasked with ensuring a timely and efficient resolution of the incoming cases. The objective is to prevent undue delays in legal proceedings, which can often exacerbate the anxieties of affected students and stakeholders. This judicial intervention is designed to complement other measures being taken by the government to uphold the sanctity and integrity of public examinations.
+
+Prime Minister Narendra Modi had previously addressed the controversy, assuring students and their families of his government's commitment to delivering justice and holding accountable those responsible for any irregularities. His announcement laid the groundwork for further government action, including the recent enactment of The Public Examinations (Prevention of Unfair Means) Act, 2024. This new legislation introduces stringent penalties, including jail terms and substantial fines, for individuals and organizations involved in paper leaks and other examination-related unfair practices. The Ministry of Education has also established a high-level committee to review the functioning of the National Testing Agency (NTA) and recommend reforms.
+
+The establishment of the fast-track court in Delhi is anticipated to facilitate a consolidated and accelerated hearing of cases arising from the capital and potentially other regions, contributing to a quicker legal resolution. This move is part of a broader, multi-pronged effort by the government and judiciary to address the systemic issues revealed by the NEET controversy and to implement robust safeguards against future incidents. The legal proceedings are expected to commence swiftly, with the court focusing on the merits of each petition to ensure fairness and transparency for all parties involved.
