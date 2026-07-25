@@ -1,0 +1,25 @@
+---
+title: "RRB ALP CBT 2 Admit Card 2026 released for CEN 01/2025 examination; download here"
+date: "2026-07-25T04:56:46.396Z"
+slug: "rrb-alp-cbt-2-admit-card-2026-released-for-cen-01-2025-examination-download-here"
+category: "tools"
+description: "The Railway Recruitment Boards (RRB) have released the Admit Cards for the Assistant Loco Pilot (ALP) CBT 2 examinations for the CEN 01/2025 notification. Candidates can download their admit cards for the 2026 exams from official regional RRB websites."
+keywords: "RRB ALP, CBT 2 Admit Card, 2026 Examination, CEN 01/2025, Assistant Loco Pilot, Indian Railways, Admit Card Download, RRB Recruitment, Railway Jobs"
+---
+
+The Railway Recruitment Boards (RRB), operating under the Ministry of Railways, Government of India, have officially released the Admit Cards for the Computer-Based Test Stage 2 (CBT 2) for Assistant Loco Pilot (ALP) positions. This release pertains to the Centralised Employment Notification (CEN) 01/2025 recruitment drive, with examinations scheduled to commence in 2026. Candidates who qualified in the CBT 1 examination can now access and download their respective admit cards from the official regional RRB websites, a crucial step for appearing in the upcoming second stage of the selection process.
+
+This latest development marks a significant progression in one of the largest recruitment drives for technical personnel within the Indian Railways. The CEN 01/2025 notification was initially issued to fill a substantial number of Assistant Loco Pilot vacancies across various railway zones, with estimates placing the total number of posts at over 50,000. The ALP role is critical for the operational efficiency and safety of the national railway network, involving the direct assistance to locomotive pilots in controlling trains. The release of these admit cards provides candidates with essential details such as their examination city, date, shift timing, and examination centre address, enabling them to make necessary travel and logistical arrangements well in advance of the early 2026 examination period.
+
+The CBT 2 examination is a pivotal stage in the ALP selection process, designed to assess a candidate's technical aptitude, general intelligence, and specific trade knowledge. Unlike CBT 1, which served as a screening test, CBT 2 is divided into two distinct parts: Part A and Part B. Part A evaluates candidates on subjects including Mathematics, General Intelligence and Reasoning, and Basic Science and Engineering. The marks obtained in Part A are instrumental in determining a candidate's merit. Part B, on the other hand, is a qualifying section focusing on relevant trade syllabi, ensuring candidates possess the foundational knowledge required for the ALP role. Candidates must score the minimum qualifying marks in Part B to be considered for further stages, even if they perform well in Part A.
+
+To download their RRB ALP CBT 2 Admit Card, candidates are required to visit their respective regional RRB website. They will need to log in using their registration number and date of birth or password. It is imperative for all candidates to download, review, and print multiple copies of their admit card. Alongside a valid photo identity proof, the printed admit card is a mandatory document for entry into the examination hall. Candidates are strongly advised to check all details on their admit card, including their name, photograph, signature, examination venue, date, and time, for any discrepancies. In case of errors, immediate contact with the concerned RRB authority is recommended for rectification.
+
+Key instructions for candidates downloading their admit card include:
+*   **Access:** Visit the official website of the specific Railway Recruitment Board under which the application was submitted.
+*   **Navigation:** Locate and click on the prominent link titled "RRB ALP CBT 2 Admit Card Download for CEN 01/2025".
+*   **Login:** Enter the required credentials, typically the candidate's registration number and date of birth.
+*   **Verification & Print:** Verify all details displayed on the admit card before downloading and taking a printout. It is advisable to print at least two copies for safety.
+*   **Identity Proof:** Candidates must carry a valid original photo identity proof along with the admit card to the examination centre. Acceptable IDs include an Aadhaar card, Voter ID, Passport, Driving License, or PAN Card.
+
+Following the successful completion of CBT 2, qualified candidates will proceed to the Computer-Based Aptitude Test (CBAT), also known as the Psycho Test, which is specific to ALP positions. Subsequent stages include Document Verification and a thorough Medical Examination to ensure candidates meet the stringent physical and medical standards required for railway operations. The release of these admit cards signifies a critical step towards the final selection of skilled personnel who will contribute to the ongoing growth and maintenance of India's vast railway infrastructure. Candidates are encouraged to intensify their preparation based on the confirmed examination schedule and venue details.
