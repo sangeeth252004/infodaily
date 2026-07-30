@@ -1,0 +1,20 @@
+---
+title: "Supreme Court Posthumously Clears Former PM Manmohan Singh in Coalgate Case"
+date: "2026-07-30T01:25:02.752Z"
+slug: "supreme-court-posthumously-clears-former-pm-manmohan-singh-in-coalgate-case"
+category: "technology"
+description: "The Supreme Court of India recently delivered a significant ruling, posthumously clearing former Prime Minister Dr. Manmohan Singh in the Coalgate coal block allocation case, two years after his passing."
+keywords: "Manmohan Singh, Supreme Court, Coalgate, coal block allocation, posthumous clearance, legal proceedings, former Prime Minister, India, UPA government"
+---
+
+The Supreme Court of India has delivered a significant ruling, posthumously clearing former Prime Minister Dr. Manmohan Singh in connection with the coal block allocation irregularities, widely known as the Coalgate case. This definitive decision comes two years after Dr. Singh's passing on February 1, 2022, providing a conclusive end to a protracted legal matter that had cast a shadow on his tenure as head of government.
+
+The Coalgate scandal originated during the United Progressive Alliance (UPA) government's term, specifically between 2004 and 2009. It involved allegations of irregularities in the allocation of coal blocks to private and public sector companies without a transparent bidding process, purportedly causing significant financial losses to the state exchequer. Dr. Singh, who served as Prime Minister from 2004 to 2014, also held the portfolio of Coal Minister for a period between 2006 and 2009. During this time, several contentious allocations were made, leading to various investigative agencies, including the Central Bureau of Investigation (CBI), initiating probes into the matter.
+
+In its recent pronouncement, a bench of the Supreme Court quashed all pending criminal proceedings against the late former Prime Minister related to the Coalgate case. While specific details of the court's reasoning were not immediately disclosed, such rulings often cite factors like a lack of prosecutable evidence, absence of criminal intent, or procedural infirmities in the initial charges. This ruling effectively absolves Dr. Singh of any alleged involvement or culpability in the irregularities surrounding the allocation process.
+
+This posthumous clearance holds considerable significance for Dr. Singh's legacy. Throughout his career, Dr. Singh, a renowned economist and architect of India's economic reforms, was largely perceived as a statesman of integrity. The Coalgate allegations, which had led to his being summoned as an accused by a special CBI court in 2015, were a point of contention for his supporters and critics alike. The Supreme Court's definitive judgment now officially removes the legal cloud that lingered over his public service, reaffirming his position in Indian political history. The ruling underscores the complexity of high-profile cases involving top government officials and the extended timelines often associated with such legal battles in India.
+
+The Coalgate controversy gained significant traction following a 2012 report by the Comptroller and Auditor General (CAG) of India, which estimated a potential loss of ₹1.86 lakh crore (approximately $28 billion at the time) due to the non-auctioning of coal blocks. Multiple First Information Reports (FIRs) were subsequently filed, and chargesheets were presented against various individuals and companies by the CBI. Prior to the Supreme Court's latest ruling, Dr. Singh had been summoned by a special CBI court in March 2015, although these proceedings were later stayed by the Supreme Court itself. Dr. Singh consistently maintained his innocence, stating that all decisions were taken in good faith and in consultation with state governments.
+
+While the Supreme Court's ruling brings a conclusive end to Dr. Manmohan Singh's personal involvement in the Coalgate legal saga, trials against other accused individuals and entities in related cases are expected to continue in various special courts. The judgment serves as a final legal vindication for the former Prime Minister, two years after his demise.
