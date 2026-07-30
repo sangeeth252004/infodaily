@@ -1,0 +1,18 @@
+---
+title: "Pinal County Sheriff Rejects Kash Patel's Claim on FBI Involvement in Guthrie Probe"
+date: "2026-07-30T17:15:39.866Z"
+slug: "pinal-county-sheriff-rejects-kash-patel-s-claim-on-fbi-involvement-in-guthrie-probe"
+category: "ai"
+description: "Pinal County Sheriff Mark Lamb has publicly refuted claims by former Trump administration official Kash Patel that the FBI was kept out of the Nancy Guthrie fentanyl trafficking investigation for four days, stating federal agents were involved within hours."
+keywords: "Sheriff Mark Lamb, Kash Patel, FBI, Nancy Guthrie, fentanyl trafficking, Pinal County, investigation, DEA, federal agents, political claims"
+---
+
+Pinal County, Arizona – Pinal County Sheriff Mark Lamb has publicly rejected claims made by former Trump administration official Kash Patel regarding the involvement of the Federal Bureau of Investigation (FBI) in the high-profile Nancy Guthrie fentanyl trafficking investigation. Sheriff Lamb stated that federal agents were engaged in the probe "within hours" of Guthrie's apprehension, directly refuting Patel's assertion that the FBI was intentionally excluded for four days.
+
+Patel, a former chief of staff to the acting Secretary of Defense under President Donald Trump, made his initial claims on Steve Bannon's "War Room" podcast. He alleged that the FBI had been deliberately kept away from the investigation into Guthrie, who faces charges related to fentanyl trafficking and illegal weapons possession, and is reportedly linked to a Mexican cartel. Patel's broader narrative often involves accusations of a "weaponized government" and a "deep state" targeting political opponents.
+
+Sheriff Lamb, a prominent conservative figure in Arizona and a potential Republican Senate candidate, used social media platform X (formerly Twitter) to counter Patel's statements. In his post, Lamb clarified, "Just to clear up the false information, the FBI and DEA (Drug Enforcement Administration) were involved within hours of the initial apprehension. The agents were on the ground the same day of the arrest and initial debriefing." This direct contradiction from an on-the-ground law enforcement official underscored the factual discrepancy concerning federal agency cooperation in the case.
+
+The investigation involving Nancy Guthrie stems from an incident in Pinal County where she was apprehended. Authorities allege her involvement in significant fentanyl trafficking operations, a critical issue impacting communities nationwide. The charges also include weapons offenses, amplifying the seriousness of the case. The presence and swift involvement of federal agencies like the FBI and DEA are standard procedure in investigations of this magnitude, particularly those with potential inter-state or international implications, such as alleged ties to drug cartels.
+
+The dispute highlights ongoing tensions and differing narratives surrounding federal law enforcement agencies, particularly in politically charged discussions. Sheriff Lamb's detailed rebuttal provides a direct account from the local jurisdiction overseeing the initial stages of the investigation, offering a factual counterpoint to claims of deliberate federal exclusion. As the legal process unfolds for Nancy Guthrie, the Pinal County Sheriff's Office continues its work in collaboration with federal partners. The swift clarification from Sheriff Lamb aims to correct the record regarding inter-agency cooperation in critical investigations involving serious criminal allegations.
