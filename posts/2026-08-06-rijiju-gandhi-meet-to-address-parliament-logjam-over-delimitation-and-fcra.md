@@ -1,0 +1,20 @@
+---
+title: "Rijiju, Gandhi Meet to Address Parliament Logjam Over Delimitation and FCRA"
+date: "2026-08-06T12:50:23.161Z"
+slug: "rijiju-gandhi-meet-to-address-parliament-logjam-over-delimitation-and-fcra"
+category: "ai"
+description: "Law Minister Kiren Rijiju met Congress leader Rahul Gandhi in New Delhi on May 29, 2024, to discuss resolving the ongoing Parliament logjam. Discussions focused on delimitation, the Foreign Contribution (Regulation) Act (FCRA), and fostering cross-party dialogue."
+keywords: "Parliament logjam, Kiren Rijiju, Rahul Gandhi, delimitation, FCRA, India politics, parliamentary proceedings, legislative business, cross-party dialogue, New Delhi"
+---
+
+Law Minister Kiren Rijiju held a meeting with Congress leader Rahul Gandhi on May 29, 2024, in New Delhi, focusing on efforts to de-escalate the ongoing Parliament logjam. The discussion, described by Mr. Rijiju as an endeavor to foster constructive dialogue, addressed key legislative disputes, notably the issues of delimitation and amendments to the Foreign Contribution (Regulation) Act (FCRA). Following the discussion, Mr. Rijiju stated, "We are not enemies," emphasizing the intent for cooperation over confrontation.
+
+The direct engagement between a Union Minister and a prominent opposition figure underscores the government's attempts to navigate persistent parliamentary disruptions. Recent sessions have seen significant portions of legislative business stalled due to disagreements between ruling and opposition parties. This particular meeting follows previous instances where both sides have sought avenues for dialogue to ensure smoother functioning of the legislative body. Such high-level, direct discussions are often seen as crucial mechanisms for bridging political divides and finding common ground on legislative matters that affect national governance.
+
+A primary point of contention discussed was the impending expiry of the freeze on parliamentary seat delimitation in 2026. This issue holds significant political implications, particularly for states in Southern India which have expressed concerns about potential reductions in their Lok Sabha representation. These states argue that their successful population control measures could inadvertently penalize them by shifting more seats to states with higher population growth, predominantly in the Northern regions. The existing freeze, based on the 1971 census, has been a temporary measure to avoid such discrepancies.
+
+The Foreign Contribution (Regulation) Act (FCRA) also featured prominently in the discussions. The government has implemented amendments to the FCRA, citing concerns about transparency and accountability in foreign funding to non-governmental organizations (NGOs). Opposition parties, including the Congress, have frequently criticized these amendments, arguing they impose undue restrictions on civil society organizations and can be used to stifle dissent. These legislative changes have led to protests and calls for reconsideration from various quarters.
+
+Mr. Rijiju’s public statement, "We are not enemies," reflects a perceived need for a less adversarial approach to parliamentary politics. While political differences remain, the emphasis on dialogue aims to ensure that fundamental legislative processes can proceed without being entirely derailed by political disagreements.
+
+The meeting concluded without an immediate resolution to the parliamentary logjam, but it signals an ongoing effort by both sides to find a path forward. Future discussions are anticipated as both the government and opposition seek to advance their legislative agendas while navigating significant policy disagreements. The outcome of these continuing dialogues will likely influence the productivity and tenor of upcoming parliamentary sessions.
