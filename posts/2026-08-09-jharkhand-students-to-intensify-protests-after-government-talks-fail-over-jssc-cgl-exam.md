@@ -1,0 +1,22 @@
+---
+title: "Jharkhand Students to Intensify Protests After Government Talks Fail Over JSSC CGL Exam"
+date: "2026-08-09T13:41:37.056Z"
+slug: "jharkhand-students-to-intensify-protests-after-government-talks-fail-over-jssc-cgl-exam"
+category: "ai"
+description: "Jharkhand students announced intensified protests following failed talks with the state government regarding the cancellation of the JSSC CGL exam amidst paper leak allegations and demands for new recruitment policies."
+keywords: "Jharkhand, student protest, JSSC CGL, exam cancellation, paper leak, recruitment policy, domicile policy, Champai Soren, government talks, assembly gherao"
+---
+
+Jharkhand students are set to intensify their agitation from June 10 after recent talks with the state government, led by Chief Minister Champai Soren, failed to yield a resolution regarding the cancellation of the Jharkhand Staff Selection Commission (JSSC) Combined Graduate Level (CGL) examination. Student representatives had demanded the nullification of the examination, citing widespread allegations of question paper leaks during the January 28, 2024, examination. However, the government rejected the demand, leading to the decision to escalate protests.
+
+The decision to intensify protests follows a meeting on June 6, 2024, involving a delegation of student leaders and senior government officials. Key figures present included Chief Minister Champai Soren, Finance Minister Rameshwar Oraon, Chief Secretary L Khiangte, and JSSC Chairman Prashant Kumar. Despite the high-level engagement, the state government maintained its stance against cancelling the January 28 examination, citing a lack of "concrete evidence" for a full cancellation and concerns about further delaying the recruitment process for over 6 lakh aspirants.
+
+Students, represented by leaders such as Devendra Mahto, Manoj Yadav, Subodh Kumar, and Saryu Kumar, have been vocal in their demand for the CGL exam's cancellation since initial reports of question paper leaks emerged. The leak allegations specifically pertain to the January 28, 2024, paper, which students claim circulated widely on social media platforms prior to the examination. Following similar allegations, the JSSC had already canceled the examination papers for February 4, 2024. However, the January 28 paper remained valid, becoming a central point of contention for the student community.
+
+The students' broader demands extend beyond the CGL exam cancellation. They are also advocating for a comprehensive review of the state's recruitment policy and the implementation of a new domicile policy. The existing recruitment framework has been a source of dissatisfaction among job aspirants, who argue for more transparency and a greater emphasis on local employment. The domicile policy is critical for students who believe it should prioritize job opportunities for residents of Jharkhand.
+
+The government's position, as communicated during the talks, is that while they are committed to ensuring fair recruitment, a blanket cancellation of the January 28 paper without definitive proof of widespread leakage would be an overreaction and could disadvantage thousands of candidates. JSSC Chairman Prashant Kumar reportedly informed the delegation that investigations into the alleged leak are ongoing, and actions would be taken based on findings. However, students remain unconvinced, asserting that the evidence available is sufficient to warrant cancellation and a fresh examination.
+
+The failed dialogue has galvanized the student community, which has announced plans for an "assembly gherao" (encirclement) on June 10. This intensified form of protest aims to pressure the state government into reconsidering its position and addressing their grievances. The students also plan to conduct similar protests at district headquarters across the state, signaling a broad-based movement.
+
+With both sides entrenched in their positions, the upcoming week is expected to see increased public demonstrations by students across Jharkhand. The state government faces continued pressure to balance the demands for fairness and transparency with the need to complete long-delayed recruitment processes, particularly for key administrative positions. The outcome of the intensified agitation and any subsequent government response will likely shape future dialogues on state employment policies.
