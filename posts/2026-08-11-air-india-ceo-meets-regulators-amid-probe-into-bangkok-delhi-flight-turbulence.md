@@ -1,0 +1,18 @@
+---
+title: "Air India CEO Meets Regulators Amid Probe into Bangkok-Delhi Flight Turbulence"
+date: "2026-08-11T12:41:06.978Z"
+slug: "air-india-ceo-meets-regulators-amid-probe-into-bangkok-delhi-flight-turbulence"
+category: "ai"
+description: "Air India CEO Campbell Wilson met officials from the Ministry of Civil Aviation and DGCA following a severe turbulence incident on flight AI 173 from Bangkok to Delhi on May 7, which injured four passengers. A regulatory probe is underway."
+keywords: "Air India, Campbell Wilson, MoCA, DGCA, flight turbulence, AI 173, aviation safety, Bangkok-Delhi, incident probe, airline safety"
+---
+
+Air India CEO Campbell Wilson recently held meetings with senior officials from the Ministry of Civil Aviation (MoCA) and the Directorate General of Civil Aviation (DGCA) in New Delhi. These discussions occurred amidst an ongoing investigation into a severe turbulence incident that affected Air India flight AI 173, operating from Bangkok to Delhi, on May 7, 2024. The meetings underscore the serious attention from both the airline’s leadership and aviation regulators regarding the safety of air travel operations.
+
+The incident on flight AI 173 resulted in injuries to four passengers, one of whom required hospitalization upon landing in Delhi. Beyond passenger injuries, the turbulence caused notable damage to the aircraft itself. Reports indicate that the lavatory door was damaged, and several ceiling panels in the front galley sustained impact. Such occurrences are subject to rigorous examination by aviation authorities to ascertain the precise conditions and factors contributing to the event.
+
+Following the incident, the DGCA promptly initiated a comprehensive investigation. As part of its standard protocol for serious aviation occurrences, the regulatory body has off-rostered the pilots involved in the flight, pending the outcome of the probe. Additionally, the aircraft has undergone thorough inspection by maintenance staff to assess the extent of the damage and ensure its airworthiness before it is returned to service. The DGCA's oversight is crucial for maintaining safety standards within Indian airspace and for international flights operating to and from the country.
+
+Mr. Wilson's direct engagement with top aviation regulatory bodies signifies Air India's proactive approach in addressing the incident and cooperating fully with the official inquiry. Such high-level meetings are customary when significant safety events occur, allowing for direct communication between the airline's leadership and government regulators. Air India has publicly reiterated its commitment to passenger safety and adherence to all regulatory guidelines as the investigation progresses.
+
+The ongoing DGCA investigation will meticulously analyze flight data recorders, cockpit voice recorders, weather reports, and crew statements to reconstruct the event and determine its root causes. The findings will inform potential recommendations for operational adjustments, training enhancements, or maintenance protocol revisions, not only for Air India but potentially across the aviation sector. The airline is expected to implement any directives or safety enhancements mandated by the DGCA to prevent similar incidents in the future. The detailed report from the DGCA is anticipated upon the conclusion of its extensive review process, which will determine any further actions required.
