@@ -1,0 +1,23 @@
+---
+title: "Iran Moves to Criminalize Interviews with US, Israeli Media"
+date: "2026-08-16T15:11:54.409Z"
+slug: "iran-moves-to-criminalize-interviews-with-us-israeli-media"
+category: "technology"
+description: "Iran's parliament is advancing legislation to criminalize interviews with US and Israeli media, potentially leading to prison terms up to 30 years. The proposed law cites national security concerns."
+keywords: "Iran, media, legislation, criminalization, US media, Israeli media, press freedom, national security, prison terms, human rights, international relations, Iranian parliament."
+---
+
+Iranian lawmakers are reportedly advancing legislation that seeks to criminalize interviews conducted by Iranian citizens with media outlets based in the United States and Israel. The proposed law, which is currently undergoing parliamentary review, could impose severe penalties, including prison sentences of up to 30 years, on individuals found in violation. This development marks a significant move by Tehran concerning information control and relations with specific international media entities.
+
+The legislative initiative appears to be rooted in long-standing geopolitical tensions between Iran, the United States, and Israel. Iranian officials have frequently accused media outlets from these nations of engaging in propaganda and misinformation campaigns against the Islamic Republic, aiming to destabilize the country or undermine its political system. Proponents of the bill within the Iranian parliament argue that such interviews compromise national security, provide platforms for hostile foreign agendas, and therefore necessitate stringent legal deterrence. This move aligns with a broader pattern of increasing scrutiny and restrictions on media activities and foreign interactions within Iran.
+
+Should the bill pass into law, it would significantly tighten restrictions on freedom of expression and access to information within Iran. It raises profound concerns among human rights organizations and international press freedom advocates regarding its potential chilling effect on independent journalism, academic discourse, and ordinary citizens seeking to communicate with a broader global audience. The legislation, as reported, does not reportedly differentiate between the content or context of interviews, focusing solely on the affiliation of the media outlet. This broad approach suggests an attempt to create a complete barrier to interaction, regardless of the nature of the conversation. Analysts suggest that this could further limit the ability of international media to gain insight into Iranian society and perspectives.
+
+Key aspects of the proposed legislation include:
+*   **Targeted Media:** The proposed law specifically identifies and targets media outlets operating from or affiliated with the United States and Israel.
+*   **Potential Penalties:** Individuals found in violation could face significant prison terms, reportedly extending up to 30 years, signaling the severe nature of the intended punishment.
+*   **Stated Rationale:** Iranian authorities cite national security protection, countering foreign propaganda, and safeguarding the Islamic Republic's interests as primary motivations for the legislation.
+*   **Scope:** The prohibitions apply to Iranian citizens, encompassing a wide range of individuals from journalists and academics to activists and ordinary citizens who might engage with the specified foreign media.
+*   **Legislative Status:** The bill is currently under parliamentary review, indicating it is an active legislative proposal rather than an enacted law.
+
+The bill's progression through the Iranian parliamentary system will be closely monitored by international bodies, human rights organizations, and media watchdogs. If enacted, it is widely expected to draw condemnation from governments and advocacy groups worldwide who champion press freedom and the right to information. The implementation of such a law would further isolate Iranian citizens from international dialogue platforms and could exacerbate existing tensions in Iran's foreign relations, particularly with Western nations and Israel. It also highlights a deepening commitment by Iranian authorities to control narratives and information flows, potentially at the expense of open communication and international engagement. The precise timeline for its final approval and enforcement remains subject to the legislative process within Iran.
