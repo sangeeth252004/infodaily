@@ -1,0 +1,24 @@
+---
+title: "Centre Draws Fire Over Telangana CM Revanth Reddy's Cancelled US Tour"
+date: "2026-08-22T13:24:24.521Z"
+slug: "centre-draws-fire-over-telangana-cm-revanth-reddy-s-cancelled-us-tour"
+category: "ai"
+description: "Congress President Mallikarjun Kharge criticized the central government for allegedly cancelling Telangana CM Revanth Reddy's US tour, raising concerns over federalism and state development initiatives."
+keywords: "Mallikarjun Kharge, Revanth Reddy, US tour, Telangana, central government, political clearance, federal relations, investment, India, Congress, BJP"
+---
+
+New Delhi, India – Congress President Mallikarjun Kharge has strongly criticized the central government following the reported cancellation of Telangana Chief Minister Revanth Reddy's planned official visit to the United States. Kharge labelled the decision as "deeply unfair," asserting that it undermines cooperative federalism and obstructs state-level development initiatives, thereby igniting a political controversy over the autonomy of state leaders in conducting international engagements.
+
+Chief Minister Reddy's proposed US tour was reportedly aimed at attracting foreign direct investment to Telangana, engaging with non-resident Indian communities, and exploring opportunities for collaboration across various sectors, including information technology, pharmaceuticals, and renewable energy. Such international visits are frequently undertaken by state heads to bolster economic growth, foster global partnerships, and showcase regional opportunities. The abrupt cancellation has prompted scrutiny regarding the procedures for granting political clearance to state chief ministers for international travel, a process managed by the Union Ministry of External Affairs and the Ministry of Home Affairs.
+
+*   **Political Clearance Protocol:** Indian state chief ministers are required to obtain political clearance from the central government before undertaking official foreign trips. This involves a multi-stage approval process, assessing the nature of the visit and its alignment with national foreign policy objectives.
+*   **Economic Ramifications:** The reported cancellation could potentially impact Telangana's efforts to secure new investments, establish international business ties, and promote its industrial corridors, particularly given the state's ambitious growth targets in technology and innovation hubs.
+*   **Federal Relations Strain:** The incident has reignited discussions on the relationship dynamics between the central government and state governments, especially in instances where different political parties hold power at the Centre and in the states. Critics argue that denying clearance on grounds perceived as politically motivated, rather than procedural, obstructs legitimate state-level development efforts.
+
+Sources close to the Telangana Chief Minister's Office indicated that extensive preparations had been made for the tour, including scheduling meetings with potential investors, industry leaders, and representatives of the sizable Telugu diaspora in the United States. The central government has not publicly detailed the specific reasons for the reported denial of clearance, which has contributed to the political outcry and calls for transparency.
+
+Mallikarjun Kharge, speaking on the matter, referenced the historical practice of chief ministers from various political affiliations undertaking foreign tours for the benefit of their respective states without hindrance. He called upon the central government to provide a clear explanation for its decision, emphasizing the need for consistency and fairness in such administrative actions. The Congress party, which governs Telangana, views the cancellation as a potential act of political obstruction aimed at impeding the state's progress and hindering a democratically elected chief minister's mandate.
+
+The incident underscores prevailing tensions between the central government and opposition-ruled states concerning issues that encompass both national foreign policy and state-level economic development initiatives. While the Centre maintains the prerogative to grant or deny political clearance for foreign travel by state officials, the basis for such decisions often faces intense scrutiny, particularly when they involve high-profile state leaders and impact significant state-led projects.
+
+As of this report, neither the Ministry of External Affairs nor the Ministry of Home Affairs has issued a public statement clarifying the reasons behind the reported cancellation. The Telangana government is anticipated to formally seek clarification, and the matter is expected to remain a prominent point of contention in centre-state political discourse. This development adds to a broader pattern of federal challenges in India, where state and central priorities sometimes intersect with political rivalry and administrative oversight.
