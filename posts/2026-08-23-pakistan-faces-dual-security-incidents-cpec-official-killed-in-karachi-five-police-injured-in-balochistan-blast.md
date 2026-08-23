@@ -1,0 +1,18 @@
+---
+title: "Pakistan Faces Dual Security Incidents: CPEC Official Killed in Karachi, Five Police Injured in Balochistan Blast"
+date: "2026-08-23T13:25:53.376Z"
+slug: "pakistan-faces-dual-security-incidents-cpec-official-killed-in-karachi-five-police-injured-in-balochistan-blast"
+category: "technology"
+description: "A retired security official involved in CPEC projects was killed by gunmen in Karachi, while five police officers were injured in a separate grenade attack in Balochistan on Friday, June 14, highlighting ongoing security challenges in Pakistan."
+keywords: "Pakistan, Karachi, Balochistan, CPEC, security, violence, attack, police, gunmen, grenade, militant, security challenges"
+---
+
+KARACHI, Pakistan – A retired security official involved in the China-Pakistan Economic Corridor (CPEC) projects was fatally shot by unidentified gunmen in Karachi on Friday, June 14, 2024. In a separate incident on the same day, five police personnel sustained injuries in a grenade attack in Pakistan's southwestern Balochistan province. These events underscore the persistent security challenges facing various regions of the country.
+
+Brigadier (retd) Mansoor Ahmed, who served as an official contributing to CPEC initiatives, was targeted outside his residence in the port city of Karachi. Reports indicate that unidentified assailants, riding a motorcycle, opened fire on him, resulting in his immediate death. Following the attack, Ahmed's body was transported to a private hospital for medico-legal procedures. Law enforcement agencies, including the police and Rangers, promptly arrived at the scene, where they cordoned off the area and commenced evidence collection as part of their investigation into the killing. No group has yet claimed responsibility for Brigadier Ahmed's assassination.
+
+Hours later, in the Mastung district of Balochistan province, five police officers were injured when a hand grenade was hurled at their vehicle. The attack occurred near a police station, with initial reports suggesting that unidentified motorcyclists were responsible for throwing the explosive device. The injured officers were immediately transported to a nearby hospital for medical treatment. Two of the five police personnel are reported to be in critical condition, requiring intensive care. Authorities in Balochistan have initiated an investigation to determine the perpetrators and motive behind the grenade assault.
+
+These twin acts of violence highlight the complex security landscape across Pakistan. Karachi, the nation's largest city, has historically grappled with issues of urban crime and targeted violence. Meanwhile, Balochistan, a mineral-rich but restive province, has long been a flashpoint for separatist movements and militant activity. Groups such as the Balochistan Liberation Army (BLA) and other militant organizations have frequently targeted security forces and infrastructure projects, including those linked to CPEC, in the region. The CPEC, a flagship project under China's Belt and Road Initiative, involves significant Chinese investment in Pakistan's infrastructure, energy, and transport sectors, and has faced threats from various militant groups.
+
+Investigations into both incidents are ongoing. Authorities have not reported any arrests in connection with either the killing of Brigadier Mansoor Ahmed or the grenade attack in Mastung. Security forces remain on alert in both Karachi and Balochistan as they work to identify and apprehend those responsible for these recent acts of violence and to reinforce security measures in vulnerable areas. The incidents serve as a reminder of the continued efforts required to maintain peace and stability in key regions of Pakistan.
