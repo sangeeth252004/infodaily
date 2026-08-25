@@ -1,0 +1,18 @@
+---
+title: "Lyndon B. Johnson Donates Texas White House in 1972, Lady Bird Johnson Maintains Residency Until 2007"
+date: "2026-08-25T11:17:39.780Z"
+slug: "lyndon-b-johnson-donates-texas-white-house-in-1972-lady-bird-johnson-maintains-residency-until-2007"
+category: "technology"
+description: "In 1972, President Lyndon B. Johnson and his wife, Lady Bird Johnson, donated their Texas White House and approximately 600 acres to the U.S. government, reserving lifetime rights. Lady Bird Johnson continued to reside at the property until her death in 2007."
+keywords: "Lyndon B. Johnson, Lady Bird Johnson, Texas White House, LBJ Ranch, National Park Service, historical preservation, presidential residence, U.S. history"
+---
+
+In 1972, former U.S. President Lyndon B. Johnson and his wife, Claudia Alta "Lady Bird" Johnson, formally donated their significant ranch property in Stonewall, Texas, known as the "Texas White House" along with approximately 600 surrounding acres, to the U.S. government. The historic transfer included a unique provision allowing both Johnsons to retain lifetime residential rights to the property. Lady Bird Johnson exercised this right, continuing to live at the ranch for 35 years following the donation until her death in 2007.
+
+The donation by the 36th president and his wife aimed to preserve the property, which served as a functioning presidential residence during his time in office, for future generations. Situated along the Pedernales River, the ranch became an extension of the Oval Office, often hosting foreign dignitaries, cabinet meetings, and legislative discussions, earning its informal moniker "Texas White House." The decision to donate the estate ensured its maintenance and eventual public accessibility through the National Park Service (NPS).
+
+Under the terms of the 1972 agreement, the Johnsons retained a life estate in their private residence, allowing them to live on the property and manage certain aspects of the working ranch. Following President Johnson's death in January 1973, Lady Bird Johnson continued to reside there as her primary home. During her residency, she played an active role in the preservation and interpretation of the site, working closely with the NPS to ensure its historical integrity. Portions of the ranch were opened to the public in stages, allowing visitors to experience the landscape and the presidential legacy even while Mrs. Johnson still lived on the property.
+
+The arrangement provided a distinctive model for the preservation of a former presidential home, allowing its most recent resident to continue living within its historical context. This ensured that authentic details and personal connections to the Johnson era remained immediate and tangible. Upon Lady Bird Johnson's passing on July 11, 2007, at the age of 94, the lifetime estate fully reverted to the U.S. government.
+
+Today, the former Texas White House and the surrounding property are administered by the National Park Service as part of the Lyndon B. Johnson National Historical Park. The site is a significant historical landmark, offering visitors insight into President Johnson's life, his presidency, and his enduring connection to his Texas roots. The property now includes the Texas White House, the Junction School, the Johnson family cemetery, and the birthplace of Lyndon B. Johnson, all accessible to the public, fulfilling the Johnsons' vision for its long-term preservation and educational use.
