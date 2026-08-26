@@ -1,0 +1,20 @@
+---
+title: "Indian-Origin Former Optum Director Sentenced to Prison for $950,000 Fraud"
+date: "2026-08-26T11:20:28.688Z"
+slug: "indian-origin-former-optum-director-sentenced-to-prison-for-950-000-fraud"
+category: "technology"
+description: "Rohit Lohan, a former Director of Technology at Optum, received a three-year prison sentence and was ordered to pay $950,296 in restitution for a mail fraud scheme involving falsified invoices."
+keywords: "Rohit Lohan, Optum, mail fraud, corporate fraud, prison sentence, restitution, UnitedHealth Group, Minnesota, technology director, white-collar crime."
+---
+
+Minneapolis, MN – Rohit Lohan, an Indian-origin former Director of Technology at Optum, a prominent healthcare technology services company and a subsidiary of UnitedHealth Group, was sentenced on Tuesday, March 19, 2024, to three years in federal prison. Lohan, 40, faced justice in the U.S. District Court in Minneapolis for orchestrating a sophisticated mail fraud scheme that siphoned nearly $1 million from his employer. The court also ordered Lohan to pay $950,296 in restitution to Optum and to forfeit an equivalent amount.
+
+Lohan had entered a guilty plea in November 2023 to one count of mail fraud, admitting to a scheme that systematically defrauded Optum over a period of more than five years, from late 2017 through early 2023. As part of the fraudulent operation, Lohan established a shell company, R. Solutions, which had no legitimate business operations. He then exploited his senior position within Optum to manipulate internal payment systems. This involved submitting numerous falsified invoices from R. Solutions, ostensibly for services rendered to Optum, and subsequently leveraging his directorial authority to approve these invoices for payment. The financial transactions resulted in $950,296 being fraudulently transferred from Optum to accounts controlled by Lohan.
+
+Court documents and statements presented during the proceedings illuminated the personal motivations behind the elaborate scheme. Lohan diverted the illicitly obtained funds for his personal enrichment, funding extensive home remodeling projects and acquiring various luxury items. Prosecutors strongly characterized Lohan's actions as being driven by "greed" and highlighted the severe "abuse of trust" inherent in his betrayal of corporate responsibilities. His role as a director meant he was entrusted with significant financial oversight, a trust he deliberately violated for personal financial gain.
+
+U.S. District Judge Patrick J. Schiltz presided over the sentencing. In addition to the 36-month prison term, Judge Schiltz mandated that Lohan serve three years of supervised release following his incarceration, a standard component of federal sentences for white-collar crimes aimed at monitoring post-release conduct. The ordered restitution and forfeiture aim to fully compensate Optum for the financial damages directly resulting from Lohan’s fraudulent activities and to seize the ill-gotten gains.
+
+During the investigation and subsequent legal proceedings, Optum confirmed its full cooperation with federal law enforcement agencies, assisting prosecutors in uncovering the extent of the fraud and securing a conviction. Lohan’s legal counsel, Paul D. Danczyk, had presented arguments for a more lenient sentence, citing Lohan’s expression of remorse and his cooperation with authorities after his arrest. However, the court's decision reflected the serious nature and duration of the fraud, emphasizing the need for accountability and deterrence.
+
+This sentencing serves as a clear indication of the rigorous legal stance against corporate fraud and the exploitation of fiduciary duties for personal financial benefit. It reinforces the importance of robust internal controls and ethical conduct within large organizations, sending a message that such breaches of trust carry significant punitive consequences. The resolution of this case underscores the ongoing efforts by law enforcement to combat financial crime within the corporate sector.
