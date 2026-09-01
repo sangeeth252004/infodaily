@@ -1,0 +1,22 @@
+---
+title: "Prime Minister Modi Reiterates Call to Curtail Non-Essential Foreign Spending"
+date: "2026-09-01T21:37:40.884Z"
+slug: "prime-minister-modi-reiterates-call-to-curtail-non-essential-foreign-spending"
+category: "technology"
+description: "Prime Minister Narendra Modi has reiterated his call for citizens to reduce unnecessary foreign expenditures on gold, weddings, and holidays to bolster the domestic economy and conserve foreign exchange."
+keywords: "PM Modi, Narendra Modi, Indian economy, gold imports, foreign weddings, foreign holidays, domestic tourism, Vocal for Local, current account deficit, India economic policy"
+---
+
+Prime Minister Narendra Modi has recently reiterated his appeal to Indian citizens to exercise discretion in spending on non-essential foreign purchases, specifically highlighting gold, overseas weddings, and international holidays. The Prime Minister's message underscores a broader government initiative to strengthen the domestic economy, reduce the current account deficit (CAD), and conserve foreign exchange. This renewed emphasis builds on a similar call he made in July 2023 during the inauguration of the International Exhibition-cum-Convention Centre (IECC) complex, 'Bharat Mandapam', in Delhi, where he urged affluent families to prioritize domestic services.
+
+The Prime Minister's recurring call is rooted in economic considerations. Large expenditures on foreign goods and services contribute to a significant outflow of foreign currency, impacting India's trade balance and potentially weakening the rupee. By encouraging citizens to redirect their spending towards domestic alternatives, the government aims to stimulate local industries, create jobs, and foster economic growth within the country. This aligns with the "Vocal for Local" campaign, which promotes indigenous products and services.
+
+Addressing specific areas of concern, the Prime Minister emphasized:
+
+*   **Gold Purchases:** India is one of the world's largest importers of gold. In the fiscal year 2022-23, India's gold imports amounted to $36.8 billion. While gold holds cultural and investment significance, a substantial portion of these imports represents a drain on foreign exchange reserves. The call implicitly encourages a re-evaluation of the necessity and volume of such purchases.
+*   **Foreign Weddings:** The trend of affluent Indian families hosting weddings abroad has seen considerable growth. Industry estimates suggest that foreign weddings alone constitute a $10-15 billion market for Indian families, funnelling substantial funds out of the country. PM Modi’s message advocates for a "Wed in India" approach, promoting local venues, event organizers, and service providers.
+*   **International Holidays:** Outbound tourism by Indian citizens also contributes significantly to foreign exchange expenditure. While acknowledging the importance of leisure, the Prime Minister encourages a "Holiday in India" mindset, urging citizens to explore the diverse tourism destinations within the country. This supports the domestic tourism sector, including hotels, transport, and hospitality services.
+
+The government has been actively promoting domestic tourism through initiatives like "Dekho Apna Desh" (Explore Your Own Country), which aims to boost local travel and related industries. Furthermore, efforts are underway to enhance India's capabilities as a global destination for Meetings, Incentives, Conferences, and Exhibitions (MICE) tourism, providing world-class infrastructure and services to attract both domestic and international events. The Bharat Mandapam itself, where the initial call was made, is a key component of this strategy.
+
+Economic analysts observe that a sustained shift in consumer behaviour, as advocated by the Prime Minister, could have a measurable positive impact on India's current account balance and overall macroeconomic stability. The government continues to monitor trade figures and foreign exchange trends, with these appeals forming a part of broader policy efforts to enhance economic resilience and self-reliance. The long-term implications will depend on the extent to which these calls translate into altered spending patterns among the public.
