@@ -1,0 +1,22 @@
+---
+title: "Pakistan Cricket Board Faces Scrutiny Over Leadership and Coaching Changes"
+date: "2026-09-04T06:57:01.139Z"
+slug: "pakistan-cricket-board-faces-scrutiny-over-leadership-and-coaching-changes"
+category: "technology"
+description: "The Pakistan Cricket Board (PCB), led by Chairman Mohsin Naqvi, has drawn significant criticism from former cricketers and analysts regarding its recent decisions concerning captaincy and coaching staff, raising concerns about team stability."
+keywords: "Pakistan Cricket Board, PCB, Mohsin Naqvi, Pakistan cricket team, Babar Azam, Shaheen Shah Afridi, Gary Kirsten, Jason Gillespie, cricket news, sports management, leadership changes, cricket criticism"
+---
+
+The Pakistan Cricket Board (PCB) has recently faced considerable scrutiny and criticism from former cricketers, analysts, and commentators regarding its management and leadership decisions. The criticisms, largely directed at the board under the chairmanship of Mohsin Naqvi, center on perceived instability in captaincy appointments and frequent changes within the coaching staff. These developments have fueled concerns about the potential impact on the national team's performance and morale, particularly ahead of major international tournaments.
+
+The recent controversy escalated with a series of significant announcements and reversals concerning key leadership roles within the national squad. On March 29, 2024, the PCB announced the re-appointment of Babar Azam as the white-ball captain for both One Day Internationals (ODIs) and T20 Internationals (T20Is). This decision followed a period where Shaheen Shah Afridi had held the T20I captaincy for a brief tenure, leading the team in a single series against New Zealand in January 2024. Shaheen Afridi's removal from the role after just one series drew considerable attention and questioning from various cricketing circles. Shan Masood continues to lead the Test team.
+
+Critics have highlighted a pattern of frequent changes at the helm, which they argue contributes to a lack of stability and a clear long-term vision for the team. This sentiment has been reinforced by remarks from Chairman Mohsin Naqvi, who, following a meeting with players in Kakul on April 7, 2024, commented on the team's performance, stating that some players were not performing and hinting at "major surgeries" if the team did not improve. These comments were made despite the team's participation in an army fitness camp in preparation for upcoming international commitments, including the ICC Men's T20 World Cup 2024.
+
+*   **Captaincy Reversal:** Babar Azam was reinstated as white-ball captain on March 29, 2024, having previously stepped down from all formats in November 2023 after the ICC Cricket World Cup.
+*   **Shaheen Afridi's Tenure:** Shaheen Shah Afridi led the T20I side for one series (five matches) against New Zealand, losing 4-1.
+*   **New Coaching Staff:** The PCB announced new head coaches for the national team: Gary Kirsten (South Africa) for white-ball formats and Jason Gillespie (Australia) for red-ball formats. Azhar Mahmood was appointed as the assistant coach across all formats. These appointments were made public in April 2024, following a period of discussions and delays.
+
+Former cricketers and commentators have voiced their displeasure with the board's operational style. Former Pakistan cricketer Kamran Akmal stated in a local media interview that the constant changes in leadership and coaching staff were damaging to the team's reputation. Similarly, Mohammad Hafeez, who recently served as Director of Cricket for the national team, criticized the process of captaincy changes, suggesting a lack of professionalism. Aaqib Javed, another former Pakistan player, also expressed concerns over the perceived indecisiveness within the PCB.
+
+The board's decisions and subsequent criticisms underscore a challenging period for Pakistan cricket. The frequent leadership changes, coupled with public statements about player performance and potential overhauls, contribute to an environment of uncertainty. As the national team prepares for crucial international engagements, including the T20 World Cup, stakeholders continue to monitor the impact of these management decisions on team cohesion and on-field results. The PCB has not issued a detailed public response addressing the specific criticisms, beyond the announcements of the structural changes themselves.
