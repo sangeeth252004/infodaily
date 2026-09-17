@@ -1,0 +1,20 @@
+---
+title: "Maratha Activist Jarange Patil Ends Fast, Grants Maharashtra Government Three-Month Ultimatum"
+date: "2026-09-17T02:24:35.322Z"
+slug: "maratha-activist-jarange-patil-ends-fast-grants-maharashtra-government-three-month-ultimatum"
+category: "technology"
+description: "Maratha activist Manoj Jarange Patil concluded his 20-day hunger strike in Jalna, Maharashtra, giving the state government three months to address demands for Maratha reservation under the OBC category."
+keywords: "Jarange Patil, Maratha reservation, Maharashtra government, hunger strike, OBC, Antarwali Sarati, Jalna, Kunbi certificates, social justice"
+---
+
+Maratha reservation activist Manoj Jarange Patil on Saturday, November 4, 2023, ended his 20-day hunger strike at Antarwali Sarati village in Maharashtra's Jalna district. The decision followed extensive discussions with a state government delegation and comes with a clear ultimatum: the Maharashtra government has three months to implement the demands for Maratha reservation under the Other Backward Classes (OBC) category.
+
+Patil initiated his fast on October 25, 2023, pressing for the issuance of Kunbi caste certificates to eligible members of the Maratha community. This move, if enacted, would facilitate the inclusion of Marathas within the existing OBC reservation framework, allowing them to avail benefits typically extended to OBCs. The demand for Maratha reservation has been a long-standing and contentious issue in Maharashtra, marked by widespread protests, political debates, and legal challenges over several decades.
+
+Patil broke his fast by accepting a glass of juice from a young girl from the Maratha community, an act witnessed by hundreds gathered at the protest site. His decision to pause the agitation followed repeated assurances from the state government, conveyed by a delegation that included cabinet ministers and other officials who had engaged in dialogue with Patil and his representatives. Patil publicly stated that the government had requested additional time to devise a concrete resolution, pledging to work towards the implementation of the demands within the stipulated three-month period.
+
+The core of the current demand centers on the expeditious issuance of Kunbi caste certificates to Marathas, particularly those from the Marathwada region, based on historical records. Proponents of the reservation argue that historical evidence supports the classification of certain Maratha sub-groups as Kunbis, an OBC community. Previous attempts by the state government to grant reservation to the Maratha community have faced legal hurdles. Notably, in May 2021, the Supreme Court of India struck down a 2018 Maharashtra law providing reservation to Marathas, citing that it exceeded the constitutionally mandated 50% quota limit.
+
+The Maratha community constitutes a significant demographic and electoral bloc in Maharashtra, lending substantial political weight to their demands. The prolonged agitation has garnered widespread support across various parts of the state and has, at times, led to disruptions. The three-month window presents the Maharashtra government, led by Chief Minister Eknath Shinde, with a critical period to navigate the complex social, legal, and political dimensions of the reservation issue, aiming to balance the aspirations of the Maratha community with existing reservation frameworks and legal precedents.
+
+As the government's three-month deadline commences, public attention will remain focused on the strategies and concrete steps undertaken to address the Maratha reservation issue. This period is anticipated to involve detailed legal consultations, verification of historical records, and potential legislative or executive action. Patil has indicated that he will closely monitor the government's progress, and future actions by the Maratha community will be contingent upon the tangible measures implemented within the defined timeframe.
