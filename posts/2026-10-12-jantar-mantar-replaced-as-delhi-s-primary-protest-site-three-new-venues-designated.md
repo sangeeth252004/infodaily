@@ -1,0 +1,23 @@
+---
+title: "Jantar Mantar Replaced as Delhi's Primary Protest Site; Three New Venues Designated"
+date: "2026-10-12T23:21:55.403Z"
+slug: "jantar-mantar-replaced-as-delhi-s-primary-protest-site-three-new-venues-designated"
+category: "technology"
+description: "Delhi Police have de-designated Jantar Mantar as a protest hub, naming Ramlila Maidan, Burari Ground, and Dwarka Sector 12 as the new approved locations for demonstrations in the capital."
+keywords: "Jantar Mantar, Delhi protests, protest venues, Ramlila Maidan, Burari Ground, Dwarka, freedom of assembly, Delhi Police, public demonstrations"
+---
+
+Delhi Police have officially de-designated Jantar Mantar as the primary site for protests and public demonstrations in the national capital, according to a recent notification. The move shifts the designated venues for public assembly to three new locations: Ramlila Maidan (near Ajmeri Gate), Burari Ground in North Delhi, and Sector 12 in Dwarka. This development marks a significant change for activists and organizations planning to voice grievances in Delhi, redirecting them from a historically central and prominent location.
+
+For decades, Jantar Mantar, situated in the heart of New Delhi, has served as a focal point for a diverse array of protests, dharnas, and hunger strikes. Its proximity to Parliament House, key government ministries, and media houses made it a strategically important location for movements seeking to garner immediate attention and exert pressure on policymakers. The site gained prominence following earlier restrictions on protests at India Gate and Vijay Chowk, becoming a symbol of democratic dissent and a frequent backdrop for national news.
+
+The decision to shift protest activities from Jantar Mantar follows long-standing discussions and judicial interventions regarding public inconvenience, traffic congestion, and noise pollution in the high-security Lutyens' Delhi zone. In 2018, the Supreme Court, in the case of Mazdoor Kisan Shakti Sangathan vs Union of India, had lifted a ban on protests at Jantar Mantar but urged authorities to frame guidelines for public demonstrations. This directive aimed to balance the fundamental right to protest with the right of citizens to free movement and peace. Authorities have consistently cited the need to manage public order and minimize disruption to daily life in the heavily populated and sensitive areas around the historic observatory.
+
+The newly designated venues aim to address these concerns by offering larger, more isolated spaces with potential for better management of crowds and logistics. The identified locations are:
+*   **Ramlila Maidan (near Ajmeri Gate):** A well-known large ground with a history of hosting major political rallies and gatherings. It offers considerable space and some existing infrastructure, making it suitable for large assemblies.
+*   **Burari Ground (North Delhi):** Located in a less central area, this ground has been utilized for larger gatherings and temporary camps, particularly during significant protest movements, such as past farmer protests. Its greater distance from the city center may present logistical challenges for some participants.
+*   **Sector 12, Dwarka:** Situated in Southwest Delhi, this location provides another large open space, further removed from the city's administrative and commercial core. Like Burari, it offers distance from central hubs, potentially reducing immediate public impact but also limiting direct visibility to government offices and major media houses.
+
+The shift is expected to have several implications for future protest movements. Organizers will now need to factor in increased travel times, particularly for demonstrations at Burari and Dwarka, which are significantly farther from central government offices and media hubs compared to Jantar Mantar. This could impact participant turnout and the immediate media visibility of protests. Additionally, the new locations may require enhanced logistical planning for amenities, security, and public address systems, depending on the existing infrastructure at each site.
+
+Authorities maintain that the new policy seeks to uphold the fundamental right to peaceful assembly while ensuring public order and convenience for all citizens. The implementation of these new designated zones will be closely monitored by civil society groups and protest organizers. The effectiveness of these sites in facilitating democratic expression, alongside managing urban challenges, remains to be observed as future demonstrations unfold. Further guidelines regarding the permitting process and management of events at these new locations are anticipated.
