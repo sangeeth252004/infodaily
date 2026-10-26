@@ -1,0 +1,18 @@
+---
+title: "Jamia Millia Islamia Announces Resumption of Student Union Elections After Two Decades"
+date: "2026-10-26T05:35:35.679Z"
+slug: "jamia-millia-islamia-announces-resumption-of-student-union-elections-after-two-decades"
+category: "technology"
+description: "Jamia Millia Islamia has announced the resumption of student union elections after a 20-year hiatus, following persistent student demands. The decision comes with conditions, which have been rejected by protesting student groups."
+keywords: "Jamia Millia Islamia, JMI, student union elections, university elections, Delhi, student protest, higher education, India, Lyngdoh Committee"
+---
+
+Jamia Millia Islamia (JMI) has announced its decision to resume student union elections, ending a two-decade suspension. The university administration recently issued a notification outlining the process for holding these elections, which were last conducted in 2006. This development follows sustained calls from student bodies and previous directives from the Delhi High Court.
+
+The last student union elections at JMI took place in 2006. Following these elections, campus activities saw instances of violence and disciplinary issues, leading to the suspension of the student union election process. The recent notification, issued by the JMI Registrar, states that a new draft constitution for the student union must first be prepared and subsequently approved. This draft will require the endorsement of both the university's Academic Council and Executive Council. Once the constitution is formally approved, the university mandates that elections be conducted within 15 days.
+
+While the announcement addresses a long-standing demand, it has been met with rejection from a significant section of JMI students. Student groups, who have been actively protesting for several weeks to advocate for the immediate resumption of elections, view the university's condition of first framing and approving a new constitution as a delaying tactic. These students are demanding that elections proceed without precondition, based on existing guidelines. Specifically, they reference the recommendations of the Lyngdoh Committee, which provides a comprehensive framework for student elections in Indian universities. Student leaders have indicated their intention to continue their agitation until their demands for immediate elections are met.
+
+The absence of student union elections at JMI for two decades has meant a lack of formal, elected student representation in university governance. The call for their resumption has gained momentum over the years, often involving student activism, demonstrations, and legal interventions. The Delhi High Court had previously directed the university to formulate a policy for conducting these elections, underscoring the legal imperative behind the move. The resumption of student union elections is viewed by some as a step towards enhancing student participation in institutional decision-making and fostering a democratic environment on campus.
+
+As the JMI administration proceeds with the initial stages of drafting a new student union constitution, student groups on campus have pledged to continue their protests. Their objective remains the immediate and unconditional commencement of the election process. The situation is expected to remain dynamic, with ongoing discussions and potential negotiations between the university authorities and its student body regarding the exact modalities and timeline for these elections.
