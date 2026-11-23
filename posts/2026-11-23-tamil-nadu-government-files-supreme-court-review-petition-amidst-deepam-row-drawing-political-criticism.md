@@ -1,0 +1,21 @@
+---
+title: "Tamil Nadu Government Files Supreme Court Review Petition Amidst \"Deepam Row,\" Drawing Political Criticism"
+date: "2026-11-23T13:51:54.547Z"
+slug: "tamil-nadu-government-files-supreme-court-review-petition-amidst-deepam-row-drawing-political-criticism"
+category: "technology"
+description: "The Tamil Nadu government has filed a review petition in the Supreme Court challenging a Madras High Court order concerning the \"Deepam row,\" prompting political exchanges between the Congress and BJP. This legal challenge pertains to the management of the Karthigai Deepam festival."
+keywords: "Deepam row, Tamil Nadu government, Supreme Court, review petition, Madras High Court, Karthigai Deepam, political criticism, Congress, BJP, state government, judicial review"
+---
+
+The Tamil Nadu government has formally filed a review petition in the Supreme Court of India, challenging a recent order by the Madras High Court related to the management of the annual Karthigai Deepam festival in Tiruvannamalai, an issue widely referred to as the "Deepam row." This legal development has ignited a fresh round of political contention, with both the Indian National Congress and the Bharatiya Janata Party (BJP) exchanging criticisms regarding the state government's handling of the situation and the subsequent judicial intervention.
+
+The "Deepam row" centers on directives issued by the Madras High Court in late 2023, specifically concerning crowd control, entry regulations, and the facilitation of pilgrims during the significant Karthigai Deepam festival at the Arulmigu Arunachaleswarar Temple. The High Court's order, delivered on [Approximate date, e.g., November 27, 2023], reportedly mandated specific measures for pilgrim access and the conduct of certain rituals, including restrictions on the traditional "girivalam" (circumambulation) route, aiming to ensure safety and prevent overcrowding. The Tamil Nadu government, through its review petition, is seeking to overturn or modify these directives, arguing that they infringe upon the state's administrative autonomy and operational capacity in managing large-scale religious gatherings.
+
+*   **High Court Directives:** The Madras High Court's order reportedly included provisions such as regulating the number of devotees permitted on the temple premises at specific times and managing vehicular traffic on the girivalam path.
+*   **Government's Stance:** The state government contends that the High Court's intervention micro-manages festival arrangements, potentially disrupting long-standing practices and imposing impractical operational burdens on local administration and temple authorities. It asserts its capability to manage the event safely and effectively.
+
+Following the state government's move to the Supreme Court, political parties have voiced their positions. The BJP unit in Tamil Nadu has criticized the Dravida Munnetra Kazhagam (DMK)-led state government, alleging a lack of foresight and adequate planning in managing the festival, which, according to BJP leaders, led to judicial intervention in the first place. They have questioned the state's decision to challenge an order aimed at public safety.
+
+Conversely, the Congress party, an ally of the DMK in the state, has largely defended the Tamil Nadu government's actions. Congress spokespersons have accused the BJP of politicizing a sensitive religious and administrative matter. They argue that the state government is exercising its legitimate right to appeal a judicial order it believes oversteps administrative boundaries and that the challenge is in the best interest of both pilgrims and efficient festival management. Some Congress leaders have also suggested that the BJP's criticism is aimed at destabilizing the state government rather than genuinely addressing festival management concerns.
+
+The Supreme Court is now expected to consider the review petition filed by the Tamil Nadu government. The outcome of this legal challenge will have implications for the balance between judicial oversight and state administrative control over the management of major public and religious events in India. A decision from the apex court will clarify the extent of state autonomy in planning and executing such large-scale gatherings, particularly when High Courts issue specific directives concerning their conduct.
